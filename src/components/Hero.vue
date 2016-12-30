@@ -5,7 +5,7 @@
                 <div class="container">
                     <div class="nav-left">
                         <a href="." class="nav-item">
-                            <img src="logo.svg" alt="Comparison of Front-End Frameworks">
+                            <img src="/static/images/logo.svg" alt="Comparison of Front-End Frameworks">
                         </a>
                     </div>
                     <span @click="toggle()" :class="{ 'is-active' : opened }" class="nav-toggle">
@@ -27,7 +27,7 @@
         <div class="hero-body has-text-centered">
             <div class="container">
                 <h1 class="title">
-                    <img src="logo.svg" alt="Comparison of Front-End Frameworks"/>
+                    <img src="/static/images/logo.svg" alt="Comparison of Front-End Frameworks"/>
                     Comparison of Front-End Frameworks
                 </h1>
                 <h2 class="subtitle">
@@ -62,12 +62,16 @@
         }
     }
 
+
 </script>
 <style>
-    h1.title img {
-        display: block;
-        height: 100px;
-        margin: auto auto 40px;
-    }
+.nav-item img {
+  height: 50px;
+}
 
+h1.title img {
+  display: block;
+  height: 100px;
+  margin: auto auto 40px;
+}
 </style>

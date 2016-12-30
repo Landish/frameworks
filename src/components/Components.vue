@@ -1,6 +1,6 @@
 <template>
     <div class="section">
-        <div class="container">
+        <div class="container is-x">
             <h2 id="components" class="title">Components</h2>
             <div :class="{ 'is-hidden': ready }" class="notification">
                 Loading ...
