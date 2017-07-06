@@ -1,28 +1,29 @@
 export const Kube = {
-  'name': 'Kube',
-  'slug': 'kube',
-  'description': 'Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.',
-  'url': 'https://imperavi.com/kube/',
-  'documentation': 'https://imperavi.com/kube/docs/',
-  'github': 'https://github.com/imperavi/kube',
-  'icons': {
-    'name': 'Font Awesome (Optional)',
-    'url': 'http://fontawesome.io/'
+  name: 'Kube',
+  slug: 'kube',
+  description:
+    'Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.',
+  url: 'https://imperavi.com/kube/',
+  documentation: 'https://imperavi.com/kube/docs/',
+  github: 'https://github.com/imperavi/kube',
+  icons: {
+    name: 'Font Awesome (Optional)',
+    url: 'http://fontawesome.io/'
   },
-  'browsers': {
-    'chrome': 'Latest',
-    'safari': 'Latest',
-    'firefox': 'Latest',
-    'opera': 'Latest',
-    'ie': 'IE10+',
-    'ios': 'Latest',
-    'android': 'Latest'
+  browsers: {
+    chrome: 'Latest',
+    safari: 'Latest',
+    firefox: 'Latest',
+    opera: 'Latest',
+    ie: 'IE10+',
+    ios: 'Latest',
+    android: 'Latest'
   },
-  'version': '6.0.1',
-  'css': 'SASS',
-  'js': 'https://imperavi.com/kube/docs/custom-plugins/',
-  'stats': {
-    'stars': '850+',
-    'forks': '150+'
+  version: '6.0.1',
+  css: 'SASS',
+  js: 'https://imperavi.com/kube/docs/custom-plugins/',
+  stats: {
+    stars: '850+',
+    forks: '150+'
   }
-}
+};

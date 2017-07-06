@@ -10,9 +10,11 @@ a {
   height: 50px;
   margin-right: 10px;
 }
+
 .nav-item .icon {
   margin-right: 5px;
 }
+
 h1.title img {
   display: block;
   height: 100px;
@@ -195,7 +197,6 @@ th.is-first {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
-
 }
 
 @media (max-width: 480px) {

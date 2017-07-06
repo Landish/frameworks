@@ -1,5 +1,4 @@
 class Collection {
-
   constructor(data = []) {
     this.data = data;
     this.count = data.length;
@@ -10,7 +9,7 @@ class Collection {
   }
 
   add(item) {
-    if(!this.has(item)) {
+    if (!this.has(item)) {
       this.count = this.count + 1;
       this.data.push(item);
     }
@@ -18,7 +17,7 @@ class Collection {
   }
 
   remove(item) {
-    if(this.has(item)) {
+    if (this.has(item)) {
       this.data.splice(this.data.indexOf(item), 1);
       this.count = this.count - 1;
     }
@@ -32,7 +31,6 @@ class Collection {
   size() {
     return this.count;
   }
-
 }
 
 export default Collection;

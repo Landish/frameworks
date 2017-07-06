@@ -3,7 +3,7 @@ import React from 'react';
 const Icon = ({ name }) => {
   return (
     <span className="icon is-small">
-      <i className={`fa fa-${name}`}/>
+      <i className={`fa fa-${name}`} />
     </span>
   );
 };
