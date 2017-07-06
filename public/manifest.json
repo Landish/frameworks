@@ -1,0 +1,15 @@
+{
+  "short_name": "Front-end Frameworks",
+  "name": "Comparison of Front-end Frameworks",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#3273dc",
+  "background_color": "#ffffff"
+}
