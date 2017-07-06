@@ -59,7 +59,7 @@ But, before you start contributing to this project. First clone this repo and in
 $ git clone git@github.com:Landish/frameworks.git
 $ cd frameworks
 $ npm install
-$ npm run dev
+$ npm run start
 ```
 
 Before sending pull request, please run the production build script.
