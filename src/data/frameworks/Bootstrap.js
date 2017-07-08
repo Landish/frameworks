@@ -26,8 +26,8 @@ export const Bootstrap3 = {
   css: 'LESS',
   js: 'http://getbootstrap.com/javascript/',
   stats: {
-    stars: '104K+',
-    forks: '47K+'
+    stars: '112K+',
+    forks: '52K+'
   }
 };
 
@@ -58,7 +58,7 @@ export const Bootstrap4 = {
   css: 'SASS',
   js: 'https://v4-alpha.getbootstrap.com/getting-started/javascript/',
   stats: {
-    stars: '104K+',
-    forks: '47K+'
+    stars: '112K+',
+    forks: '52K+'
   }
 };

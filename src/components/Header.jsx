@@ -2,6 +2,8 @@ import React from 'react';
 import logo from '../assets/logo.svg';
 import Icon from './Icon';
 
+const VERSION = '1.0.0';
+
 const Header = ({ onNavToggle, isMenuOpened }) => {
   return (
     <section className="hero is-info is-medium">
@@ -51,7 +53,8 @@ const Header = ({ onNavToggle, isMenuOpened }) => {
                 className="nav-item"
               >
                 <Icon name="list-ul" />
-                Changelog
+                Changelog{' '}
+                <span className="tag is-white is-small">{VERSION}</span>
               </a>
             </div>
           </div>

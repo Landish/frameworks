@@ -19,11 +19,11 @@ export const Kube = {
     ios: 'Latest',
     android: 'Latest'
   },
-  version: '6.0.1',
+  version: '6.5.2',
   css: 'SASS',
   js: 'https://imperavi.com/kube/docs/custom-plugins/',
   stats: {
-    stars: '850+',
-    forks: '150+'
+    stars: '1K+',
+    forks: '190+'
   }
 };

@@ -26,11 +26,11 @@ export const Pure = {
     android: '4+',
     details: 'http://primercss.io/about/#browser-support'
   },
-  version: '0.6.2',
+  version: '1.0.0',
   css: 'CSS',
   js: false,
   stats: {
-    stars: '15K+',
-    forks: '1.8K+'
+    stars: '17K+',
+    forks: '1.9K+'
   }
 };

@@ -21,11 +21,11 @@ export const SemanticUI = {
     android: 'Latest',
     details: 'https://github.com/Semantic-Org/Semantic-UI#browser-support'
   },
-  version: '2.2.7',
+  version: '2.2.10',
   css: 'LESS',
   js: 'http://semantic-ui.com/behaviors/api.html',
   stats: {
-    stars: '30K+',
-    forks: '3.4K+'
+    stars: '35K+',
+    forks: '3.9K+'
   }
 };

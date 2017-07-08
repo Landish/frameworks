@@ -22,12 +22,12 @@ export const UIkit2 = {
     android: 'Latest',
     details: 'https://github.com/uikit/uikit#browser-support'
   },
-  version: '2.27.2',
+  version: '2.27.4',
   css: 'LESS',
   js: 'https://getuikit.com/v2/docs/documentation_javascript.html',
   stats: {
-    stars: '8K+',
-    forks: '1.5K+'
+    stars: '9.9K+',
+    forks: '1.7K+'
   }
 };
 
@@ -55,11 +55,11 @@ export const UIkit3 = {
     android: 'Latest',
     details: 'https://github.com/uikit/uikit#browser-support'
   },
-  version: '3.0.0-Beta.4',
+  version: '3.0.0-Beta.25',
   css: 'LESS',
   js: 'https://getuikit.com/docs/javascript',
   stats: {
-    stars: '8K+',
-    forks: '1.5K+'
+    stars: '9.9K+',
+    forks: '1.7K+'
   }
 };

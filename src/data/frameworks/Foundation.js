@@ -54,11 +54,11 @@ export const Foundation6 = {
     android: 'Latest',
     details: 'https://foundation.zurb.com/sites/docs/compatibility.html'
   },
-  version: '6.3.0',
+  version: '6.4.1',
   css: 'SASS',
   js: 'https://foundation.zurb.com/sites/docs/javascript.html',
   stats: {
-    stars: '24K+',
+    stars: '25K+',
     forks: '5K+'
   }
 };

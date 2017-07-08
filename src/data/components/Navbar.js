@@ -3,7 +3,7 @@ export default {
   supports: {
     'bootstrap-3': 'http://getbootstrap.com/components/#navbar',
     'bootstrap-4': 'https://v4-alpha.getbootstrap.com/components/navbar/',
-    bulma: 'http://bulma.io/documentation/components/nav/',
+    bulma: 'http://bulma.io/documentation/components/navbar/',
     materialize: 'http://materializecss.com/navbar.html',
     'uikit-2': 'https://getuikit.com/v2/docs/navbar.html',
     'uikit-3': 'https://getuikit.com/docs/navbar',
