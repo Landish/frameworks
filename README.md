@@ -1,5 +1,8 @@
 # Comparison of Front-End Frameworks
 
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
+
 This repository displays popular front-end frameworks with brief information and their components.
 
 [Comparison of Front-End Frameworks](https://landish.github.io/frameworks/)
