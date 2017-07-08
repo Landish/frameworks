@@ -1,6 +1,7 @@
 {
   "name": "frameworks",
   "version": "0.1.0",
+  "homepage": "https://landish.github.io/frameworks",
   "private": true,
   "dependencies": {
     "bulma": "^0.4.3",
