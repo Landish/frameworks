@@ -1,5 +1,5 @@
 <p align="center">
-<a target="_blank" href="https://landish.github.io/frameworks/"><img src="https://raw.githubusercontent.com/Landish/frameworks/master/banner.png" alt="Comparison of Front-End Frameworks" /></a>
+<a href="https://landish.github.io/frameworks/"><img src="https://raw.githubusercontent.com/Landish/frameworks/master/banner.png" alt="Comparison of Front-End Frameworks" /></a>
 </p>
 
 <p align="center">
