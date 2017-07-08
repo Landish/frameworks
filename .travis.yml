@@ -1,19 +1,11 @@
-sudo: false
 language: node_js
+node_js:
+  - 8
 cache:
   directories:
-    - "node_modules"
-
-node_js:
-  - "8"
-
-branches:
-  only:
-    - master
-
+    - node_modules
 before_script:
-  - npm install -g jest
-  - npm install
-
+  - npm install react-scripts
 script:
-  - npm run test
+  - npm test
+  - npm run build
