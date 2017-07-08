@@ -1,8 +1,13 @@
-# Comparison of Front-End Frameworks
+<p align="center">
+<img src="https://raw.githubusercontent.com/Landish/frameworks/master/banner.png" alt="Comparison of Front-End Frameworks" />
+</p>
 
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Build Status](https://travis-ci.org/Landish/frameworks.svg?branch=master)](https://travis-ci.org/Landish/frameworks)
-[![license](https://img.shields.io/github/license/Landish/frameworks.svg)](https://github.com/Landish/frameworks/blob/master/LICENSE)
+<p align="center">
+<a href="https://travis-ci.org/Landish/frameworks"><img src="https://travis-ci.org/Landish/frameworks.svg?branch=master" alt="Build Status" /></a>
+<a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="styled with prettier" /></a>
+<a href="https://facebook.github.io/react/"><img src="https://img.shields.io/badge/Built-with%20React-blue.svg"  alt="Built with React" /></a>
+<a href="https://github.com/Landish/frameworks/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Landish/frameworks.svg" alt="License - MIT" /></a>
+</p>
 
 This repository displays popular front-end frameworks with brief information and their components.
 
