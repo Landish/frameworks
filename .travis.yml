@@ -12,8 +12,8 @@ branches:
     - master
 
 before_script:
+  - npm install -g jest
   - npm install
 
 script:
   - npm run test
-  - npm run build
