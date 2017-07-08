@@ -62,12 +62,6 @@ $ npm install
 $ npm run start
 ```
 
-Before sending pull request, please run the production build script.
-
-```
-$ npm run build
-```
-
 ## Licence
 
 [The MIT License (MIT)](https://opensource.org/licenses/MIT).
