@@ -24,7 +24,9 @@ const Chooser = ({ frameworks, visible, onClick }) => {
                 <Icon
                   name={visible.has(framework.slug) ? 'check-square' : 'square'}
                 />
-                {framework.name}
+                <span>
+                  {framework.name}
+                </span>
               </button>
             );
           })}

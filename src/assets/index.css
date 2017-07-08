@@ -138,6 +138,7 @@ pre code {
   margin-bottom: 5px;
   margin-right: 5px;
   padding-top: .3em;
+  line-height: 20px;
 }
 
 .button.is-checkbox .icon:first-child:last-child {

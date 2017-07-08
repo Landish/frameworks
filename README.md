@@ -1,7 +1,8 @@
 # Comparison of Front-End Frameworks
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-
+[![Build Status](https://travis-ci.org/Landish/frameworks.svg?branch=master)](https://travis-ci.org/Landish/frameworks)
+[![license](https://img.shields.io/github/license/Landish/frameworks.svg)](https://github.com/Landish/frameworks/blob/master/LICENSE)
 
 This repository displays popular front-end frameworks with brief information and their components.
 

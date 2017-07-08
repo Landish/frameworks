@@ -10,4 +10,3 @@ before_script:
   - npm install jest-cli --save
 script:
   - npm test
-  - npm run build
