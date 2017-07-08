@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Landish/frameworks/master/banner.png" alt="Comparison of Front-End Frameworks" />
+<a target="_blank" href="https://landish.github.io/frameworks/"><img src="https://raw.githubusercontent.com/Landish/frameworks/master/banner.png" alt="Comparison of Front-End Frameworks" /></a>
 </p>
 
 <p align="center">
@@ -8,6 +8,8 @@
 <a href="https://facebook.github.io/react/"><img src="https://img.shields.io/badge/Built-with%20React-blue.svg"  alt="Built with React" /></a>
 <a href="https://github.com/Landish/frameworks/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Landish/frameworks.svg" alt="License - MIT" /></a>
 </p>
+
+## 
 
 This repository displays popular front-end frameworks with brief information and their components.
 
