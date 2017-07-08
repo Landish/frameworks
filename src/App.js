@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Header from './components/Header';
 import Chooser from './components/Chooser';
-import Frameworks from './components/Frameworks';
+import FrameworksList from './components/FrameworksList';
 import Footer from './components/Footer';
 import ComponentsList from './components/ComponentsList';
 import Collection from './core/Collection';
@@ -55,7 +55,7 @@ class App extends Component {
           frameworks={this.state.frameworks}
           visible={this.state.visible}
         />
-        <Frameworks
+        <FrameworksList
           frameworks={this.state.frameworks}
           visible={this.state.visible}
         />
