@@ -1,6 +1,7 @@
 export const Kube = {
   name: 'Kube',
   slug: 'kube',
+  install: 'kube',
   description:
     'Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.',
   url: 'https://imperavi.com/kube/',

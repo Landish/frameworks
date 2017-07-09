@@ -1,6 +1,7 @@
 export const SemanticUI = {
   name: 'Semantic UI',
   slug: 'semantic-ui',
+  install: 'semantic-ui',
   description:
     'Semantic is a UI component framework based around useful principles from natural language',
   url: 'http://semantic-ui.com/',

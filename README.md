@@ -6,6 +6,7 @@
 <a href="https://github.com/Landish/frameworks/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" /></a>
 <a href="https://travis-ci.org/Landish/frameworks"><img src="https://travis-ci.org/Landish/frameworks.svg?branch=master" alt="Build Status" /></a>
 <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="styled with prettier" /></a>
+<a href="https://bulma.io"><img src="https://img.shields.io/badge/Built-with%20Bulma-00d1b2.svg"  alt="Built with Bulma" /></a>
 <a href="https://facebook.github.io/react/"><img src="https://img.shields.io/badge/Built-with%20React-blue.svg"  alt="Built with React" /></a>
 <a href="https://github.com/Landish/frameworks/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Landish/frameworks.svg" alt="License - MIT" /></a>
 </p>
@@ -24,6 +25,7 @@ This repository displays popular front-end frameworks with brief information and
 * [Bulma](http://bulma.io/)
 * [Foundation 5](http://foundation.zurb.com/sites/docs/v/5.5.3/)
 * [Foundation 6](http://foundation.zurb.com/)
+* [Ink Interface Kit](http://ink.sapo.pt/)
 * [Kube](https://imperavi.com/kube/)
 * [Materialize](http://materializecss.com/)
 * [UIKit 2](https://getuikit.com/v2/)
@@ -31,6 +33,7 @@ This repository displays popular front-end frameworks with brief information and
 * [Pure.css](http://purecss.io/)
 * [Primer](http://primercss.io/)
 * [Semantic UI](http://semantic-ui.com/)
+* [Spectre.css](https://picturepan2.github.io/spectre/index.html)
 
 ## List of Components
 

@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2017-06-09
+### Added
+- [Ink Interface Kit](http://ink.sapo.pt/)
+- [Spectre.css](https://picturepan2.github.io/spectre/index.html) to the list.
+- *Built with [Bulma](http://bulma.io)* badge.
+
+### Changed
+- `-S` flag moved at the end of the install commands.
+- `toInstall()` utility function.
+
 ## [1.0.0] - 2017-06-08
 ### Added
 - Breadcrumb component on [Bulma](http://bulma.io).

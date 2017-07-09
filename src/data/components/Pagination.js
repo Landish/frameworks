@@ -9,8 +9,10 @@ export default {
       'http://foundation.zurb.com/sites/docs/v/5.5.3/components/pagination.html',
     'foundation-6': 'http://foundation.zurb.com/sites/docs/pagination.html',
     kube: 'https://imperavi.com/kube/docs/pagination/',
+    ink: 'http://ink.sapo.pt/ui-elements/navigation/#pagination',
     materialize: 'http://materializecss.com/pagination.html',
     'uikit-2': 'https://getuikit.com/v2/docs/pagination.html',
-    'uikit-3': 'https://getuikit.com/docs/pagination'
+    'uikit-3': 'https://getuikit.com/docs/pagination',
+    spectre: 'https://picturepan2.github.io/spectre/components.html#pagination'
   }
 };

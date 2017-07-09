@@ -1,6 +1,7 @@
 export const Bulma = {
   name: 'Bulma',
   slug: 'bulma',
+  install: 'bulma',
   description: 'A modern CSS framework based on Flexbox',
   url: 'http://bulma.io/',
   documentation: 'http://bulma.io/documentation/overview/start/',

@@ -5,6 +5,7 @@ export default {
     bulma: 'http://bulma.io/documentation/components/card/',
     materialize: 'http://materializecss.com/cards.html',
     'uikit-3': 'https://getuikit.com/docs/card',
-    'semantic-ui': 'http://semantic-ui.com/views/card.html'
+    'semantic-ui': 'http://semantic-ui.com/views/card.html',
+    spectre: 'https://picturepan2.github.io/spectre/components.html#cards'
   }
 };

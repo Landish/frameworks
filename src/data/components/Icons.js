@@ -8,6 +8,7 @@ export default {
     materialize: 'http://materializecss.com/icons.html',
     'uikit-2': 'https://getuikit.com/v2/docs/icon.html',
     'uikit-3': 'https://getuikit.com/docs/icon',
-    'semantic-ui': 'http://semantic-ui.com/elements/icon.html'
+    'semantic-ui': 'http://semantic-ui.com/elements/icon.html',
+    spectre: 'https://picturepan2.github.io/spectre/elements.html#icons'
   }
 };

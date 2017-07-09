@@ -8,9 +8,11 @@ export default {
       'http://foundation.zurb.com/sites/docs/v/5.5.3/components/alert_boxes.html',
     'foundation-6': 'http://foundation.zurb.com/sites/docs/callout.html',
     kube: 'https://imperavi.com/kube/docs/alerts/',
+    ink: 'http://ink.sapo.pt/ui-elements/alerts/',
     'uikit-2': 'https://getuikit.com/v2/docs/alert.html',
     'uikit-3': 'https://getuikit.com/docs/alert',
     primer: 'http://primercss.io/alerts/',
-    'semantic-ui': 'http://semantic-ui.com/collections/message.html'
+    'semantic-ui': 'http://semantic-ui.com/collections/message.html',
+    spectre: 'https://picturepan2.github.io/spectre/components.html#toasts'
   }
 };

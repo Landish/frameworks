@@ -1,12 +1,14 @@
 import { Bootstrap3, Bootstrap4 } from './frameworks/Bootstrap';
 import { Bulma } from './frameworks/Bulma';
 import { Foundation5, Foundation6 } from './frameworks/Foundation';
+import { Ink } from './frameworks/Ink';
 import { Kube } from './frameworks/Kube';
 import { Materialize } from './frameworks/Materialize';
 import { UIkit2, UIkit3 } from './frameworks/UIkit';
 import { Pure } from './frameworks/Pure';
 import { Primer } from './frameworks/Primer';
 import { SemanticUI } from './frameworks/SemanticUI';
+import { Spectre } from './frameworks/Spectre';
 
 import Accordion from './components/Accordion';
 import Alert from './components/Alert';
@@ -43,13 +45,15 @@ export default {
     Bulma,
     Foundation6,
     Foundation5,
+    Ink,
     Kube,
     Materialize,
     UIkit2,
     UIkit3,
     Pure,
     Primer,
-    SemanticUI
+    SemanticUI,
+    Spectre
   ],
   components: [
     Accordion,

@@ -7,7 +7,9 @@ export default {
     'foundation-5':
       'http://foundation.zurb.com/sites/docs/v/5.5.3/components/thumbnails.html',
     'foundation-6': 'https://foundation.zurb.com/sites/docs/thumbnail.html',
+    ink: 'http://ink.sapo.pt/ui-elements/images/',
     'uikit-2': 'https://getuikit.com/v2/docs/thumbnail.html',
-    'semantic-ui': 'http://semantic-ui.com/elements/image.html'
+    'semantic-ui': 'http://semantic-ui.com/elements/image.html',
+    spectre: 'https://picturepan2.github.io/spectre/elements.html#media'
   }
 };

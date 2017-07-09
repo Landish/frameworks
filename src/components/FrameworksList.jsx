@@ -91,17 +91,17 @@ const FrameworksList = ({ frameworks, visible }) => {
               <td className="no-padding" key={framework.slug}>
                 <pre>
                   <code>
-                    bower i -S {toInstall(framework, 'bower')}
+                    {toInstall(framework, 'bower')}
                   </code>
                 </pre>
                 <pre>
                   <code>
-                    npm i -S {toInstall(framework, 'npm')}
+                    {toInstall(framework, 'npm')}
                   </code>
                 </pre>
                 <pre>
                   <code>
-                    yarn add {toInstall(framework, 'yarn')}
+                    {toInstall(framework, 'yarn')}
                   </code>
                 </pre>
               </td>

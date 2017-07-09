@@ -2,7 +2,7 @@ import React from 'react';
 import logo from '../assets/logo.svg';
 import Icon from './Icon';
 
-const VERSION = '1.0.0';
+const VERSION = '1.1.0';
 
 const Header = ({ onNavToggle, isMenuOpened }) => {
   return (
