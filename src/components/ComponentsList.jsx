@@ -25,6 +25,29 @@ const ComponentsList = ({ frameworks, visible, components }) => {
     );
   }
 
+  function renderFooter() {
+    return (
+      <tfoot>
+        <tr>
+          <th className="is-first">
+            <span className="is-dark">Component Name</span>
+          </th>
+          {frameworks
+            .filter(framework => visible.has(framework.slug))
+            .map(framework => {
+              return (
+                <th key={framework.slug}>
+                  <span className="is-dark">
+                    {framework.name}
+                  </span>
+                </th>
+              );
+            })}
+        </tr>
+      </tfoot>
+    );
+  }
+
   function renderDemoButton(framework, component) {
     return (
       <a
@@ -84,6 +107,7 @@ const ComponentsList = ({ frameworks, visible, components }) => {
               );
             })}
           </tbody>
+          {renderFooter()}
         </table>
       </div>
     </div>
