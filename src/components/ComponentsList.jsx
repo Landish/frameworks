@@ -1,5 +1,7 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import Icon from './Icon';
+import Collection from '../core/Collection';
 
 const ComponentsList = ({ frameworks, visible, components }) => {
   function renderHeader() {
@@ -63,14 +65,14 @@ const ComponentsList = ({ frameworks, visible, components }) => {
 
   function renderNotAvailableButton() {
     return (
-      <button
+      <span
         data-title="Not Available"
         disabled={false}
         className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
       >
         <Icon name="eye-slash" />
         <span>N / A</span>
-      </button>
+      </span>
     );
   }
 
@@ -112,6 +114,12 @@ const ComponentsList = ({ frameworks, visible, components }) => {
       </div>
     </div>
   );
+};
+
+ComponentsList.propTypes = {
+  frameworks: PropTypes.array.isRequired,
+  visible: PropTypes.instanceOf(Collection).isRequired,
+  components: PropTypes.array.isRequired
 };
 
 export default ComponentsList;

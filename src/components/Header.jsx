@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import logo from '../assets/logo.svg';
 import Icon from './Icon';
 
@@ -70,6 +71,11 @@ const Header = ({ onNavToggle, isMenuOpened }) => {
       </div>
     </section>
   );
+};
+
+Header.propTypes = {
+  onNavToggle: PropTypes.func.isRequired,
+  isMenuOpened: PropTypes.bool.isRequired
 };
 
 export default Header;

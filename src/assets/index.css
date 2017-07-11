@@ -82,19 +82,20 @@ body {
   background: white;
 }
 
+.table {
+  table-layout: fixed;
+}
+
 .container table th,
 .container table td {
   padding-left: 8px;
   padding-right: 8px;
+  vertical-align: middle;
 }
 
 table.has-text-centered th,
 table.has-text-centered td {
   text-align: center;
-}
-
-.table {
-  table-layout: fixed;
 }
 
 table td.no-padding {
@@ -182,6 +183,11 @@ th.is-first {
   padding-bottom: 3em;
 }
 
+.tag-group {
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 1191px) {
   .field.has-addons .button .icon {
     margin-left: 0;
@@ -195,8 +201,6 @@ th.is-first {
 @media (max-width: 768px) {
   .table {
     table-layout: auto;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
   }
 }
 

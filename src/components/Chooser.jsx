@@ -1,7 +1,9 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+import Collection from '../core/Collection';
 import Icon from './Icon';
 
-const Chooser = ({ frameworks, visible, onClick }) => {
+const Chooser = ({ frameworks, visible, onFrameworkSelect }) => {
   return (
     <div className="section has-text-centered" id="chooser">
       <div className="container">
@@ -15,7 +17,7 @@ const Chooser = ({ frameworks, visible, onClick }) => {
               <button
                 key={framework.slug}
                 onClick={() => {
-                  onClick(framework.slug);
+                  onFrameworkSelect(framework.slug);
                 }}
                 className={`${visible.has(framework.slug)
                   ? ''
@@ -31,10 +33,15 @@ const Chooser = ({ frameworks, visible, onClick }) => {
             );
           })}
         </div>
-        {/*todo: alert about exceeded*/}
       </div>
     </div>
   );
+};
+
+Chooser.propTypes = {
+  frameworks: PropTypes.array.isRequired,
+  visible: PropTypes.instanceOf(Collection).isRequired,
+  onFrameworkSelect: PropTypes.func.isRequired
 };
 
 export default Chooser;

@@ -1,6 +1,8 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import Icon from './Icon';
 import { toInstall } from '../utils';
+import Collection from '../core/Collection';
 
 const FrameworksList = ({ frameworks, visible }) => {
   function renderHeader() {
@@ -122,14 +124,16 @@ const FrameworksList = ({ frameworks, visible }) => {
           .map(framework => {
             return (
               <td key={framework.slug}>
-                <span className="tag is-small is-dark">
-                  <Icon name="code-fork" />
-                  {framework.stats.forks}
-                </span>
-                <span className="tag is-small is-dark">
-                  <Icon name="star" />
-                  {framework.stats.stars}
-                </span>
+                <div className="tag-group">
+                  <span className="tag is-small is-dark">
+                    <Icon name="code-fork" />
+                    {framework.stats.forks}
+                  </span>
+                  <span className="tag is-small is-dark">
+                    <Icon name="star" />
+                    {framework.stats.stars}
+                  </span>
+                </div>
               </td>
             );
           })}
@@ -304,6 +308,11 @@ const FrameworksList = ({ frameworks, visible }) => {
       </div>
     </div>
   );
+};
+
+FrameworksList.propTypes = {
+  frameworks: PropTypes.array.isRequired,
+  visible: PropTypes.instanceOf(Collection).isRequired
 };
 
 export default FrameworksList;

@@ -51,7 +51,7 @@ class App extends Component {
           isMenuOpened={this.state.menuOpened}
         />
         <Chooser
-          onClick={this.onFrameworkSelect}
+          onFrameworkSelect={this.onFrameworkSelect}
           frameworks={this.state.frameworks}
           visible={this.state.visible}
         />
