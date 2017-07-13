@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section
+  className="hero is-info is-medium"
+>
+  <div
+    className="hero-head"
+  >
+    <nav
+      className="nav"
+    >
+      <div
+        className="container"
+      >
+        <div
+          className="nav-left"
+        >
+          <div
+            className="nav-item"
+          >
+            <img
+              alt="Comparison of Front-End Frameworks"
+              src="logo.svg"
+            />
+             
+            Comparison of Front-End Frameworks
+          </div>
+        </div>
+        <span
+          className="nav-toggle "
+          onClick={[Function]}
+        >
+          <span />
+          <span />
+          <span />
+        </span>
+        <div
+          className="nav-right nav-menu "
+        >
+          <a
+            className="nav-item"
+            href="https://github.com/Landish/frameworks"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <span
+              className="icon is-small"
+            >
+              <i
+                className="fa fa-github"
+              />
+            </span>
+            Github
+          </a>
+          <a
+            className="nav-item"
+            href="https://github.com/Landish/frameworks/issues"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <span
+              className="icon is-small"
+            >
+              <i
+                className="fa fa-bug"
+              />
+            </span>
+             Issues
+          </a>
+          <a
+            className="nav-item"
+            href="https://github.com/Landish/frameworks/blob/master/CHANGELOG.md"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <span
+              className="icon is-small"
+            >
+              <i
+                className="fa fa-list-ul"
+              />
+            </span>
+            Changelog
+             
+            <span
+              className="tag is-white is-small"
+            >
+              1.1.0
+            </span>
+          </a>
+        </div>
+      </div>
+    </nav>
+  </div>
+  <div
+    className="hero-body has-text-centered"
+  >
+    <div
+      className="container"
+    >
+      <h1
+        className="title"
+      >
+        <img
+          alt="Comparison of Front-End Frameworks"
+          src="logo.svg"
+        />
+        Comparison of Front-End Frameworks
+      </h1>
+    </div>
+  </div>
+</section>
+`;

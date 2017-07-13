@@ -14,7 +14,8 @@
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
-    "react-scripts": "1.0.10"
+    "react-scripts": "1.0.10",
+    "react-test-renderer": "^15.6.1"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,json,css}": [

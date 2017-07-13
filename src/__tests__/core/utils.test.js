@@ -1,4 +1,4 @@
-import { toInstall } from '../utils';
+import { toInstall } from '../../core/utils';
 
 describe('utils.js test case', () => {
   it('should return install name if nothing is specified', () => {

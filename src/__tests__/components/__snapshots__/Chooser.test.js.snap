@@ -1,0 +1,241 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="section has-text-centered"
+  id="chooser"
+>
+  <div
+    className="container"
+  >
+    <h2
+      className="title is-5"
+    >
+      Select 
+      <strong>
+        at least 2
+      </strong>
+       and 
+      <strong>
+        maximum 4
+      </strong>
+       
+      front-end frameworks and compare them to each other.
+    </h2>
+    <div
+      className="notification"
+    >
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Bootstrap 3
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Bootstrap 4 (Alpha)
+        </span>
+      </button>
+      <button
+        className="button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-check-square"
+          />
+        </span>
+        <span>
+          Bulma
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Foundation 6
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Foundation 5
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Ink Interface Kit
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Kube
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Materialize
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          UIkit 2
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          UIkit 3 (Beta)
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Pure.css
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Primer
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Semantic UI
+        </span>
+      </button>
+      <button
+        className="is-outlined button is-checkbox is-info"
+        onClick={[Function]}
+      >
+        <span
+          className="icon is-small"
+        >
+          <i
+            className="fa fa-square"
+          />
+        </span>
+        <span>
+          Spectre.css
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;

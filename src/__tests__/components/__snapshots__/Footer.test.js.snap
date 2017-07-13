@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<footer
+  className="footer"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="content has-text-centered"
+    >
+      <p>
+        <strong>
+          Comparison of Front-End Frameworks
+        </strong>
+         by
+         
+        <a
+          href="http://landish.github.io/"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Landish
+        </a>
+        .
+      </p>
+      <p>
+        Built with
+         
+        <a
+          href="https://facebook.github.io/react/"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          React
+        </a>
+         
+        &
+         
+        <a
+          href="http://bulma.io/"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Bulma
+        </a>
+        .
+      </p>
+      <p>
+        © 2016-2017
+      </p>
+    </div>
+  </div>
+</footer>
+`;

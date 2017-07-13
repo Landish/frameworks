@@ -1,0 +1,459 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should pass snapshot correctly 1`] = `
+<div
+  className="section is-x"
+>
+  <div
+    className="container"
+  >
+    <h2
+      className="title"
+    >
+      List of Frameworks
+    </h2>
+    <table
+      className="table has-text-centered is-striped is-bordered"
+    >
+      <thead>
+        <tr>
+          <th
+            className="is-first"
+          />
+          <th>
+            <span
+              className="tag is-tooltip is-info"
+              data-title="A modern CSS framework based on Flexbox"
+            >
+              Bulma
+            </span>
+          </th>
+          <th>
+            <span
+              className="tag is-tooltip is-info"
+              data-title="Ink is a set of tools for quick development of web interfaces."
+            >
+              Ink Interface Kit
+            </span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <strong>
+              Links
+            </strong>
+          </td>
+          <td>
+            <div
+              className="field has-addons has-text-centered"
+            >
+              <div
+                className="control"
+              >
+                <a
+                  className="button is-small is-info is-outlined"
+                  href="http://bulma.io/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <span
+                    className="icon is-small"
+                  >
+                    <i
+                      className="fa fa-globe"
+                    />
+                  </span>
+                  <span
+                    className="button-text"
+                  >
+                    Website
+                  </span>
+                </a>
+              </div>
+              <div
+                className="control"
+              >
+                <a
+                  className="button is-small is-info is-outlined"
+                  href="http://bulma.io/documentation/overview/start/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <span
+                    className="icon is-small"
+                  >
+                    <i
+                      className="fa fa-book"
+                    />
+                  </span>
+                  <span
+                    className="button-text"
+                  >
+                    Docs
+                  </span>
+                </a>
+              </div>
+              <div
+                className="control"
+              >
+                <a
+                  className="button is-small is-info is-outlined"
+                  href="https://github.com/jgthms/bulma"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <span
+                    className="icon is-small"
+                  >
+                    <i
+                      className="fa fa-github"
+                    />
+                  </span>
+                  <span
+                    className="button-text"
+                  >
+                    GitHub
+                  </span>
+                </a>
+              </div>
+            </div>
+          </td>
+          <td>
+            <div
+              className="field has-addons has-text-centered"
+            >
+              <div
+                className="control"
+              >
+                <a
+                  className="button is-small is-info is-outlined"
+                  href="http://ink.sapo.pt/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <span
+                    className="icon is-small"
+                  >
+                    <i
+                      className="fa fa-globe"
+                    />
+                  </span>
+                  <span
+                    className="button-text"
+                  >
+                    Website
+                  </span>
+                </a>
+              </div>
+              <div
+                className="control"
+              >
+                <a
+                  className="button is-small is-info is-outlined"
+                  href="https://picturepan2.github.io/spectre/index.html#introduction"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <span
+                    className="icon is-small"
+                  >
+                    <i
+                      className="fa fa-book"
+                    />
+                  </span>
+                  <span
+                    className="button-text"
+                  >
+                    Docs
+                  </span>
+                </a>
+              </div>
+              <div
+                className="control"
+              >
+                <a
+                  className="button is-small is-info is-outlined"
+                  href="https://github.com/sapo/Ink/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <span
+                    className="icon is-small"
+                  >
+                    <i
+                      className="fa fa-github"
+                    />
+                  </span>
+                  <span
+                    className="button-text"
+                  >
+                    GitHub
+                  </span>
+                </a>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>
+              How To Install?
+            </strong>
+          </td>
+          <td
+            className="no-padding"
+          >
+            <pre>
+              <code>
+                bower i bulma -S
+              </code>
+            </pre>
+            <pre>
+              <code>
+                npm i bulma -S
+              </code>
+            </pre>
+            <pre>
+              <code>
+                yarn add bulma
+              </code>
+            </pre>
+          </td>
+          <td
+            className="no-padding"
+          >
+            <pre>
+              <code>
+                bower i sapo-ink -S
+              </code>
+            </pre>
+            <pre>
+              <code>
+                Not Available
+              </code>
+            </pre>
+            <pre>
+              <code>
+                Not Available
+              </code>
+            </pre>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>
+              Github Stats
+            </strong>
+          </td>
+          <td>
+            <div
+              className="tag-group"
+            >
+              <span
+                className="tag is-small is-dark"
+              >
+                <span
+                  className="icon is-small"
+                >
+                  <i
+                    className="fa fa-code-fork"
+                  />
+                </span>
+                1K+
+              </span>
+              <span
+                className="tag is-small is-dark"
+              >
+                <span
+                  className="icon is-small"
+                >
+                  <i
+                    className="fa fa-star"
+                  />
+                </span>
+                16K+
+              </span>
+            </div>
+          </td>
+          <td>
+            <div
+              className="tag-group"
+            >
+              <span
+                className="tag is-small is-dark"
+              >
+                <span
+                  className="icon is-small"
+                >
+                  <i
+                    className="fa fa-code-fork"
+                  />
+                </span>
+                200+
+              </span>
+              <span
+                className="tag is-small is-dark"
+              >
+                <span
+                  className="icon is-small"
+                >
+                  <i
+                    className="fa fa-star"
+                  />
+                </span>
+                1.9K+
+              </span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>
+              Latest Version
+            </strong>
+          </td>
+          <td>
+            <a
+              className="tag is-small is-info"
+              href="https://github.com/jgthms/bulma/releases"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-history"
+                />
+              </span>
+              <span>
+                v
+                0.4.3
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="tag is-small is-info"
+              href="https://github.com/sapo/Ink//releases"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-history"
+                />
+              </span>
+              <span>
+                v
+                3.1.10
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>
+              Icons
+            </strong>
+          </td>
+          <td>
+            <a
+              className="tag is-tooltip is-small is-success"
+              data-title="Font Awesome (Optional)"
+              href="http://fontawesome.io/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Yes
+            </a>
+          </td>
+          <td>
+            <span
+              className="tag is-small is-danger"
+            >
+              No
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>
+              CSS Preprocessor
+            </strong>
+          </td>
+          <td>
+            <span
+              className="tag is-small is-info"
+            >
+              SASS
+            </span>
+          </td>
+          <td>
+            <span
+              className="tag is-small is-info"
+            >
+              SASS
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>
+              JS Library?
+            </strong>
+          </td>
+          <td>
+            <span
+              className="tag is-small is-danger"
+            >
+              No
+            </span>
+          </td>
+          <td>
+            <a
+              className="tag is-small is-success"
+              href="http://ink.sapo.pt/javascript/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Yes
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>
+              License
+            </strong>
+          </td>
+          <td>
+            <a
+              className="tag is-small is-info"
+              href="https://opensource.org/licenses/MIT"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              MIT
+            </a>
+          </td>
+          <td>
+            <a
+              className="tag is-small is-info"
+              href="https://opensource.org/licenses/MIT"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              MIT
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

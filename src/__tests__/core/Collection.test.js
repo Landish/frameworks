@@ -1,4 +1,4 @@
-import Collection from '../core/Collection';
+import Collection from '../../core/Collection';
 
 describe('Collection.js Test', () => {
   it('should count size correctly', () => {

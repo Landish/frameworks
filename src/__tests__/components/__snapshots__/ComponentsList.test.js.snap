@@ -1,0 +1,1292 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="section"
+>
+  <div
+    className="container is-x"
+  >
+    <h2
+      className="title"
+    >
+      List of Components
+    </h2>
+    <table
+      className="table has-text-centered is-striped is-bordered"
+    >
+      <thead>
+        <tr>
+          <th
+            className="is-first"
+          >
+            <span
+              className="is-dark"
+            >
+              Component Name
+            </span>
+          </th>
+          <th>
+            <span
+              className="is-dark"
+            >
+              Bulma
+            </span>
+          </th>
+          <th>
+            <span
+              className="is-dark"
+            >
+              Ink Interface Kit
+            </span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Accordion
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/javascript-ui/#InkUIToggle_1"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Alert
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/notification/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/alerts/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Badge
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/tag/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/typography/#labels-and-badges"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Breadcrumbs
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/breadcrumb/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/navigation/#breadcrumbs"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Button
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/button/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/buttons/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Button Groups
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/button/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/buttons/#button-groups"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Card
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/card/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Dropdown
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/navigation/#dropdowns"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Flex Grid
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/grid/columns/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/flexbox/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Grid
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/grid/columns/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/grid/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Form
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/form/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/forms/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Icons
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/icon/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Label
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/tag/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/typography/#labels-and-badges"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              List
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Media Object
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/media-object/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Modal
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/modal/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/javascript-ui/#InkUIModal_1"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Navbar / Navigation
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/navbar/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/navigation/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Off-Canvas
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Panel
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/panel/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Pagination
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/pagination/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/navigation/#pagination"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Progress
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/progress/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/javascript-ui/#InkUIProgressBar_1"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Table
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/table/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/tables/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Tabs
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/tabs/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/javascript-ui/#InkUITabs_1"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Thumbnail
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/image/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/images/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Tooltip
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye-slash"
+                />
+              </span>
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/javascript-ui/#InkUITooltip_1"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Typography
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/elements/content/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/typography/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
+              Utilities
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/modifiers/helpers/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/helpers/"
+              target="_blank"
+            >
+              <span
+                className="icon is-small"
+              >
+                <i
+                  className="fa fa-eye"
+                />
+              </span>
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th
+            className="is-first"
+          >
+            <span
+              className="is-dark"
+            >
+              Component Name
+            </span>
+          </th>
+          <th>
+            <span
+              className="is-dark"
+            >
+              Bulma
+            </span>
+          </th>
+          <th>
+            <span
+              className="is-dark"
+            >
+              Ink Interface Kit
+            </span>
+          </th>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>
+`;
