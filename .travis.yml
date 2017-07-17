@@ -8,5 +8,6 @@ notifications:
   email: false
 before_script:
   - npm install jest-cli --save
+  - npm install react-scripts --save
 script:
   - npm test
