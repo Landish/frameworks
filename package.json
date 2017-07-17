@@ -14,8 +14,15 @@
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
+    "enzyme": "^2.9.1",
+    "jest-serializer-enzyme": "^1.0.0",
     "react-scripts": "1.0.10",
     "react-test-renderer": "^15.6.1"
+  },
+  "jest": {
+    "snapshotSerializers": [
+      "jest-serializer-enzyme"
+    ]
   },
   "lint-staged": {
     "src/**/*.{js,jsx,json,css}": [

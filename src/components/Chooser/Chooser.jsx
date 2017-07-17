@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Collection from '../core/Collection';
-import Icon from './Icon';
+import Collection from '../../core/Collection';
+import Icon from '../Icon';
 
 const Chooser = ({ frameworks, visible, onFrameworkSelect }) => {
   return (

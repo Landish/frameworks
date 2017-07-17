@@ -2,18 +2,18 @@ import React from 'react';
 import Chooser from '../../components/Chooser';
 import Collection from '../../core/Collection';
 import data from '../../data';
-import renderer from 'react-test-renderer';
+import { shallow } from 'enzyme';
 
-it('renders correctly', () => {
-  const visible = new Collection(['bulma']);
-  const tree = renderer
-    .create(
+describe('Chooser', () => {
+  it('renders correctly', () => {
+    const visible = new Collection(['bulma']);
+    const component = shallow(
       <Chooser
         frameworks={data.frameworks}
         visible={visible}
         onFrameworkSelect={() => {}}
       />
-    )
-    .toJSON();
-  expect(tree).toMatchSnapshot();
+    );
+    expect(component).toMatchSnapshot();
+  });
 });

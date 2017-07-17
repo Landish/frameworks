@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders correctly 1`] = `
+exports[`Chooser renders correctly 1`] = `
 <div
   className="section has-text-centered"
   id="chooser"
@@ -29,13 +29,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Bootstrap 3
         </span>
@@ -44,13 +40,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Bootstrap 4 (Alpha)
         </span>
@@ -59,13 +51,9 @@ exports[`renders correctly 1`] = `
         className="button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-check-square"
-          />
-        </span>
+        <Icon
+          name="check-square"
+        />
         <span>
           Bulma
         </span>
@@ -74,13 +62,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Foundation 6
         </span>
@@ -89,13 +73,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Foundation 5
         </span>
@@ -104,13 +84,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Ink Interface Kit
         </span>
@@ -119,13 +95,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Kube
         </span>
@@ -134,13 +106,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Materialize
         </span>
@@ -149,13 +117,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           UIkit 2
         </span>
@@ -164,13 +128,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           UIkit 3 (Beta)
         </span>
@@ -179,13 +139,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Pure.css
         </span>
@@ -194,13 +150,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Primer
         </span>
@@ -209,13 +161,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Semantic UI
         </span>
@@ -224,13 +172,9 @@ exports[`renders correctly 1`] = `
         className="is-outlined button is-checkbox is-info"
         onClick={[Function]}
       >
-        <span
-          className="icon is-small"
-        >
-          <i
-            className="fa fa-square"
-          />
-        </span>
+        <Icon
+          name="square"
+        />
         <span>
           Spectre.css
         </span>

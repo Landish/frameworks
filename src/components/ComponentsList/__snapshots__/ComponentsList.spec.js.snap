@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders correctly 1`] = `
+exports[`Components List renders correctly 1`] = `
 <div
   className="section"
 >
@@ -57,13 +57,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -75,13 +71,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/javascript-ui/#InkUIToggle_1"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -102,13 +94,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/notification/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -120,13 +108,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/alerts/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -147,13 +131,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/tag/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -165,13 +145,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/typography/#labels-and-badges"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -192,13 +168,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/components/breadcrumb/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -210,13 +182,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/navigation/#breadcrumbs"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -237,13 +205,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/button/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -255,13 +219,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/buttons/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -282,13 +242,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/button/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -300,13 +256,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/buttons/#button-groups"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -327,13 +279,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/components/card/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -345,13 +293,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -372,13 +316,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -390,13 +330,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/navigation/#dropdowns"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -417,13 +353,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/grid/columns/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -435,13 +367,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/flexbox/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -462,13 +390,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/grid/columns/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -480,13 +404,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/grid/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -507,13 +427,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/form/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -525,13 +441,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/forms/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -552,13 +464,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/icon/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -570,13 +478,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -597,13 +501,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/tag/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -615,13 +515,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/typography/#labels-and-badges"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -642,13 +538,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -660,13 +552,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -687,13 +575,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/components/media-object/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -705,13 +589,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -732,13 +612,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/components/modal/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -750,13 +626,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/javascript-ui/#InkUIModal_1"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -777,13 +649,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/components/navbar/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -795,13 +663,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/navigation/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -822,13 +686,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -840,13 +700,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -867,13 +723,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/components/panel/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -885,13 +737,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -912,13 +760,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/components/pagination/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -930,13 +774,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/navigation/#pagination"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -957,13 +797,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/progress/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -975,13 +811,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/javascript-ui/#InkUIProgressBar_1"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1002,13 +834,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/table/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1020,13 +848,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/tables/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1047,13 +871,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/components/tabs/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1065,13 +885,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/javascript-ui/#InkUITabs_1"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1092,13 +908,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/image/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1110,13 +922,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/images/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1137,13 +945,9 @@ exports[`renders correctly 1`] = `
               data-title="Not Available"
               disabled={false}
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye-slash"
-                />
-              </span>
+              <Icon
+                name="eye-slash"
+              />
               <span>
                 N / A
               </span>
@@ -1155,13 +959,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/javascript-ui/#InkUITooltip_1"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1182,13 +982,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/elements/content/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1200,13 +996,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/typography/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1227,13 +1019,9 @@ exports[`renders correctly 1`] = `
               href="http://bulma.io/documentation/modifiers/helpers/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>
@@ -1245,13 +1033,9 @@ exports[`renders correctly 1`] = `
               href="http://ink.sapo.pt/ui-elements/helpers/"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-eye"
-                />
-              </span>
+              <Icon
+                name="eye"
+              />
               <span>
                 Demo
               </span>

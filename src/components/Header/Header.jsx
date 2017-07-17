@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import logo from '../assets/logo.svg';
-import Icon from './Icon';
+import logo from '../../assets/logo.svg';
+import Icon from '../Icon';
 
 const VERSION = '1.1.0';
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Icon from './Icon';
-import Collection from '../core/Collection';
+import Icon from '../Icon';
+import Collection from '../../core/Collection';
 
 const ComponentsList = ({ frameworks, visible, components }) => {
   function renderHeader() {

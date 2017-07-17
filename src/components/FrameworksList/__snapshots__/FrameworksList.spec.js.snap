@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should pass snapshot correctly 1`] = `
+exports[`Frameworks List should pass snapshot correctly 1`] = `
 <div
   className="section is-x"
 >
@@ -58,13 +58,9 @@ exports[`should pass snapshot correctly 1`] = `
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  <span
-                    className="icon is-small"
-                  >
-                    <i
-                      className="fa fa-globe"
-                    />
-                  </span>
+                  <Icon
+                    name="globe"
+                  />
                   <span
                     className="button-text"
                   >
@@ -81,13 +77,9 @@ exports[`should pass snapshot correctly 1`] = `
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  <span
-                    className="icon is-small"
-                  >
-                    <i
-                      className="fa fa-book"
-                    />
-                  </span>
+                  <Icon
+                    name="book"
+                  />
                   <span
                     className="button-text"
                   >
@@ -104,13 +96,9 @@ exports[`should pass snapshot correctly 1`] = `
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  <span
-                    className="icon is-small"
-                  >
-                    <i
-                      className="fa fa-github"
-                    />
-                  </span>
+                  <Icon
+                    name="github"
+                  />
                   <span
                     className="button-text"
                   >
@@ -133,13 +121,9 @@ exports[`should pass snapshot correctly 1`] = `
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  <span
-                    className="icon is-small"
-                  >
-                    <i
-                      className="fa fa-globe"
-                    />
-                  </span>
+                  <Icon
+                    name="globe"
+                  />
                   <span
                     className="button-text"
                   >
@@ -156,13 +140,9 @@ exports[`should pass snapshot correctly 1`] = `
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  <span
-                    className="icon is-small"
-                  >
-                    <i
-                      className="fa fa-book"
-                    />
-                  </span>
+                  <Icon
+                    name="book"
+                  />
                   <span
                     className="button-text"
                   >
@@ -179,13 +159,9 @@ exports[`should pass snapshot correctly 1`] = `
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  <span
-                    className="icon is-small"
-                  >
-                    <i
-                      className="fa fa-github"
-                    />
-                  </span>
+                  <Icon
+                    name="github"
+                  />
                   <span
                     className="button-text"
                   >
@@ -254,25 +230,17 @@ exports[`should pass snapshot correctly 1`] = `
               <span
                 className="tag is-small is-dark"
               >
-                <span
-                  className="icon is-small"
-                >
-                  <i
-                    className="fa fa-code-fork"
-                  />
-                </span>
+                <Icon
+                  name="code-fork"
+                />
                 1K+
               </span>
               <span
                 className="tag is-small is-dark"
               >
-                <span
-                  className="icon is-small"
-                >
-                  <i
-                    className="fa fa-star"
-                  />
-                </span>
+                <Icon
+                  name="star"
+                />
                 16K+
               </span>
             </div>
@@ -284,25 +252,17 @@ exports[`should pass snapshot correctly 1`] = `
               <span
                 className="tag is-small is-dark"
               >
-                <span
-                  className="icon is-small"
-                >
-                  <i
-                    className="fa fa-code-fork"
-                  />
-                </span>
+                <Icon
+                  name="code-fork"
+                />
                 200+
               </span>
               <span
                 className="tag is-small is-dark"
               >
-                <span
-                  className="icon is-small"
-                >
-                  <i
-                    className="fa fa-star"
-                  />
-                </span>
+                <Icon
+                  name="star"
+                />
                 1.9K+
               </span>
             </div>
@@ -321,13 +281,9 @@ exports[`should pass snapshot correctly 1`] = `
               rel="noopener noreferrer"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-history"
-                />
-              </span>
+              <Icon
+                name="history"
+              />
               <span>
                 v
                 0.4.3
@@ -341,13 +297,9 @@ exports[`should pass snapshot correctly 1`] = `
               rel="noopener noreferrer"
               target="_blank"
             >
-              <span
-                className="icon is-small"
-              >
-                <i
-                  className="fa fa-history"
-                />
-              </span>
+              <Icon
+                name="history"
+              />
               <span>
                 v
                 3.1.10

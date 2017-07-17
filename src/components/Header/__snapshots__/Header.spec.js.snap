@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders correctly 1`] = `
+exports[`Header renders correctly 1`] = `
 <section
   className="hero is-info is-medium"
 >
@@ -44,13 +44,9 @@ exports[`renders correctly 1`] = `
             rel="noopener noreferrer"
             target="_blank"
           >
-            <span
-              className="icon is-small"
-            >
-              <i
-                className="fa fa-github"
-              />
-            </span>
+            <Icon
+              name="github"
+            />
             Github
           </a>
           <a
@@ -59,13 +55,9 @@ exports[`renders correctly 1`] = `
             rel="noopener noreferrer"
             target="_blank"
           >
-            <span
-              className="icon is-small"
-            >
-              <i
-                className="fa fa-bug"
-              />
-            </span>
+            <Icon
+              name="bug"
+            />
              Issues
           </a>
           <a
@@ -74,13 +66,9 @@ exports[`renders correctly 1`] = `
             rel="noopener noreferrer"
             target="_blank"
           >
-            <span
-              className="icon is-small"
-            >
-              <i
-                className="fa fa-list-ul"
-              />
-            </span>
+            <Icon
+              name="list-ul"
+            />
             Changelog
              
             <span

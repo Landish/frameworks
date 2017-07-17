@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import Header from './components/Header';
-import Chooser from './components/Chooser';
-import FrameworksList from './components/FrameworksList';
-import Footer from './components/Footer';
-import ComponentsList from './components/ComponentsList';
-import Collection from './core/Collection';
-import data from './data/index';
+import Header from '../Header';
+import Chooser from '../Chooser';
+import FrameworksList from '../FrameworksList';
+import Footer from '../Footer';
+import ComponentsList from '../ComponentsList';
+import Collection from '../../core/Collection';
+import data from '../../data/index';
 
 class App extends Component {
   state = {
