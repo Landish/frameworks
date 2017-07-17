@@ -12,5 +12,3 @@ before_script:
   - npm install react-scripts --save
 script:
   - npm test -- -u
-after_success:
-  - npm run deploy
