@@ -23,7 +23,6 @@ exports[`Header renders correctly 1`] = `
               alt="Comparison of Front-End Frameworks"
               src="logo.svg"
             />
-             
             Comparison of Front-End Frameworks
           </div>
         </div>
@@ -70,7 +69,6 @@ exports[`Header renders correctly 1`] = `
               name="list-ul"
             />
             Changelog
-             
             <span
               className="tag is-white is-small"
             >

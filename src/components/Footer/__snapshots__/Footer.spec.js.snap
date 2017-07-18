@@ -15,7 +15,6 @@ exports[`Footer renders correctly 1`] = `
           Comparison of Front-End Frameworks
         </strong>
          by
-         
         <a
           href="http://landish.github.io/"
           rel="noopener noreferrer"
@@ -27,7 +26,6 @@ exports[`Footer renders correctly 1`] = `
       </p>
       <p>
         Built with
-         
         <a
           href="https://facebook.github.io/react/"
           rel="noopener noreferrer"
@@ -35,9 +33,7 @@ exports[`Footer renders correctly 1`] = `
         >
           React
         </a>
-         
-        &
-         
+         &
         <a
           href="http://bulma.io/"
           rel="noopener noreferrer"

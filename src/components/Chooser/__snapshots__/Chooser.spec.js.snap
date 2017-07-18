@@ -19,8 +19,7 @@ exports[`Chooser renders correctly 1`] = `
       <strong>
         maximum 4
       </strong>
-       
-      front-end frameworks and compare them to each other.
+       front-end frameworks and compare them to each other.
     </h2>
     <div
       className="notification"
