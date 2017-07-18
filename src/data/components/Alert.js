@@ -4,8 +4,7 @@ export default {
     'bootstrap-3': 'http://getbootstrap.com/components/#alerts',
     'bootstrap-4': 'https://v4-alpha.getbootstrap.com/components/alerts/',
     bulma: 'http://bulma.io/documentation/elements/notification/',
-    'foundation-5':
-      'http://foundation.zurb.com/sites/docs/v/5.5.3/components/alert_boxes.html',
+    'foundation-5': 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/alert_boxes.html',
     'foundation-6': 'http://foundation.zurb.com/sites/docs/callout.html',
     kube: 'https://imperavi.com/kube/docs/alerts/',
     ink: 'http://ink.sapo.pt/ui-elements/alerts/',

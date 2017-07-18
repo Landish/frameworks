@@ -2,8 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import logo from '../../assets/logo.svg';
 import Icon from '../Icon';
-
-const VERSION = '1.1.0';
+import config from '../../config.json';
 
 const Header = ({ onNavToggle, isMenuOpened }) => {
   return (
@@ -13,23 +12,16 @@ const Header = ({ onNavToggle, isMenuOpened }) => {
           <div className="container">
             <div className="nav-left">
               <div className="nav-item">
-                <img src={logo} alt="Comparison of Front-End Frameworks" />{' '}
-                Comparison of Front-End Frameworks
+                <img src={logo} alt={config.title} />
+                {config.title}
               </div>
             </div>
-            <span
-              onClick={onNavToggle}
-              className={`nav-toggle ${isMenuOpened ? 'is-active' : ''}`}
-            >
+            <span onClick={onNavToggle} className={`nav-toggle ${isMenuOpened ? 'is-active' : ''}`}>
               <span />
               <span />
               <span />
             </span>
-            <div
-              className={`nav-right nav-menu ${isMenuOpened
-                ? 'is-active'
-                : ''}`}
-            >
+            <div className={`nav-right nav-menu ${isMenuOpened ? 'is-active' : ''}`}>
               <a
                 href="https://github.com/Landish/frameworks"
                 rel="noopener noreferrer"
@@ -54,8 +46,8 @@ const Header = ({ onNavToggle, isMenuOpened }) => {
                 className="nav-item"
               >
                 <Icon name="list-ul" />
-                Changelog{' '}
-                <span className="tag is-white is-small">{VERSION}</span>
+                Changelog
+                <span className="tag is-white is-small">{config.version}</span>
               </a>
             </div>
           </div>
@@ -64,8 +56,8 @@ const Header = ({ onNavToggle, isMenuOpened }) => {
       <div className="hero-body has-text-centered">
         <div className="container">
           <h1 className="title">
-            <img src={logo} alt="Comparison of Front-End Frameworks" />
-            Comparison of Front-End Frameworks
+            <img src={logo} alt={config.title} />
+            {config.title}
           </h1>
         </div>
       </div>

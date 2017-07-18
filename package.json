@@ -26,12 +26,12 @@
   },
   "lint-staged": {
     "src/**/*.{js,jsx,json,css}": [
-      "prettier --single-quote --write",
+      "prettier --single-quote --print-width 100 --write",
       "git add"
     ]
   },
   "scripts": {
-    "pretty": "prettier --single-quote --write \"src/**/*.{js,jsx,json,css}\"",
+    "pretty": "prettier --single-quote --print-width 100 --write \"src/**/*.{js,jsx,json,css}\"",
     "precommit": "lint-staged",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

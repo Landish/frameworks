@@ -4,8 +4,7 @@ export default {
     'bootstrap-3': 'http://getbootstrap.com/css/#forms',
     'bootstrap-4': 'https://v4-alpha.getbootstrap.com/components/forms/',
     bulma: 'http://bulma.io/documentation/elements/form/',
-    'foundation-5':
-      'http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html',
+    'foundation-5': 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html',
     'foundation-6': 'https://foundation.zurb.com/sites/docs/forms.html',
     ink: 'http://ink.sapo.pt/ui-elements/forms/',
     materialize: 'http://materializecss.com/forms.html',

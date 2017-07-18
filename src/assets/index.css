@@ -183,6 +183,10 @@ th.is-first {
   padding-bottom: 3em;
 }
 
+.footer p a {
+  margin-left: 4px;
+}
+
 .tag-group {
   display: flex;
   justify-content: center;

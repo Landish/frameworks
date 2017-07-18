@@ -5,8 +5,7 @@ export default {
     'bootstrap-4': 'https://v4-alpha.getbootstrap.com/components/pagination/',
     bulma: 'http://bulma.io/documentation/components/pagination/',
     'semantic-ui': 'http://semantic-ui.com/collections/menu.html#pagination',
-    'foundation-5':
-      'http://foundation.zurb.com/sites/docs/v/5.5.3/components/pagination.html',
+    'foundation-5': 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/pagination.html',
     'foundation-6': 'http://foundation.zurb.com/sites/docs/pagination.html',
     kube: 'https://imperavi.com/kube/docs/pagination/',
     ink: 'http://ink.sapo.pt/ui-elements/navigation/#pagination',

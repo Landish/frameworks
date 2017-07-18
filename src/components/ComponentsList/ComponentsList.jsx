@@ -11,17 +11,15 @@ const ComponentsList = ({ frameworks, visible, components }) => {
           <th className="is-first">
             <span className="is-dark">Component Name</span>
           </th>
-          {frameworks
-            .filter(framework => visible.has(framework.slug))
-            .map(framework => {
-              return (
-                <th key={framework.slug}>
-                  <span className="is-dark">
-                    {framework.name}
-                  </span>
-                </th>
-              );
-            })}
+          {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
+            return (
+              <th key={framework.slug}>
+                <span className="is-dark">
+                  {framework.name}
+                </span>
+              </th>
+            );
+          })}
         </tr>
       </thead>
     );
@@ -34,17 +32,15 @@ const ComponentsList = ({ frameworks, visible, components }) => {
           <th className="is-first">
             <span className="is-dark">Component Name</span>
           </th>
-          {frameworks
-            .filter(framework => visible.has(framework.slug))
-            .map(framework => {
-              return (
-                <th key={framework.slug}>
-                  <span className="is-dark">
-                    {framework.name}
-                  </span>
-                </th>
-              );
-            })}
+          {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
+            return (
+              <th key={framework.slug}>
+                <span className="is-dark">
+                  {framework.name}
+                </span>
+              </th>
+            );
+          })}
         </tr>
       </tfoot>
     );
@@ -92,19 +88,16 @@ const ComponentsList = ({ frameworks, visible, components }) => {
                     </span>
                   </td>
 
-                  {frameworks
-                    .filter(framework => visible.has(framework.slug))
-                    .map(framework => {
-                      return (
-                        <td key={framework.slug}>
-                          {component.supports[framework.slug] &&
-                            renderDemoButton(framework, component)}
+                  {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
+                    return (
+                      <td key={framework.slug}>
+                        {component.supports[framework.slug] &&
+                          renderDemoButton(framework, component)}
 
-                          {!component.supports[framework.slug] &&
-                            renderNotAvailableButton()}
-                        </td>
-                      );
-                    })}
+                        {!component.supports[framework.slug] && renderNotAvailableButton()}
+                      </td>
+                    );
+                  })}
                 </tr>
               );
             })}

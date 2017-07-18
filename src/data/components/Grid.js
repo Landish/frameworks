@@ -4,8 +4,7 @@ export default {
     'bootstrap-3': 'http://getbootstrap.com/css/#grid',
     'bootstrap-4': 'https://v4-alpha.getbootstrap.com/layout/grid/',
     bulma: 'http://bulma.io/documentation/grid/columns/',
-    'foundation-5':
-      'http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html',
+    'foundation-5': 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html',
     'foundation-6': 'https://foundation.zurb.com/sites/docs/grid.html',
     kube: 'https://imperavi.com/kube/docs/grid/',
     ink: 'http://ink.sapo.pt/ui-elements/grid/',

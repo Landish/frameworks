@@ -2,8 +2,7 @@ export const Materialize = {
   name: 'Materialize',
   slug: 'materialize',
   install: 'materialize-css',
-  description:
-    'A modern responsive front-end framework based on Material Design',
+  description: 'A modern responsive front-end framework based on Material Design',
   url: 'http://materializecss.com/',
   documentation: 'http://materializecss.com/getting-started.html',
   github: 'https://github.com/Dogfalo/materialize',

@@ -46,19 +46,13 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Header
-          onNavToggle={this.onNavToggle}
-          isMenuOpened={this.state.menuOpened}
-        />
+        <Header onNavToggle={this.onNavToggle} isMenuOpened={this.state.menuOpened} />
         <Chooser
           onFrameworkSelect={this.onFrameworkSelect}
           frameworks={this.state.frameworks}
           visible={this.state.visible}
         />
-        <FrameworksList
-          frameworks={this.state.frameworks}
-          visible={this.state.visible}
-        />
+        <FrameworksList frameworks={this.state.frameworks} visible={this.state.visible} />
         <ComponentsList
           frameworks={this.state.frameworks}
           visible={this.state.visible}

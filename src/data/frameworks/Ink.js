@@ -8,8 +8,7 @@ export const Ink = {
   },
   description: 'Ink is a set of tools for quick development of web interfaces.',
   url: 'http://ink.sapo.pt/',
-  documentation:
-    'https://picturepan2.github.io/spectre/index.html#introduction',
+  documentation: 'https://picturepan2.github.io/spectre/index.html#introduction',
   github: 'https://github.com/sapo/Ink/',
   version: '3.1.10',
   css: 'SASS',

@@ -8,11 +8,7 @@ describe('Chooser', () => {
   it('renders correctly', () => {
     const visible = new Collection(['bulma']);
     const component = shallow(
-      <Chooser
-        frameworks={data.frameworks}
-        visible={visible}
-        onFrameworkSelect={() => {}}
-      />
+      <Chooser frameworks={data.frameworks} visible={visible} onFrameworkSelect={() => {}} />
     );
     expect(component).toMatchSnapshot();
   });

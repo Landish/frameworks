@@ -8,11 +8,7 @@ describe('Components List', () => {
   it('renders correctly', () => {
     const visible = new Collection(['bulma', 'ink']);
     const component = shallow(
-      <ComponentsList
-        components={data.components}
-        frameworks={data.frameworks}
-        visible={visible}
-      />
+      <ComponentsList components={data.components} frameworks={data.frameworks} visible={visible} />
     );
     expect(component).toMatchSnapshot();
   });

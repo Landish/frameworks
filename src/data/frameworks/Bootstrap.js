@@ -38,8 +38,7 @@ export const Bootstrap4 = {
   description:
     'Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web',
   url: 'https://v4-alpha.getbootstrap.com/',
-  documentation:
-    'https://v4-alpha.getbootstrap.com/getting-started/introduction/',
+  documentation: 'https://v4-alpha.getbootstrap.com/getting-started/introduction/',
   github: 'https://github.com/twbs/bootstrap',
   icons: false,
   browsers: {
@@ -51,8 +50,7 @@ export const Bootstrap4 = {
     ie: 'IE9+',
     ios: 'Latest',
     android: 'Latest',
-    details:
-      'http://v4-alpha.getbootstrap.com/getting-started/browsers-devices/'
+    details: 'http://v4-alpha.getbootstrap.com/getting-started/browsers-devices/'
   },
   version: '4.0.0-alpha.6',
   css: 'SASS',

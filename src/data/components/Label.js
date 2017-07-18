@@ -4,8 +4,7 @@ export default {
     'bootstrap-3': 'http://getbootstrap.com/components/#labels',
     'bootstrap-4': 'https://v4-alpha.getbootstrap.com/components/badge/',
     bulma: 'http://bulma.io/documentation/elements/tag/',
-    'foundation-5':
-      'http://foundation.zurb.com/sites/docs/v/5.5.3/components/labels.html',
+    'foundation-5': 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/labels.html',
     'foundation-6': 'http://foundation.zurb.com/sites/docs/label.html',
     kube: 'https://imperavi.com/kube/docs/labels/',
     ink: 'http://ink.sapo.pt/ui-elements/typography/#labels-and-badges',

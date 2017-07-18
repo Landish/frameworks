@@ -4,8 +4,7 @@ export default {
     'bootstrap-3': 'http://getbootstrap.com/css/#buttons',
     'bootstrap-4': 'https://v4-alpha.getbootstrap.com/components/buttons/',
     bulma: 'http://bulma.io/documentation/elements/button/',
-    'foundation-5':
-      'http://foundation.zurb.com/sites/docs/v/5.5.3/components/buttons.html',
+    'foundation-5': 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/buttons.html',
     'foundation-6': 'http://foundation.zurb.com/sites/docs/button.html',
     kube: 'https://imperavi.com/kube/docs/buttons/',
     ink: 'http://ink.sapo.pt/ui-elements/buttons/',

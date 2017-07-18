@@ -4,8 +4,7 @@ export default {
     'bootstrap-3': 'http://getbootstrap.com/css/#tables',
     'bootstrap-4': 'https://v4-alpha.getbootstrap.com/content/tables/',
     bulma: 'http://bulma.io/documentation/elements/table/',
-    'foundation-5':
-      'http://foundation.zurb.com/sites/docs/v/5.5.3/components/tables.html',
+    'foundation-5': 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/tables.html',
     'foundation-6': 'http://foundation.zurb.com/sites/docs/table.html',
     kube: 'https://imperavi.com/kube/docs/tables/',
     ink: 'http://ink.sapo.pt/ui-elements/tables/',

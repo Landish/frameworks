@@ -1,8 +1,7 @@
 export default {
   name: 'Off-Canvas',
   supports: {
-    'foundation-5':
-      'http://foundation.zurb.com/sites/docs/v/5.5.3/components/offcanvas.html',
+    'foundation-5': 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/offcanvas.html',
     'foundation-6': 'http://foundation.zurb.com/sites/docs/off-canvas.html',
     kube: 'https://imperavi.com/kube/docs/offcanvas/',
     materialize: 'http://materializecss.com/side-nav.html',
