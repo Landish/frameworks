@@ -9,7 +9,7 @@ const Footer = () => {
           <p>
             <strong>{config.title}</strong> by
             <a href="http://landish.github.io/" target="_blank" rel="noopener noreferrer">
-              Landish
+              Lado Lomidze
             </a>.
           </p>
           <p>

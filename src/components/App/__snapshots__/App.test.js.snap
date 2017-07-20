@@ -2,10 +2,12 @@
 
 exports[`App renders correctly 1`] = `
 <div>
-  <Header
-    isMenuOpened={false}
-    onNavToggle={[Function]}
-  />
+  <Header>
+    <Navbar
+      isMenuOpened={false}
+      onNavToggle={[Function]}
+    />
+  </Header>
   <Chooser
     frameworks={
       Array [

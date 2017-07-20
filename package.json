@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "bulma": "^0.4.3",
+    "classnames": "^2.2.5",
     "gh-pages": "^1.0.0",
     "husky": "^0.14.3",
     "lint-staged": "^4.0.1",

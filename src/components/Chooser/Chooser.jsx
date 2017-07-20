@@ -1,11 +1,11 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+import { array, func, instanceOf } from 'prop-types';
+import SelectButton from '../SelectButton';
 import Collection from '../../core/Collection';
-import Icon from '../Icon';
 
 const Chooser = ({ frameworks, visible, onFrameworkSelect }) => {
   return (
-    <div className="section has-text-centered" id="chooser">
+    <div className="section has-text-centered">
       <div className="container">
         <h2 className="title is-5">
           Select <strong>at least 2</strong> and <strong>maximum 4</strong> front-end frameworks and
@@ -14,20 +14,14 @@ const Chooser = ({ frameworks, visible, onFrameworkSelect }) => {
         <div className="notification">
           {frameworks.map(framework => {
             return (
-              <button
+              <SelectButton
                 key={framework.slug}
+                isSelected={visible.has(framework.slug)}
+                framework={framework}
                 onClick={() => {
                   onFrameworkSelect(framework.slug);
                 }}
-                className={`${visible.has(framework.slug)
-                  ? ''
-                  : 'is-outlined '}button is-checkbox is-info`}
-              >
-                <Icon name={visible.has(framework.slug) ? 'check-square' : 'square'} />
-                <span>
-                  {framework.name}
-                </span>
-              </button>
+              />
             );
           })}
         </div>
@@ -37,9 +31,9 @@ const Chooser = ({ frameworks, visible, onFrameworkSelect }) => {
 };
 
 Chooser.propTypes = {
-  frameworks: PropTypes.array.isRequired,
-  visible: PropTypes.instanceOf(Collection).isRequired,
-  onFrameworkSelect: PropTypes.func.isRequired
+  frameworks: array.isRequired,
+  visible: instanceOf(Collection).isRequired,
+  onFrameworkSelect: func.isRequired
 };
 
 export default Chooser;

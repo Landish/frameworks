@@ -7,8 +7,7 @@ cache:
 notifications:
   email: false
 before_script:
-  - npm install
-  - npm install jest-cli --save
-  - npm install react-scripts --save
+  - yarn add jest-cli
+  - yarn add react-scripts
 script:
-  - npm test -- -u
+  - yarn test -- -u

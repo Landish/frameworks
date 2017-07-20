@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+import { array, instanceOf } from 'prop-types';
 import Icon from '../Icon';
 import { toInstall } from '../../core/utils';
 import Collection from '../../core/Collection';
@@ -288,8 +288,8 @@ const FrameworksList = ({ frameworks, visible }) => {
 };
 
 FrameworksList.propTypes = {
-  frameworks: PropTypes.array.isRequired,
-  visible: PropTypes.instanceOf(Collection).isRequired
+  frameworks: array.isRequired,
+  visible: instanceOf(Collection).isRequired
 };
 
 export default FrameworksList;

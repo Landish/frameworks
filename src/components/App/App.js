@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Header from '../Header';
+import Navbar from '../Navbar/Navbar';
 import Chooser from '../Chooser';
 import FrameworksList from '../FrameworksList';
 import Footer from '../Footer';
@@ -46,7 +47,9 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Header onNavToggle={this.onNavToggle} isMenuOpened={this.state.menuOpened} />
+        <Header>
+          <Navbar onNavToggle={this.onNavToggle} isMenuOpened={this.state.menuOpened} />
+        </Header>
         <Chooser
           onFrameworkSelect={this.onFrameworkSelect}
           frameworks={this.state.frameworks}

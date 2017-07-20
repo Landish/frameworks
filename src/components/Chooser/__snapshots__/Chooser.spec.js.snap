@@ -3,7 +3,6 @@
 exports[`Chooser renders correctly 1`] = `
 <div
   className="section has-text-centered"
-  id="chooser"
 >
   <div
     className="container"
@@ -24,160 +23,495 @@ exports[`Chooser renders correctly 1`] = `
     <div
       className="notification"
     >
-      <button
-        className="is-outlined button is-checkbox is-info"
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "details": "http://getbootstrap.com/getting-started/#support-browsers",
+              "edge": "Latest",
+              "firefox": "Latest",
+              "ie": "IE9+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "LESS",
+            "description": "The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web",
+            "documentation": "http://getbootstrap.com/getting-started/",
+            "github": "https://github.com/twbs/bootstrap",
+            "icons": Object {
+              "name": "Glyphicons",
+              "url": "http://getbootstrap.com/components/#glyphicons-glyphs",
+            },
+            "install": "bootstrap",
+            "js": "http://getbootstrap.com/javascript/",
+            "name": "Bootstrap 3",
+            "slug": "bootstrap-3",
+            "stats": Object {
+              "forks": "52K+",
+              "stars": "112K+",
+            },
+            "url": "http://getbootstrap.com",
+            "version": "3.3.7",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Bootstrap 3
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Chrome: Latest",
+              "details": "http://v4-alpha.getbootstrap.com/getting-started/browsers-devices/",
+              "edge": "Latest",
+              "firefox": "Latest",
+              "ie": "IE9+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "SASS",
+            "description": "Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web",
+            "documentation": "https://v4-alpha.getbootstrap.com/getting-started/introduction/",
+            "github": "https://github.com/twbs/bootstrap",
+            "icons": false,
+            "install": "bootstrap@4.0.0-alpha.6",
+            "js": "https://v4-alpha.getbootstrap.com/getting-started/javascript/",
+            "name": "Bootstrap 4 (Alpha)",
+            "slug": "bootstrap-4",
+            "stats": Object {
+              "forks": "52K+",
+              "stars": "112K+",
+            },
+            "url": "https://v4-alpha.getbootstrap.com/",
+            "version": "4.0.0-alpha.6",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Bootstrap 4 (Alpha)
-        </span>
-      </button>
-      <button
-        className="button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "firefox": "Latest",
+              "ie": "IE10+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "SASS",
+            "description": "A modern CSS framework based on Flexbox",
+            "documentation": "http://bulma.io/documentation/overview/start/",
+            "github": "https://github.com/jgthms/bulma",
+            "icons": Object {
+              "name": "Font Awesome (Optional)",
+              "url": "http://fontawesome.io/",
+            },
+            "install": "bulma",
+            "js": false,
+            "name": "Bulma",
+            "slug": "bulma",
+            "stats": Object {
+              "forks": "1K+",
+              "stars": "16K+",
+            },
+            "url": "http://bulma.io/",
+            "version": "0.4.3",
+          }
+        }
+        isSelected={true}
         onClick={[Function]}
-      >
-        <Icon
-          name="check-square"
-        />
-        <span>
-          Bulma
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "details": "https://foundation.zurb.com/sites/docs/compatibility.html",
+              "edge": "Latest",
+              "firefox": "Latest",
+              "ie": "IE9+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "SASS",
+            "description": "The most advanced responsive front-end framework in the world",
+            "documentation": "http://foundation.zurb.com/sites/docs/",
+            "github": "https://github.com/zurb/foundation-sites",
+            "icons": Object {
+              "name": "Foundation Icon Fonts 3 (Optional)",
+              "url": "http://zurb.com/playground/foundation-icon-fonts-3",
+            },
+            "install": "foundation-sites",
+            "js": "https://foundation.zurb.com/sites/docs/javascript.html",
+            "name": "Foundation 6",
+            "slug": "foundation-6",
+            "stats": Object {
+              "forks": "5K+",
+              "stars": "25K+",
+            },
+            "url": "http://foundation.zurb.com/",
+            "version": "6.4.1",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Foundation 6
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "details": "http://foundation.zurb.com/sites/docs/v/5.5.3/compatibility.html",
+              "edge": "Latest",
+              "firefox": "Latest",
+              "ie": "IE9+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "SASS",
+            "description": "The most advanced, responsive front-end framework in the world. The framework is mobile friendly and ready for you to customize it any way you want to use it",
+            "documentation": "http://foundation.zurb.com/sites/docs/v/5.5.3/",
+            "github": "https://github.com/zurb/foundation-sites",
+            "icons": Object {
+              "name": "Foundation Icon Fonts 3 (Optional)",
+              "url": "http://zurb.com/playground/foundation-icon-fonts-3",
+            },
+            "install": "foundation-sites@5.5.3",
+            "js": "http://foundation.zurb.com/sites/docs/v/5.5.3/javascript.html",
+            "name": "Foundation 5",
+            "slug": "foundation-5",
+            "stats": Object {
+              "forks": "5K+",
+              "stars": "24K+",
+            },
+            "url": "http://foundation.zurb.com/sites/docs/v/5.5.3/",
+            "version": "5.5.3",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Foundation 5
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "css": "SASS",
+            "description": "Ink is a set of tools for quick development of web interfaces.",
+            "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
+            "github": "https://github.com/sapo/Ink/",
+            "install": Object {
+              "bower": "sapo-ink",
+              "npm": false,
+              "yarn": false,
+            },
+            "js": "http://ink.sapo.pt/javascript/",
+            "name": "Ink Interface Kit",
+            "slug": "ink",
+            "stats": Object {
+              "forks": "200+",
+              "stars": "1.9K+",
+            },
+            "url": "http://ink.sapo.pt/",
+            "version": "3.1.10",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Ink Interface Kit
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "firefox": "Latest",
+              "ie": "IE10+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "SASS",
+            "description": "Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.",
+            "documentation": "https://imperavi.com/kube/docs/",
+            "github": "https://github.com/imperavi/kube",
+            "icons": Object {
+              "name": "Font Awesome (Optional)",
+              "url": "http://fontawesome.io/",
+            },
+            "install": "kube",
+            "js": "https://imperavi.com/kube/docs/custom-plugins/",
+            "name": "Kube",
+            "slug": "kube",
+            "stats": Object {
+              "forks": "190+",
+              "stars": "1K+",
+            },
+            "url": "https://imperavi.com/kube/",
+            "version": "6.5.2",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Kube
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "35+",
+              "firefox": "31+",
+              "ie": "IE10+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "7+",
+            },
+            "css": "SASS",
+            "description": "A modern responsive front-end framework based on Material Design",
+            "documentation": "http://materializecss.com/getting-started.html",
+            "github": "https://github.com/Dogfalo/materialize",
+            "icons": Object {
+              "name": "Material Design Icons",
+              "url": "http://materializecss.com/icons.html",
+            },
+            "install": "materialize-css",
+            "js": "http://materializecss.com/carousel.html",
+            "name": "Materialize",
+            "slug": "materialize",
+            "stats": Object {
+              "forks": "3.9K+",
+              "stars": "27K+",
+            },
+            "url": "http://materializecss.com/",
+            "version": "0.99.0",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Materialize
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "details": "https://github.com/uikit/uikit#browser-support",
+              "edge": "Latest",
+              "firefox": "Latest",
+              "ie": "IE9+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "7.1+",
+            },
+            "css": "LESS",
+            "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
+            "documentation": "https://getuikit.com/v2/docs/documentation_get-started.html",
+            "github": "https://github.com/uikit/uikit",
+            "icons": Object {
+              "name": "Font Awesome",
+              "url": "http://fontawesome.io/",
+            },
+            "install": "uikit",
+            "js": "https://getuikit.com/v2/docs/documentation_javascript.html",
+            "name": "UIkit 2",
+            "slug": "uikit-2",
+            "stats": Object {
+              "forks": "1.7K+",
+              "stars": "9.9K+",
+            },
+            "url": "https://getuikit.com/v2/",
+            "version": "2.27.4",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          UIkit 2
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "details": "https://github.com/uikit/uikit#browser-support",
+              "edge": "Latest",
+              "firefox": "Latest",
+              "ie": "IE9+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "7.1+",
+            },
+            "css": "LESS",
+            "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
+            "documentation": "https://getuikit.com/docs/introduction",
+            "github": "https://github.com/uikit/uikit",
+            "icons": Object {
+              "name": "UIkit SVG Icons",
+              "url": "https://getuikit.com/docs/icon",
+            },
+            "install": "uikit@3.0.0-beta.4",
+            "js": "https://getuikit.com/docs/javascript",
+            "name": "UIkit 3 (Beta)",
+            "slug": "uikit-3",
+            "stats": Object {
+              "forks": "1.7K+",
+              "stars": "9.9K+",
+            },
+            "url": "https://getuikit.com/",
+            "version": "3.0.0-Beta.25",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          UIkit 3 (Beta)
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "4+",
+              "chrome": "Latest",
+              "details": "http://primercss.io/about/#browser-support",
+              "firefox": "Latest",
+              "ie": "IE8+",
+              "ios": "6+",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "CSS",
+            "description": "A set of small, responsive CSS modules that you can use in every web project.",
+            "documentation": "http://purecss.io/start/",
+            "github": "https://github.com/yahoo/pure",
+            "icons": false,
+            "install": Object {
+              "bower": "pure",
+              "npm": "purecss",
+              "yarn": "purecss",
+            },
+            "js": false,
+            "licence": Object {
+              "name": "BSD License",
+              "url": "https://github.com/yahoo/pure/blob/master/LICENSE.md",
+            },
+            "name": "Pure.css",
+            "slug": "pure",
+            "stats": Object {
+              "forks": "1.9K+",
+              "stars": "17K+",
+            },
+            "url": "http://purecss.io/",
+            "version": "1.0.0",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Pure.css
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "details": "http://primercss.io/about/#browser-support",
+              "firefox": "Latest",
+              "ie": "IE10+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "SASS",
+            "description": "The CSS toolkit and guidelines that power GitHub.",
+            "documentation": "http://primercss.io/scaffolding/",
+            "github": "https://github.com/primer/primer-css",
+            "icons": Object {
+              "name": "Github Octicons (Optional)",
+              "url": "https://octicons.github.com/",
+            },
+            "install": "primer-css",
+            "js": false,
+            "name": "Primer",
+            "slug": "primer",
+            "stats": Object {
+              "forks": "400+",
+              "stars": "5.7K+",
+            },
+            "url": "http://primercss.io/",
+            "version": "8.0.0",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Primer
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "details": "https://github.com/Semantic-Org/Semantic-UI#browser-support",
+              "edge": "Latest",
+              "firefox": "Latest",
+              "ie": "IE11+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "LESS",
+            "description": "Semantic is a UI component framework based around useful principles from natural language",
+            "documentation": "http://semantic-ui.com/introduction/getting-started.html",
+            "github": "https://github.com/Semantic-Org/Semantic-UI",
+            "icons": Object {
+              "name": "Font Awesome",
+              "url": "http://fontawesome.io/",
+            },
+            "install": "semantic-ui",
+            "js": "http://semantic-ui.com/behaviors/api.html",
+            "name": "Semantic UI",
+            "slug": "semantic-ui",
+            "stats": Object {
+              "forks": "3.9K+",
+              "stars": "35K+",
+            },
+            "url": "http://semantic-ui.com/",
+            "version": "2.2.10",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Semantic UI
-        </span>
-      </button>
-      <button
-        className="is-outlined button is-checkbox is-info"
+      />
+      <SelectButton
+        framework={
+          Object {
+            "css": "LESS",
+            "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development.",
+            "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
+            "github": "https://github.com/picturepan2/spectre",
+            "icons": Object {
+              "name": "Spectre.css Icons",
+              "url": "https://picturepan2.github.io/spectre/elements.html#icons",
+            },
+            "install": "spectre.css",
+            "name": "Spectre.css",
+            "slug": "spectre",
+            "stats": Object {
+              "forks": "300+",
+              "stars": "4.3K+",
+            },
+            "url": "https://picturepan2.github.io/spectre/",
+            "version": "0.2.14",
+          }
+        }
+        isSelected={false}
         onClick={[Function]}
-      >
-        <Icon
-          name="square"
-        />
-        <span>
-          Spectre.css
-        </span>
-      </button>
+      />
     </div>
   </div>
 </div>
