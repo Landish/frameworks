@@ -311,18 +311,18 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
-              disabled={false}
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/dropdown/"
+              target="_blank"
             >
               <Icon
-                name="eye-slash"
+                name="eye"
               />
               <span>
-                N / A
+                Demo
               </span>
-            </span>
+            </a>
           </td>
           <td>
             <a

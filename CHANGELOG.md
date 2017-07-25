@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2017-06-25
+### Added
+- Dropdown component on [Bulma](http://bulma.io).
+
+### Changed
+- [Bulma](http://bulma.io) version to `0.4.4`.
+
 ## [1.1.0] - 2017-06-09
 ### Added
 - [Ink Interface Kit](http://ink.sapo.pt/)

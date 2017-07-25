@@ -97,7 +97,7 @@ exports[`App renders correctly 1`] = `
             "stars": "16K+",
           },
           "url": "http://bulma.io/",
-          "version": "0.4.3",
+          "version": "0.4.4",
         },
         Object {
           "browsers": Object {
@@ -520,7 +520,7 @@ exports[`App renders correctly 1`] = `
             "stars": "16K+",
           },
           "url": "http://bulma.io/",
-          "version": "0.4.3",
+          "version": "0.4.4",
         },
         Object {
           "browsers": Object {
@@ -977,6 +977,7 @@ exports[`App renders correctly 1`] = `
           "supports": Object {
             "bootstrap-3": "http://getbootstrap.com/javascript/#dropdowns",
             "bootstrap-4": "https://v4-alpha.getbootstrap.com/components/dropdowns/",
+            "bulma": "http://bulma.io/documentation/components/dropdown/",
             "foundation-5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/dropdown.html",
             "foundation-6": "http://foundation.zurb.com/sites/docs/dropdown-menu.html",
             "ink": "http://ink.sapo.pt/ui-elements/navigation/#dropdowns",
@@ -1365,7 +1366,7 @@ exports[`App renders correctly 1`] = `
             "stars": "16K+",
           },
           "url": "http://bulma.io/",
-          "version": "0.4.3",
+          "version": "0.4.4",
         },
         Object {
           "browsers": Object {

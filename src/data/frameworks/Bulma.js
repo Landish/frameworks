@@ -19,7 +19,7 @@ export const Bulma = {
     ios: 'Latest',
     android: 'Latest'
   },
-  version: '0.4.3',
+  version: '0.4.4',
   css: 'SASS',
   js: false,
   stats: {
