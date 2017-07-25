@@ -1,14 +1,14 @@
 export default {
   name: 'Thumbnail',
   supports: {
-    'bootstrap-3': 'http://getbootstrap.com/components/#thumbnails',
-    'bootstrap-4': 'https://v4-alpha.getbootstrap.com/content/images/',
+    bootstrap3: 'http://getbootstrap.com/components/#thumbnails',
+    bootstrap4: 'https://v4-alpha.getbootstrap.com/content/images/',
     bulma: 'http://bulma.io/documentation/elements/image/',
-    'foundation-5': 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/thumbnails.html',
-    'foundation-6': 'https://foundation.zurb.com/sites/docs/thumbnail.html',
+    foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/thumbnails.html',
+    foundation6: 'https://foundation.zurb.com/sites/docs/thumbnail.html',
     ink: 'http://ink.sapo.pt/ui-elements/images/',
-    'uikit-2': 'https://getuikit.com/v2/docs/thumbnail.html',
-    'semantic-ui': 'http://semantic-ui.com/elements/image.html',
+    uikit2: 'https://getuikit.com/v2/docs/thumbnail.html',
+    semantic: 'http://semantic-ui.com/elements/image.html',
     spectre: 'https://picturepan2.github.io/spectre/elements.html#media'
   }
 };

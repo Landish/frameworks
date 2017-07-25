@@ -1,6 +1,6 @@
 export const UIkit2 = {
   name: 'UIkit 2',
-  slug: 'uikit-2',
+  slug: 'uikit2',
   install: 'uikit',
   description:
     'A lightweight and modular front-end framework for developing fast and powerful web interfaces',
@@ -33,7 +33,7 @@ export const UIkit2 = {
 
 export const UIkit3 = {
   name: 'UIkit 3 (Beta)',
-  slug: 'uikit-3',
+  slug: 'uikit3',
   install: 'uikit@3.0.0-beta.4',
   description:
     'A lightweight and modular front-end framework for developing fast and powerful web interfaces',

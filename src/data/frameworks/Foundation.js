@@ -1,6 +1,6 @@
 export const Foundation5 = {
   name: 'Foundation 5',
-  slug: 'foundation-5',
+  slug: 'foundation5',
   install: 'foundation-sites@5.5.3',
   description:
     'The most advanced, responsive front-end framework in the world. The framework is mobile friendly and ready for you to customize it any way you want to use it',
@@ -33,7 +33,7 @@ export const Foundation5 = {
 
 export const Foundation6 = {
   name: 'Foundation 6',
-  slug: 'foundation-6',
+  slug: 'foundation6',
   install: 'foundation-sites',
   description: 'The most advanced responsive front-end framework in the world',
   url: 'http://foundation.zurb.com/',

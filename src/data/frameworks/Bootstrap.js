@@ -1,6 +1,6 @@
 export const Bootstrap3 = {
   name: 'Bootstrap 3',
-  slug: 'bootstrap-3',
+  slug: 'bootstrap3',
   install: 'bootstrap',
   description:
     'The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web',
@@ -33,7 +33,7 @@ export const Bootstrap3 = {
 
 export const Bootstrap4 = {
   name: 'Bootstrap 4 (Alpha)',
-  slug: 'bootstrap-4',
+  slug: 'bootstrap4',
   install: 'bootstrap@4.0.0-alpha.6',
   description:
     'Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web',

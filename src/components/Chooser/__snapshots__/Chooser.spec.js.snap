@@ -48,7 +48,7 @@ exports[`Chooser renders correctly 1`] = `
             "install": "bootstrap",
             "js": "http://getbootstrap.com/javascript/",
             "name": "Bootstrap 3",
-            "slug": "bootstrap-3",
+            "slug": "bootstrap3",
             "stats": Object {
               "forks": "52K+",
               "stars": "112K+",
@@ -82,7 +82,7 @@ exports[`Chooser renders correctly 1`] = `
             "install": "bootstrap@4.0.0-alpha.6",
             "js": "https://v4-alpha.getbootstrap.com/getting-started/javascript/",
             "name": "Bootstrap 4 (Alpha)",
-            "slug": "bootstrap-4",
+            "slug": "bootstrap4",
             "stats": Object {
               "forks": "52K+",
               "stars": "112K+",
@@ -154,7 +154,7 @@ exports[`Chooser renders correctly 1`] = `
             "install": "foundation-sites",
             "js": "https://foundation.zurb.com/sites/docs/javascript.html",
             "name": "Foundation 6",
-            "slug": "foundation-6",
+            "slug": "foundation6",
             "stats": Object {
               "forks": "5K+",
               "stars": "25K+",
@@ -191,7 +191,7 @@ exports[`Chooser renders correctly 1`] = `
             "install": "foundation-sites@5.5.3",
             "js": "http://foundation.zurb.com/sites/docs/v/5.5.3/javascript.html",
             "name": "Foundation 5",
-            "slug": "foundation-5",
+            "slug": "foundation5",
             "stats": Object {
               "forks": "5K+",
               "stars": "24K+",
@@ -324,7 +324,7 @@ exports[`Chooser renders correctly 1`] = `
             "install": "uikit",
             "js": "https://getuikit.com/v2/docs/documentation_javascript.html",
             "name": "UIkit 2",
-            "slug": "uikit-2",
+            "slug": "uikit2",
             "stats": Object {
               "forks": "1.7K+",
               "stars": "9.9K+",
@@ -361,7 +361,7 @@ exports[`Chooser renders correctly 1`] = `
             "install": "uikit@3.0.0-beta.4",
             "js": "https://getuikit.com/docs/javascript",
             "name": "UIkit 3 (Beta)",
-            "slug": "uikit-3",
+            "slug": "uikit3",
             "stats": Object {
               "forks": "1.7K+",
               "stars": "9.9K+",
@@ -475,7 +475,7 @@ exports[`Chooser renders correctly 1`] = `
             "install": "semantic-ui",
             "js": "http://semantic-ui.com/behaviors/api.html",
             "name": "Semantic UI",
-            "slug": "semantic-ui",
+            "slug": "semantic",
             "stats": Object {
               "forks": "3.9K+",
               "stars": "35K+",

@@ -11,7 +11,7 @@ import data from '../../data/index';
 class App extends Component {
   state = {
     frameworks: data.frameworks,
-    visible: new Collection(['bootstrap-3', 'bulma', 'semantic-ui', 'ink']),
+    visible: new Collection(['bootstrap3', 'bulma', 'semantic', 'ink']),
     menuOpened: false
   };
 
