@@ -42,7 +42,6 @@ This repository displays popular front-end frameworks with brief information and
 * Badge
 * Breadcrumbs
 * Button
-* Button Groups
 * Card
 * Dropdown
 * Flex Grid
@@ -52,7 +51,8 @@ This repository displays popular front-end frameworks with brief information and
 * Label
 * List
 * Media Object
-* Navbar / Navigation
+* Menu
+* Navbar
 * Off-Canvas
 * Panel
 * Pagination

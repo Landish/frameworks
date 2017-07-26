@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.2] - 2017-06-27
+### Added
+- Menu component.
+- [Foundation 5](http://foundation.zurb.com/sites/docs/v/5.5.3/) and [Foundation 6](http://foundation.zurb.com/) to Navbar component.
+
+### Changed
+- Navbar / Navigation component to Navbar.
+
+### Removed
+- Button Group component.
+- Navbar component from [Pure.css](http://purecss.io/) and [Primer](http://primercss.io/). 
+
 ## [1.1.1] - 2017-06-25
 ### Added
 - Dropdown component on [Bulma](http://bulma.io).

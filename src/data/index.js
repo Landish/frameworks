@@ -15,7 +15,6 @@ import Alert from './components/Alert';
 import Badge from './components/Badge';
 import Breadcrumbs from './components/Breadcrumbs';
 import Button from './components/Button';
-import ButtonGroups from './components/ButtonGroups';
 import Card from './components/Card';
 import Dropdown from './components/Dropdown';
 import FlexGrid from './components/FlexGrid';
@@ -25,6 +24,7 @@ import Icons from './components/Icons';
 import Label from './components/Label';
 import List from './components/List';
 import Media from './components/Media';
+import Menu from './components/Menu';
 import Modal from './components/Modal';
 import Navbar from './components/Navbar';
 import OffCanvas from './components/OffCanvas';
@@ -61,7 +61,6 @@ export default {
     Badge,
     Breadcrumbs,
     Button,
-    ButtonGroups,
     Card,
     Dropdown,
     FlexGrid,
@@ -71,6 +70,7 @@ export default {
     Label,
     List,
     Media,
+    Menu,
     Modal,
     Navbar,
     OffCanvas,
