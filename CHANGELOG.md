@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-### [1.13] - 2017-08-25
+### [1.1.3] - 2017-08-25
 ### Changed
 - [Bulma](http://bulma.io) version to `0.5.1`. 
 - [Bootstrap](https://getbootstrap.com/) version from `alpha` to `beta`.
