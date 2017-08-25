@@ -184,7 +184,8 @@ a.is-middle {
 }
 
 th.is-first {
-  width: 200px;
+  min-width: 150px;
+  width: 150px;
 }
 
 .control.has-text-centered {
