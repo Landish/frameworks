@@ -2,7 +2,7 @@ export default {
   name: 'Dropdown',
   supports: {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#dropdowns',
-    bootstrap4: 'https://v4-alpha.getbootstrap.com/components/dropdowns/',
+    bootstrap4: 'https://getbootstrap.com/docs/4.0/components/dropdowns/',
     bulma: 'http://bulma.io/documentation/components/dropdown/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/dropdown.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/dropdown-menu.html',

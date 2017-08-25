@@ -2,7 +2,7 @@ export default {
   name: 'Form',
   supports: {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#forms',
-    bootstrap4: 'https://v4-alpha.getbootstrap.com/components/forms/',
+    bootstrap4: 'https://getbootstrap.com/docs/4.0/components/forms/',
     bulma: 'http://bulma.io/documentation/elements/form/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html',
     foundation6: 'https://foundation.zurb.com/sites/docs/forms.html',

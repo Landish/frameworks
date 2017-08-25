@@ -2,7 +2,7 @@ export default {
   name: 'Accordion',
   supports: {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#collapse',
-    bootstrap4: 'http://v4-alpha.getbootstrap.com/components/collapse/',
+    bootstrap4: 'https://getbootstrap.com/docs/4.0/components/collapse/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/accordion.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/accordion.html',
     ink: 'http://ink.sapo.pt/javascript-ui/#InkUIToggle_1',

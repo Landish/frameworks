@@ -2,7 +2,7 @@ export default {
   name: 'Progress',
   supports: {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#progress',
-    bootstrap4: 'https://v4-alpha.getbootstrap.com/components/progress/',
+    bootstrap4: 'https://getbootstrap.com/docs/4.0/components/progress/',
     bulma: 'http://bulma.io/documentation/elements/progress/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/progress_bars.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/progress-bar.html',

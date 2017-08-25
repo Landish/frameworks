@@ -2,7 +2,7 @@ export default {
   name: 'Alert',
   supports: {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#alerts',
-    bootstrap4: 'https://v4-alpha.getbootstrap.com/components/alerts/',
+    bootstrap4: 'https://getbootstrap.com/docs/4.0/components/alerts/',
     bulma: 'http://bulma.io/documentation/elements/notification/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/alert_boxes.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/callout.html',

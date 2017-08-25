@@ -1,7 +1,7 @@
 export default {
   name: 'Flex Grid',
   supports: {
-    bootstrap4: 'https://v4-alpha.getbootstrap.com/utilities/flexbox/',
+    bootstrap4: 'https://getbootstrap.com/docs/4.0/layout/grid/',
     bulma: 'http://bulma.io/documentation/grid/columns/',
     foundation6: 'https://foundation.zurb.com/sites/docs/flex-grid.html',
     kube: 'https://imperavi.com/kube/docs/grid/',

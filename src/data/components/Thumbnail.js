@@ -2,7 +2,7 @@ export default {
   name: 'Thumbnail',
   supports: {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#thumbnails',
-    bootstrap4: 'https://v4-alpha.getbootstrap.com/content/images/',
+    bootstrap4: 'http://getbootstrap.com/docs/4.0/content/images/',
     bulma: 'http://bulma.io/documentation/elements/image/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/thumbnails.html',
     foundation6: 'https://foundation.zurb.com/sites/docs/thumbnail.html',

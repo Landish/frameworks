@@ -2,7 +2,6 @@ export default {
   name: 'Label',
   supports: {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#labels',
-    bootstrap4: 'https://v4-alpha.getbootstrap.com/components/badge/',
     bulma: 'http://bulma.io/documentation/elements/tag/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/labels.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/label.html',

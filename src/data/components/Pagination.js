@@ -2,7 +2,7 @@ export default {
   name: 'Pagination',
   supports: {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#pagination',
-    bootstrap4: 'https://v4-alpha.getbootstrap.com/components/pagination/',
+    bootstrap4: 'https://getbootstrap.com/docs/4.0/components/pagination/',
     bulma: 'http://bulma.io/documentation/components/pagination/',
     semantic: 'http://semantic-ui.com/collections/menu.html#pagination',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/pagination.html',

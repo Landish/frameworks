@@ -2,7 +2,7 @@ export default {
   name: 'Button',
   supports: {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#buttons',
-    bootstrap4: 'https://v4-alpha.getbootstrap.com/components/buttons/',
+    bootstrap4: 'https://getbootstrap.com/docs/4.0/components/buttons/',
     bulma: 'http://bulma.io/documentation/elements/button/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/buttons.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/button.html',
