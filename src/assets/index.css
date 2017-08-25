@@ -233,5 +233,12 @@ th.is-first {
     display: block;
     width: 100%;
     text-align: left;
+    position: relative;
+  }
+
+  .button.is-checkbox .tag {
+    position: absolute;
+    right: 0.75em;
+    top: 0.75em;
   }
 }
