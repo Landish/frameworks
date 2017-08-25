@@ -11,6 +11,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/accordion.html',
     uikit3: 'https://getuikit.com/docs/accordion',
     semantic: 'http://semantic-ui.com/modules/accordion.html',
-    spectre: 'https://picturepan2.github.io/spectre/experimentals.html#accordions'
+    spectre: 'https://picturepan2.github.io/spectre/components.html#accordions'
   }
 };

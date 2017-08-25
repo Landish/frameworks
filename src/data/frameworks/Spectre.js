@@ -11,10 +11,10 @@ export const Spectre = {
     name: 'Spectre.css Icons',
     url: 'https://picturepan2.github.io/spectre/elements.html#icons'
   },
-  version: '0.2.14',
+  version: '0.3.1',
   css: 'LESS',
   stats: {
-    stars: '4.3K+',
+    stars: '4.7K+',
     forks: '300+'
   }
 };

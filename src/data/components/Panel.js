@@ -4,6 +4,6 @@ export default {
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#panels',
     uikit2: 'https://getuikit.com/v2/docs/panel.html',
     bulma: 'http://bulma.io/documentation/components/panel/',
-    spectre: 'https://picturepan2.github.io/spectre/layout.html#panels'
+    spectre: 'https://picturepan2.github.io/spectre/components.html#panels'
   }
 };
