@@ -1,7 +1,7 @@
 export default {
   name: 'Typography',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/css/#type',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#type',
     bootstrap4: 'http://v4-alpha.getbootstrap.com/content/typography/',
     bulma: 'http://bulma.io/documentation/elements/content/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/typography.html',

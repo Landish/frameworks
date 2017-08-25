@@ -1,7 +1,7 @@
 export default {
   name: 'Tooltip',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/javascript/#tooltips',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#tooltips',
     bootstrap4: 'https://v4-alpha.getbootstrap.com/components/tooltips/',
     semantic: 'http://semantic-ui.com/modules/popup.html#tooltip',
     foundation6: 'http://foundation.zurb.com/sites/docs/tooltip.html',

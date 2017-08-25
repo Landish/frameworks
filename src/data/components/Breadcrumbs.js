@@ -1,7 +1,7 @@
 export default {
   name: 'Breadcrumbs',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/components/#breadcrumbs',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#breadcrumbs',
     bootstrap4: 'https://v4-alpha.getbootstrap.com/components/breadcrumb/',
     bulma: 'http://bulma.io/documentation/components/breadcrumb/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/breadcrumbs.html',

@@ -1,7 +1,7 @@
 export default {
   name: 'Alert',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/components/#alerts',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#alerts',
     bootstrap4: 'https://v4-alpha.getbootstrap.com/components/alerts/',
     bulma: 'http://bulma.io/documentation/elements/notification/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/alert_boxes.html',

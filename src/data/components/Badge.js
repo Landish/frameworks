@@ -1,7 +1,7 @@
 export default {
   name: 'Badge',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/components/#badges',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#badges',
     bootstrap4: 'https://v4-alpha.getbootstrap.com/components/badge/',
     bulma: 'http://bulma.io/documentation/elements/tag/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/labels.html',

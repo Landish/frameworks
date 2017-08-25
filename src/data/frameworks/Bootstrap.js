@@ -4,7 +4,7 @@ export const Bootstrap3 = {
   install: 'bootstrap',
   description:
     'The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web',
-  url: 'http://getbootstrap.com',
+  url: 'https://getbootstrap.com/docs/3.3/',
   documentation: 'http://getbootstrap.com/getting-started/',
   github: 'https://github.com/twbs/bootstrap',
   icons: {
@@ -26,18 +26,18 @@ export const Bootstrap3 = {
   css: 'LESS',
   js: 'http://getbootstrap.com/javascript/',
   stats: {
-    stars: '112K+',
-    forks: '52K+'
+    stars: '114K+',
+    forks: '53K+'
   }
 };
 
 export const Bootstrap4 = {
-  name: 'Bootstrap 4 (Alpha)',
+  name: 'Bootstrap 4 (Beta)',
   slug: 'bootstrap4',
-  install: 'bootstrap@4.0.0-alpha.6',
+  install: 'bootstrap@4.0.0-beta',
   description:
     'Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web',
-  url: 'https://v4-alpha.getbootstrap.com/',
+  url: 'https://getbootstrap.com/',
   documentation: 'https://v4-alpha.getbootstrap.com/getting-started/introduction/',
   github: 'https://github.com/twbs/bootstrap',
   icons: false,
@@ -52,11 +52,11 @@ export const Bootstrap4 = {
     android: 'Latest',
     details: 'http://v4-alpha.getbootstrap.com/getting-started/browsers-devices/'
   },
-  version: '4.0.0-alpha.6',
+  version: '4.0.0-beta',
   css: 'SASS',
   js: 'https://v4-alpha.getbootstrap.com/getting-started/javascript/',
   stats: {
-    stars: '112K+',
-    forks: '52K+'
+    stars: '114K+',
+    forks: '53K+'
   }
 };

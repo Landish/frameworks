@@ -1,7 +1,7 @@
 export default {
   name: 'Accordion',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/javascript/#collapse',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#collapse',
     bootstrap4: 'http://v4-alpha.getbootstrap.com/components/collapse/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/accordion.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/accordion.html',

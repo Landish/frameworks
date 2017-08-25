@@ -1,7 +1,7 @@
 export default {
   name: 'Modal',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/javascript/#modals',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#modals',
     bootstrap4: 'https://v4-alpha.getbootstrap.com/components/modal/',
     bulma: 'http://bulma.io/documentation/components/modal/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/reveal.html',

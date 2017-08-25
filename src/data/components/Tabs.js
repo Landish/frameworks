@@ -1,7 +1,7 @@
 export default {
   name: 'Tabs',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/javascript/#tabs',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#tabs',
     bootstrap4: 'http://v4-alpha.getbootstrap.com/components/navs/#tabs',
     bulma: 'http://bulma.io/documentation/components/tabs/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/tabs.html',

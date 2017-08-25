@@ -1,7 +1,7 @@
 export default {
   name: 'Menu',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/components/#list-group-linked',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#list-group-linked',
     bootstrap4: 'https://v4-alpha.getbootstrap.com/components/list-group/#links-and-buttons',
     bulma: 'http://bulma.io/documentation/components/menu/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/sidenav.html',

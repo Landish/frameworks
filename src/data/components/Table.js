@@ -1,7 +1,7 @@
 export default {
   name: 'Table',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/css/#tables',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#tables',
     bootstrap4: 'https://v4-alpha.getbootstrap.com/content/tables/',
     bulma: 'http://bulma.io/documentation/elements/table/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/tables.html',

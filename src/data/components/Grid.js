@@ -1,7 +1,7 @@
 export default {
   name: 'Grid',
   supports: {
-    bootstrap3: 'http://getbootstrap.com/css/#grid',
+    bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#grid',
     bootstrap4: 'https://v4-alpha.getbootstrap.com/layout/grid/',
     bulma: 'http://bulma.io/documentation/grid/columns/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html',
