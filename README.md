@@ -30,7 +30,7 @@ This repository displays popular front-end frameworks with brief information and
 * [Foundation 6](http://foundation.zurb.com/) - The most advanced responsive front-end framework in the world.
 * [Ink Interface Kit](http://ink.sapo.pt/) - Ink is a set of tools for quick development of web interfaces.
 * [Kube](https://imperavi.com/kube/) - Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.
-* [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on []Material Design](https://material.io/).
+* [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on [Material Design](https://material.io/).
 * [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
 * [UIKit 2](https://getuikit.com/v2/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 * [UIKit 3 (Beta)](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
