@@ -4,7 +4,7 @@
   "homepage": "https://landish.github.io/frameworks",
   "private": true,
   "dependencies": {
-    "bulma": "^0.4.3",
+    "bulma": "^0.5.1",
     "classnames": "^2.2.5",
     "gh-pages": "^1.0.0",
     "husky": "^0.14.3",

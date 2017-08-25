@@ -21,6 +21,14 @@ h1.title img {
   margin: auto auto 40px;
 }
 
+.title {
+  font-weight: 400;
+}
+
+.hero .title {
+  font-weight: 300;
+}
+
 .field.has-text-centered {
   justify-content: center;
 }
@@ -85,6 +93,7 @@ body {
 
 .table {
   table-layout: fixed;
+  width: 100%;
 }
 
 .container table th,
@@ -111,6 +120,10 @@ table td p {
   font-size: 13px;
 }
 
+a.tag:hover {
+  text-decoration: none;
+}
+
 a.tag.is-success:hover {
   background-color: #1ca64c;
 }
@@ -124,7 +137,7 @@ a.tag.is-info:hover {
 }
 
 pre code {
-  padding: 6px 10px;
+  padding: 3px 10px;
   border: 1px solid #dbdbdb;
   margin-bottom: -1px;
   font-size: 11px;
@@ -145,6 +158,12 @@ pre code {
 
 .button.is-checkbox .icon:first-child:last-child {
   margin-right: 0;
+}
+
+.button.is-checkbox .tag {
+  margin-left: 0.75em;
+  height: auto;
+  padding: 0 .5em;
 }
 
 .icon.is-middle {
