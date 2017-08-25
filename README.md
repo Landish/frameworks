@@ -48,8 +48,8 @@ This repository displays popular front-end frameworks with brief information and
 * Card
 * Dropdown
 * Flex Grid
-* Grid
 * Form
+* Grid
 * Icons
 * Label
 * List
@@ -57,8 +57,8 @@ This repository displays popular front-end frameworks with brief information and
 * Menu
 * Navbar
 * Off-Canvas
-* Panel
 * Pagination
+* Panel
 * Progress
 * Table
 * Tabs

@@ -20,8 +20,8 @@ import Button from './components/Button';
 import Card from './components/Card';
 import Dropdown from './components/Dropdown';
 import FlexGrid from './components/FlexGrid';
-import Grid from './components/Grid';
 import Form from './components/Form';
+import Grid from './components/Grid';
 import Icons from './components/Icons';
 import Label from './components/Label';
 import List from './components/List';
@@ -30,8 +30,8 @@ import Menu from './components/Menu';
 import Modal from './components/Modal';
 import Navbar from './components/Navbar';
 import OffCanvas from './components/OffCanvas';
-import Panel from './components/Panel';
 import Pagination from './components/Pagination';
+import Panel from './components/Panel';
 import Progress from './components/Progress';
 import Table from './components/Table';
 import Tabs from './components/Tabs';
@@ -68,8 +68,8 @@ export default {
     Card,
     Dropdown,
     FlexGrid,
-    Grid,
     Form,
+    Grid,
     Icons,
     Label,
     List,
@@ -78,8 +78,8 @@ export default {
     Modal,
     Navbar,
     OffCanvas,
-    Panel,
     Pagination,
+    Panel,
     Progress,
     Table,
     Tabs,
