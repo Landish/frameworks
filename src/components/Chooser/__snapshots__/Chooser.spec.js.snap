@@ -362,6 +362,30 @@ exports[`Chooser renders correctly 1`] = `
       <SelectButton
         framework={
           Object {
+            "css": "SASS",
+            "description": "Minimal, responsive, style-agnostic CSS framework",
+            "documentation": "http://minicss.org/index",
+            "github": "https://github.com/Chalarangelo/mini.css",
+            "install": "mini.css",
+            "isNew": true,
+            "js": false,
+            "name": "mini.css",
+            "slug": "mini",
+            "stats": Object {
+              "forks": "60+",
+              "stars": "1.8K+",
+            },
+            "url": "http://minicss.org/",
+            "version": "2.3.4",
+          }
+        }
+        isNew={true}
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
             "browsers": Object {
               "android": "Latest",
               "chrome": "Latest",
