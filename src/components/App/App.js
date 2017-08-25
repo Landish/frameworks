@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import createHistory from 'history/createBrowserHistory';
 import Header from '../Header';
 import Navbar from '../Navbar/Navbar';
 import Chooser from '../Chooser';
@@ -15,6 +16,28 @@ class App extends Component {
     visible: new Collection(config.defaultSelected),
     menuOpened: false
   };
+
+  constructor(props) {
+    super(props);
+    this.history = createHistory();
+  }
+
+  componentWillMount() {
+    const { search } = this.history.location;
+
+    if (search && search.indexOf('?compare=') > -1) {
+      const frameworks = search.replace('?compare=', '').split(',');
+      this.setState({
+        visible: new Collection(frameworks)
+      });
+    }
+
+    this.history.listen(location => {
+      this.setState({
+        visible: new Collection(location.state.frameworks)
+      });
+    });
+  }
 
   onFrameworkSelect = framework => {
     const { visible } = this.state;
@@ -33,8 +56,7 @@ class App extends Component {
         visible.add(framework);
       }
 
-      // finally, update
-      this.setState(visible);
+      this.history.push(`/?compare=${visible.all().join(',')}`, { frameworks: visible.all() });
     }
   };
 
