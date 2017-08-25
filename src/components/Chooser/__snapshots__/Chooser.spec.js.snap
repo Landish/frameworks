@@ -362,6 +362,34 @@ exports[`Chooser renders correctly 1`] = `
       <SelectButton
         framework={
           Object {
+            "css": "LESS",
+            "description": "The front-end framework for developing projects on the web in Windows MetroUI Style",
+            "documentation": "https://metroui.org.ua/",
+            "github": "https://github.com/olton/MetroUI-UI-CSS",
+            "icons": Object {
+              "name": "MetroUI Icon Font",
+              "url": "https://metroui.org.ua/font.html",
+            },
+            "install": "metro-dist",
+            "isNew": true,
+            "js": "https://metroui.org.ua/events.html",
+            "name": "Metro UI CSS",
+            "slug": "metro",
+            "stats": Object {
+              "forks": "1.8K+",
+              "stars": "5.3K+",
+            },
+            "url": "https://metroui.org.ua/",
+            "version": "3.0.17",
+          }
+        }
+        isNew={true}
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
             "css": "SASS",
             "description": "Minimal, responsive, style-agnostic CSS framework",
             "documentation": "http://minicss.org/index",
