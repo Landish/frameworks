@@ -41,6 +41,7 @@ h1.title img {
   bottom: 100%;
   font-size: 11px;
   width: 200px;
+  min-width: 100px;
   left: 50%;
   transform: translateX(-50%);
   margin-bottom: 5px;
