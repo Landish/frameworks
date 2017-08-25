@@ -236,7 +236,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
                 1K+
               </span>
               <span
-                className="tag is-rounded is-small is-dark"
+                className="tag is-space is-rounded is-small is-dark"
               >
                 <Icon
                   name="star"
@@ -258,7 +258,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
                 200+
               </span>
               <span
-                className="tag is-rounded is-small is-dark"
+                className="tag is-space is-rounded is-small is-dark"
               >
                 <Icon
                   name="star"
@@ -276,7 +276,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <a
-              className="tag is-rounded is-small is-info"
+              className="tag is-space is-rounded is-small is-info"
               href="https://github.com/jgthms/bulma/releases"
               rel="noopener noreferrer"
               target="_blank"
@@ -292,7 +292,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <a
-              className="tag is-rounded is-small is-info"
+              className="tag is-space is-rounded is-small is-info"
               href="https://github.com/sapo/Ink//releases"
               rel="noopener noreferrer"
               target="_blank"

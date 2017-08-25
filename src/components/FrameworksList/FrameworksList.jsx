@@ -118,7 +118,7 @@ const FrameworksList = ({ frameworks, visible }) => {
                   <Icon name="code-fork" />
                   {framework.stats.forks}
                 </span>
-                <span className="tag is-rounded is-small is-dark">
+                <span className="tag is-space is-rounded is-small is-dark">
                   <Icon name="star" />
                   {framework.stats.stars}
                 </span>
@@ -143,7 +143,7 @@ const FrameworksList = ({ frameworks, visible }) => {
                 target="_blank"
                 rel="noopener noreferrer"
                 href={`${framework.github}/releases`}
-                className="tag is-rounded is-small is-info"
+                className="tag is-space is-rounded is-small is-info"
               >
                 <Icon name="history" />
                 <span>

@@ -212,6 +212,10 @@ th.is-first {
   justify-content: center;
 }
 
+.is-space .icon {
+  margin-right: 3px;
+}
+
 @media (max-width: 1191px) {
   .field.has-addons .button .icon {
     margin-left: 0;
