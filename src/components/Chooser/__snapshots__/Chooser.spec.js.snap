@@ -50,10 +50,10 @@ exports[`Chooser renders correctly 1`] = `
             "name": "Bootstrap 3",
             "slug": "bootstrap3",
             "stats": Object {
-              "forks": "52K+",
-              "stars": "112K+",
+              "forks": "53K+",
+              "stars": "114K+",
             },
-            "url": "http://getbootstrap.com",
+            "url": "https://getbootstrap.com/docs/3.3/",
             "version": "3.3.7",
           }
         }
@@ -79,16 +79,16 @@ exports[`Chooser renders correctly 1`] = `
             "documentation": "https://v4-alpha.getbootstrap.com/getting-started/introduction/",
             "github": "https://github.com/twbs/bootstrap",
             "icons": false,
-            "install": "bootstrap@4.0.0-alpha.6",
+            "install": "bootstrap@4.0.0-beta",
             "js": "https://v4-alpha.getbootstrap.com/getting-started/javascript/",
-            "name": "Bootstrap 4 (Alpha)",
+            "name": "Bootstrap 4 (Beta)",
             "slug": "bootstrap4",
             "stats": Object {
-              "forks": "52K+",
-              "stars": "112K+",
+              "forks": "53K+",
+              "stars": "114K+",
             },
-            "url": "https://v4-alpha.getbootstrap.com/",
-            "version": "4.0.0-alpha.6",
+            "url": "https://getbootstrap.com/",
+            "version": "4.0.0-beta",
           }
         }
         isSelected={false}
@@ -120,10 +120,10 @@ exports[`Chooser renders correctly 1`] = `
             "slug": "bulma",
             "stats": Object {
               "forks": "1K+",
-              "stars": "16K+",
+              "stars": "18K+",
             },
             "url": "http://bulma.io/",
-            "version": "0.4.4",
+            "version": "0.5.1",
           }
         }
         isSelected={true}
@@ -503,10 +503,10 @@ exports[`Chooser renders correctly 1`] = `
             "slug": "spectre",
             "stats": Object {
               "forks": "300+",
-              "stars": "4.3K+",
+              "stars": "4.7K+",
             },
             "url": "https://picturepan2.github.io/spectre/",
-            "version": "0.2.14",
+            "version": "0.3.1",
           }
         }
         isSelected={false}

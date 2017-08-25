@@ -36,10 +36,10 @@ exports[`App renders correctly 1`] = `
           "name": "Bootstrap 3",
           "slug": "bootstrap3",
           "stats": Object {
-            "forks": "52K+",
-            "stars": "112K+",
+            "forks": "53K+",
+            "stars": "114K+",
           },
-          "url": "http://getbootstrap.com",
+          "url": "https://getbootstrap.com/docs/3.3/",
           "version": "3.3.7",
         },
         Object {
@@ -59,16 +59,16 @@ exports[`App renders correctly 1`] = `
           "documentation": "https://v4-alpha.getbootstrap.com/getting-started/introduction/",
           "github": "https://github.com/twbs/bootstrap",
           "icons": false,
-          "install": "bootstrap@4.0.0-alpha.6",
+          "install": "bootstrap@4.0.0-beta",
           "js": "https://v4-alpha.getbootstrap.com/getting-started/javascript/",
-          "name": "Bootstrap 4 (Alpha)",
+          "name": "Bootstrap 4 (Beta)",
           "slug": "bootstrap4",
           "stats": Object {
-            "forks": "52K+",
-            "stars": "112K+",
+            "forks": "53K+",
+            "stars": "114K+",
           },
-          "url": "https://v4-alpha.getbootstrap.com/",
-          "version": "4.0.0-alpha.6",
+          "url": "https://getbootstrap.com/",
+          "version": "4.0.0-beta",
         },
         Object {
           "browsers": Object {
@@ -94,10 +94,10 @@ exports[`App renders correctly 1`] = `
           "slug": "bulma",
           "stats": Object {
             "forks": "1K+",
-            "stars": "16K+",
+            "stars": "18K+",
           },
           "url": "http://bulma.io/",
-          "version": "0.4.4",
+          "version": "0.5.1",
         },
         Object {
           "browsers": Object {
@@ -411,10 +411,10 @@ exports[`App renders correctly 1`] = `
           "slug": "spectre",
           "stats": Object {
             "forks": "300+",
-            "stars": "4.3K+",
+            "stars": "4.7K+",
           },
           "url": "https://picturepan2.github.io/spectre/",
-          "version": "0.2.14",
+          "version": "0.3.1",
         },
       ]
     }
@@ -459,10 +459,10 @@ exports[`App renders correctly 1`] = `
           "name": "Bootstrap 3",
           "slug": "bootstrap3",
           "stats": Object {
-            "forks": "52K+",
-            "stars": "112K+",
+            "forks": "53K+",
+            "stars": "114K+",
           },
-          "url": "http://getbootstrap.com",
+          "url": "https://getbootstrap.com/docs/3.3/",
           "version": "3.3.7",
         },
         Object {
@@ -482,16 +482,16 @@ exports[`App renders correctly 1`] = `
           "documentation": "https://v4-alpha.getbootstrap.com/getting-started/introduction/",
           "github": "https://github.com/twbs/bootstrap",
           "icons": false,
-          "install": "bootstrap@4.0.0-alpha.6",
+          "install": "bootstrap@4.0.0-beta",
           "js": "https://v4-alpha.getbootstrap.com/getting-started/javascript/",
-          "name": "Bootstrap 4 (Alpha)",
+          "name": "Bootstrap 4 (Beta)",
           "slug": "bootstrap4",
           "stats": Object {
-            "forks": "52K+",
-            "stars": "112K+",
+            "forks": "53K+",
+            "stars": "114K+",
           },
-          "url": "https://v4-alpha.getbootstrap.com/",
-          "version": "4.0.0-alpha.6",
+          "url": "https://getbootstrap.com/",
+          "version": "4.0.0-beta",
         },
         Object {
           "browsers": Object {
@@ -517,10 +517,10 @@ exports[`App renders correctly 1`] = `
           "slug": "bulma",
           "stats": Object {
             "forks": "1K+",
-            "stars": "16K+",
+            "stars": "18K+",
           },
           "url": "http://bulma.io/",
-          "version": "0.4.4",
+          "version": "0.5.1",
         },
         Object {
           "browsers": Object {
@@ -834,10 +834,10 @@ exports[`App renders correctly 1`] = `
           "slug": "spectre",
           "stats": Object {
             "forks": "300+",
-            "stars": "4.3K+",
+            "stars": "4.7K+",
           },
           "url": "https://picturepan2.github.io/spectre/",
-          "version": "0.2.14",
+          "version": "0.3.1",
         },
       ]
     }
@@ -859,15 +859,15 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Accordion",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/javascript/#collapse",
-            "bootstrap4": "http://v4-alpha.getbootstrap.com/components/collapse/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#collapse",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/collapse/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/accordion.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/accordion.html",
             "ink": "http://ink.sapo.pt/javascript-ui/#InkUIToggle_1",
             "kube": "https://imperavi.com/kube/docs/collapse/",
             "materialize": "http://materializecss.com/collapsible.html",
             "semantic": "http://semantic-ui.com/modules/accordion.html",
-            "spectre": "https://picturepan2.github.io/spectre/experimentals.html#accordions",
+            "spectre": "https://picturepan2.github.io/spectre/components.html#accordions",
             "uikit2": "https://getuikit.com/v2/docs/accordion.html",
             "uikit3": "https://getuikit.com/docs/accordion",
           },
@@ -875,8 +875,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Alert",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#alerts",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/alerts/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#alerts",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/alerts/",
             "bulma": "http://bulma.io/documentation/elements/notification/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/alert_boxes.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/callout.html",
@@ -892,8 +892,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Badge",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#badges",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/badge/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#badges",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/badge/",
             "bulma": "http://bulma.io/documentation/elements/tag/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/labels.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/badge.html",
@@ -910,8 +910,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Breadcrumbs",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#breadcrumbs",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/breadcrumb/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#breadcrumbs",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/breadcrumb/",
             "bulma": "http://bulma.io/documentation/components/breadcrumb/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/breadcrumbs.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/breadcrumbs.html",
@@ -927,8 +927,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Button",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/css/#buttons",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/buttons/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#buttons",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/buttons/",
             "bulma": "http://bulma.io/documentation/elements/button/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/buttons.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/button.html",
@@ -946,7 +946,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Card",
           "supports": Object {
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/card/",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/card/",
             "bulma": "http://bulma.io/documentation/components/card/",
             "materialize": "http://materializecss.com/cards.html",
             "semantic": "http://semantic-ui.com/views/card.html",
@@ -957,8 +957,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Dropdown",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/javascript/#dropdowns",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/dropdowns/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#dropdowns",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/dropdowns/",
             "bulma": "http://bulma.io/documentation/components/dropdown/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/dropdown.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/dropdown-menu.html",
@@ -973,7 +973,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Flex Grid",
           "supports": Object {
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/utilities/flexbox/",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/layout/grid/",
             "bulma": "http://bulma.io/documentation/grid/columns/",
             "foundation6": "https://foundation.zurb.com/sites/docs/flex-grid.html",
             "ink": "http://ink.sapo.pt/ui-elements/flexbox/",
@@ -987,8 +987,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Grid",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/css/#grid",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/layout/grid/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#grid",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/layout/grid/",
             "bulma": "http://bulma.io/documentation/grid/columns/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html",
             "foundation6": "https://foundation.zurb.com/sites/docs/grid.html",
@@ -1006,8 +1006,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Form",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/css/#forms",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/forms/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#forms",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/forms/",
             "bulma": "http://bulma.io/documentation/elements/form/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html",
             "foundation6": "https://foundation.zurb.com/sites/docs/forms.html",
@@ -1024,7 +1024,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Icons",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#glyphicons-glyphs",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#glyphicons",
             "bulma": "http://bulma.io/documentation/elements/icon/",
             "foundation5": "http://zurb.com/playground/foundation-icon-fonts-3",
             "foundation6": "http://zurb.com/playground/foundation-icon-fonts-3",
@@ -1038,8 +1038,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Label",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#labels",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/badge/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#labels",
             "bulma": "http://bulma.io/documentation/elements/tag/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/labels.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/label.html",
@@ -1054,8 +1053,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "List",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#list-group",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/list-group/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#list-group",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/list-group/",
             "materialize": "http://materializecss.com/collections.html",
             "primer": "http://primercss.io/type/#lists",
             "semantic": "http://semantic-ui.com/elements/list.html",
@@ -1066,8 +1065,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Media Object",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#media",
-            "bootstrap4": "http://v4-alpha.getbootstrap.com/layout/media-object/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#media",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/layout/media-object/",
             "bulma": "http://bulma.io/documentation/components/media-object/",
             "foundation6": "http://foundation.zurb.com/sites/docs/media-object.html",
           },
@@ -1075,8 +1074,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Menu",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#list-group-linked",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/list-group/#links-and-buttons",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#list-group-linked",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/list-group/#links-and-buttons",
             "bulma": "http://bulma.io/documentation/components/menu/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/sidenav.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/menu.html",
@@ -1092,8 +1091,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Modal",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/javascript/#modals",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/modal/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#modals",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/modal/",
             "bulma": "http://bulma.io/documentation/components/modal/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/reveal.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/reveal.html",
@@ -1109,8 +1108,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Navbar",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#navbar",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/navbar/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#navbar",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/navbar/",
             "bulma": "http://bulma.io/documentation/components/navbar/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/topbar.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/top-bar.html",
@@ -1137,17 +1136,17 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Panel",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#panels",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#panels",
             "bulma": "http://bulma.io/documentation/components/panel/",
-            "spectre": "https://picturepan2.github.io/spectre/layout.html#panels",
+            "spectre": "https://picturepan2.github.io/spectre/components.html#panels",
             "uikit2": "https://getuikit.com/v2/docs/panel.html",
           },
         },
         Object {
           "name": "Pagination",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#pagination",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/pagination/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#pagination",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/pagination/",
             "bulma": "http://bulma.io/documentation/components/pagination/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/pagination.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/pagination.html",
@@ -1163,8 +1162,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Progress",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#progress",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/progress/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#progress",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/progress/",
             "bulma": "http://bulma.io/documentation/elements/progress/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/progress_bars.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/progress-bar.html",
@@ -1179,8 +1178,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Table",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/css/#tables",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/content/tables/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#tables",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/content/tables/",
             "bulma": "http://bulma.io/documentation/elements/table/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/tables.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/table.html",
@@ -1197,7 +1196,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Tabs",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/javascript/#tabs",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#tabs",
             "bootstrap4": "http://v4-alpha.getbootstrap.com/components/navs/#tabs",
             "bulma": "http://bulma.io/documentation/components/tabs/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/tabs.html",
@@ -1215,8 +1214,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Thumbnail",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/components/#thumbnails",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/content/images/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#thumbnails",
+            "bootstrap4": "http://getbootstrap.com/docs/4.0/content/images/",
             "bulma": "http://bulma.io/documentation/elements/image/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/thumbnails.html",
             "foundation6": "https://foundation.zurb.com/sites/docs/thumbnail.html",
@@ -1229,8 +1228,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Tooltip",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/javascript/#tooltips",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/components/tooltips/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#tooltips",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/tooltips/",
             "foundation6": "http://foundation.zurb.com/sites/docs/tooltip.html",
             "ink": "http://ink.sapo.pt/javascript-ui/#InkUITooltip_1",
             "materialize": "http://materializecss.com/dialogs.html#tooltip",
@@ -1244,8 +1243,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Typography",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/css/#type",
-            "bootstrap4": "http://v4-alpha.getbootstrap.com/content/typography/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#type",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/content/typography/",
             "bulma": "http://bulma.io/documentation/elements/content/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/typography.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/typography-base.html",
@@ -1261,8 +1260,8 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Utilities",
           "supports": Object {
-            "bootstrap3": "http://getbootstrap.com/css/#helper-classes",
-            "bootstrap4": "https://v4-alpha.getbootstrap.com/utilities/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#helper-classes",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/utilities/",
             "bulma": "http://bulma.io/documentation/modifiers/helpers/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/utility-classes.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/sass-functions.html",
@@ -1304,10 +1303,10 @@ exports[`App renders correctly 1`] = `
           "name": "Bootstrap 3",
           "slug": "bootstrap3",
           "stats": Object {
-            "forks": "52K+",
-            "stars": "112K+",
+            "forks": "53K+",
+            "stars": "114K+",
           },
-          "url": "http://getbootstrap.com",
+          "url": "https://getbootstrap.com/docs/3.3/",
           "version": "3.3.7",
         },
         Object {
@@ -1327,16 +1326,16 @@ exports[`App renders correctly 1`] = `
           "documentation": "https://v4-alpha.getbootstrap.com/getting-started/introduction/",
           "github": "https://github.com/twbs/bootstrap",
           "icons": false,
-          "install": "bootstrap@4.0.0-alpha.6",
+          "install": "bootstrap@4.0.0-beta",
           "js": "https://v4-alpha.getbootstrap.com/getting-started/javascript/",
-          "name": "Bootstrap 4 (Alpha)",
+          "name": "Bootstrap 4 (Beta)",
           "slug": "bootstrap4",
           "stats": Object {
-            "forks": "52K+",
-            "stars": "112K+",
+            "forks": "53K+",
+            "stars": "114K+",
           },
-          "url": "https://v4-alpha.getbootstrap.com/",
-          "version": "4.0.0-alpha.6",
+          "url": "https://getbootstrap.com/",
+          "version": "4.0.0-beta",
         },
         Object {
           "browsers": Object {
@@ -1362,10 +1361,10 @@ exports[`App renders correctly 1`] = `
           "slug": "bulma",
           "stats": Object {
             "forks": "1K+",
-            "stars": "16K+",
+            "stars": "18K+",
           },
           "url": "http://bulma.io/",
-          "version": "0.4.4",
+          "version": "0.5.1",
         },
         Object {
           "browsers": Object {
@@ -1679,10 +1678,10 @@ exports[`App renders correctly 1`] = `
           "slug": "spectre",
           "stats": Object {
             "forks": "300+",
-            "stars": "4.3K+",
+            "stars": "4.7K+",
           },
           "url": "https://picturepan2.github.io/spectre/",
-          "version": "0.2.14",
+          "version": "0.3.1",
         },
       ]
     }

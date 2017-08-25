@@ -233,43 +233,6 @@ exports[`Components List renders correctly 1`] = `
             <span
               className="tag is-info"
             >
-              Button Groups
-            </span>
-          </td>
-          <td>
-            <a
-              className="button is-fixed is-small is-info is-outlined"
-              href="http://bulma.io/documentation/elements/button/"
-              target="_blank"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </a>
-          </td>
-          <td>
-            <a
-              className="button is-fixed is-small is-info is-outlined"
-              href="http://ink.sapo.pt/ui-elements/buttons/#button-groups"
-              target="_blank"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <span
-              className="tag is-info"
-            >
               Card
             </span>
           </td>
@@ -603,6 +566,43 @@ exports[`Components List renders correctly 1`] = `
             <span
               className="tag is-info"
             >
+              Menu
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/menu/"
+              target="_blank"
+            >
+              <Icon
+                name="eye"
+              />
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/navigation/#menus"
+              target="_blank"
+            >
+              <Icon
+                name="eye"
+              />
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info"
+            >
               Modal
             </span>
           </td>
@@ -640,7 +640,7 @@ exports[`Components List renders correctly 1`] = `
             <span
               className="tag is-info"
             >
-              Navbar / Navigation
+              Navbar
             </span>
           </td>
           <td>

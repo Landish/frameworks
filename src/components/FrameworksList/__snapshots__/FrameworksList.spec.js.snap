@@ -241,7 +241,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
                 <Icon
                   name="star"
                 />
-                16K+
+                18K+
               </span>
             </div>
           </td>
@@ -286,7 +286,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
               />
               <span>
                 v
-                0.4.4
+                0.5.1
               </span>
             </a>
           </td>
