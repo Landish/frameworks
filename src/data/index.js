@@ -14,6 +14,7 @@ import { Spectre } from './frameworks/Spectre';
 
 import Accordion from './components/Accordion';
 import Alert from './components/Alert';
+import Avatar from './components/Avatar';
 import Badge from './components/Badge';
 import Breadcrumbs from './components/Breadcrumbs';
 import Button from './components/Button';
@@ -62,6 +63,7 @@ export default {
   components: [
     Accordion,
     Alert,
+    Avatar,
     Badge,
     Breadcrumbs,
     Button,
