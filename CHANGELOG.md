@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.13] - 2017-08-25
+### Changed
+- [Bulma](http://bulma.io) version to `0.5.1`. 
+- [Bootstrap](https://getbootstrap.com/) version from `alpha` to `beta`.
+- [Spectre.css](https://picturepan2.github.io/spectre/index.html) version to `0.3.1`.
+
 ## [1.1.2] - 2017-06-27
 ### Added
 - Menu component.
