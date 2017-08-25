@@ -60,7 +60,7 @@ class App extends Component {
         visible.add(framework);
       }
 
-      this.history.push(`/?compare=${visible.all().join(',')}`, { frameworks: visible.all() });
+      this.history.push(`./?compare=${visible.all().join(',')}`, { frameworks: visible.all() });
     }
   };
 
