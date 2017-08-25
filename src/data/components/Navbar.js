@@ -10,6 +10,7 @@ export default {
     foundation6: 'http://foundation.zurb.com/sites/docs/top-bar.html',
     ink: 'http://ink.sapo.pt/ui-elements/navigation/',
     materialize: 'http://materializecss.com/navbar.html',
+    metro: 'https://metroui.org.ua/appbar.html',
     mini: 'http://minicss.org/navigation#header',
     uikit2: 'https://getuikit.com/v2/docs/navbar.html',
     uikit3: 'https://getuikit.com/docs/navbar',

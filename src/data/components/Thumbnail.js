@@ -8,6 +8,7 @@ export default {
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/thumbnails.html',
     foundation6: 'https://foundation.zurb.com/sites/docs/thumbnail.html',
     ink: 'http://ink.sapo.pt/ui-elements/images/',
+    metro: 'https://metroui.org.ua/images.html',
     mini: 'http://minicss.org/core#images-captions',
     uikit2: 'https://getuikit.com/v2/docs/thumbnail.html',
     semantic: 'http://semantic-ui.com/elements/image.html',

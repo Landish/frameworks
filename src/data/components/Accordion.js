@@ -10,6 +10,7 @@ export default {
     ink: 'http://ink.sapo.pt/javascript-ui/#InkUIToggle_1',
     kube: 'https://imperavi.com/kube/docs/collapse/',
     materialize: 'http://materializecss.com/collapsible.html',
+    metro: 'https://metroui.org.ua/accordion.html',
     mini: 'http://minicss.org/tab#stacked-tabs',
     uikit2: 'https://getuikit.com/v2/docs/accordion.html',
     uikit3: 'https://getuikit.com/docs/accordion',

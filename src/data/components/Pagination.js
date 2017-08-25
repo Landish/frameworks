@@ -9,9 +9,10 @@ export default {
     semantic: 'http://semantic-ui.com/collections/menu.html#pagination',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/pagination.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/pagination.html',
-    kube: 'https://imperavi.com/kube/docs/pagination/',
     ink: 'http://ink.sapo.pt/ui-elements/navigation/#pagination',
+    kube: 'https://imperavi.com/kube/docs/pagination/',
     materialize: 'http://materializecss.com/pagination.html',
+    metro: 'https://metroui.org.ua/buttons.html',
     uikit2: 'https://getuikit.com/v2/docs/pagination.html',
     uikit3: 'https://getuikit.com/docs/pagination',
     spectre: 'https://picturepan2.github.io/spectre/components.html#pagination'

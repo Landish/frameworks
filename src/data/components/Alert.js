@@ -10,6 +10,7 @@ export default {
     foundation6: 'http://foundation.zurb.com/sites/docs/callout.html',
     ink: 'http://ink.sapo.pt/ui-elements/alerts/',
     kube: 'https://imperavi.com/kube/docs/alerts/',
+    metro: 'https://metroui.org.ua/notify.html',
     uikit2: 'https://getuikit.com/v2/docs/alert.html',
     uikit3: 'https://getuikit.com/docs/alert',
     primer: 'http://primercss.io/alerts/',

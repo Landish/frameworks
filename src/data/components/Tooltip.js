@@ -10,6 +10,7 @@ export default {
     foundation6: 'http://foundation.zurb.com/sites/docs/tooltip.html',
     ink: 'http://ink.sapo.pt/javascript-ui/#InkUITooltip_1',
     materialize: 'http://materializecss.com/dialogs.html#tooltip',
+    metro: 'https://metroui.org.ua/hints.html',
     mini: 'http://minicss.org/contextual#tooltips',
     uikit2: 'https://getuikit.com/v2/docs/tooltip.html',
     uikit3: 'https://getuikit.com/docs/tooltip',

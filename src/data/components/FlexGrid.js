@@ -7,6 +7,7 @@ export default {
     foundation6: 'https://foundation.zurb.com/sites/docs/flex-grid.html',
     ink: 'http://ink.sapo.pt/ui-elements/flexbox/',
     kube: 'https://imperavi.com/kube/docs/grid/',
+    metro: 'https://metroui.org.ua/flexgrid.html',
     mini: 'http://minicss.org/grid',
     uikit2: 'https://getuikit.com/v2/docs/flex.html',
     uikit3: 'https://getuikit.com/docs/flex',

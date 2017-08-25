@@ -9,6 +9,7 @@ export default {
     foundation6: 'http://foundation.zurb.com/sites/docs/dropdown-menu.html',
     ink: 'http://ink.sapo.pt/ui-elements/navigation/#dropdowns',
     materialize: 'http://materializecss.com/dropdown.html',
+    metro: 'https://metroui.org.ua/buttons.html',
     uikit2: 'https://getuikit.com/v2/docs/dropdown.html',
     uikit3: 'https://getuikit.com/docs/dropdown',
     semantic: 'http://semantic-ui.com/modules/dropdown.html',

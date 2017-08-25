@@ -11,6 +11,7 @@ export default {
     ink: 'http://ink.sapo.pt/ui-elements/navigation/#breadcrumbs',
     kube: 'https://imperavi.com/kube/docs/breadcrumbs/',
     materialize: 'http://materializecss.com/breadcrumbs.html',
+    metro: 'https://metroui.org.ua/buttons.html',
     mini: 'http://minicss.org/utility#breadcrumbs',
     uikit2: 'https://getuikit.com/v2/docs/breadcrumb.html',
     uikit3: 'https://getuikit.com/docs/breadcrumb',

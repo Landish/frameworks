@@ -11,6 +11,7 @@ export default {
     kube: 'https://imperavi.com/kube/docs/buttons/',
     ink: 'http://ink.sapo.pt/ui-elements/buttons/',
     materialize: 'http://materializecss.com/buttons.html',
+    metro: 'https://metroui.org.ua/buttons.html',
     mini: 'http://minicss.org/input_control#buttons',
     uikit2: 'https://getuikit.com/v2/docs/button.html',
     uikit3: 'https://getuikit.com/docs/button',
