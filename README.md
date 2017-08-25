@@ -42,6 +42,7 @@ This repository displays popular front-end frameworks with brief information and
 
 * Accordion
 * Alert
+* Avatar
 * Badge
 * Breadcrumbs
 * Button

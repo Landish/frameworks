@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [X.X.X] - XXXX-XX-XX
+### Added
+- [Amaze UI](http://amazeui.github.io/docs/en/)
+- [Blaze CSS](http://blazecss.com/)
+- Avatar component.
+
+### Changed 
+ - Components order. Now it's sorted alphabetically.
+ - Bulma dependency to `0.5.1`. 
+
 ### [1.1.3] - 2017-08-25
 ### Changed
 - [Bulma](http://bulma.io) version to `0.5.1`. 
