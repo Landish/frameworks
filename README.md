@@ -21,8 +21,8 @@ This repository displays popular front-end frameworks with brief information and
 
 ## List of Frameworks
 
-* [Bootstrap 3](http://getbootstrap.com/)
-* [Bootstrap 4 (Alpha)](https://v4-alpha.getbootstrap.com/)
+* [Bootstrap 3](https://getbootstrap.com/docs/3.3/)
+* [Bootstrap 4 (Beta)](https://getbootstrap.com/)
 * [Bulma](http://bulma.io/)
 * [Foundation 5](http://foundation.zurb.com/sites/docs/v/5.5.3/)
 * [Foundation 6](http://foundation.zurb.com/)
