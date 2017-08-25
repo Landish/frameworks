@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://github.com/Landish/frameworks/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" /></a>
 <a href="https://travis-ci.org/Landish/frameworks"><img src="https://travis-ci.org/Landish/frameworks.svg?branch=master" alt="Build Status" /></a>
+<a href="https://github.com/commitizen/cz-cli"><img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly" /></a>
 <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="styled with prettier" /></a>
 <a href="https://bulma.io"><img src="https://img.shields.io/badge/Built-with%20Bulma-00d1b2.svg"  alt="Built with Bulma" /></a>
 <a href="https://facebook.github.io/react/"><img src="https://img.shields.io/badge/Built-with%20React-blue.svg"  alt="Built with React" /></a>
