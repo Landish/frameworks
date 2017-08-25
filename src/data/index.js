@@ -3,6 +3,7 @@ import { BlazeCSS } from './frameworks/BlazeCSS';
 import { Bootstrap3, Bootstrap4 } from './frameworks/Bootstrap';
 import { Bulma } from './frameworks/Bulma';
 import { Foundation5, Foundation6 } from './frameworks/Foundation';
+import { Gumby } from './frameworks/Gumby';
 import { Ink } from './frameworks/Ink';
 import { Kube } from './frameworks/Kube';
 import { Materialize } from './frameworks/Materialize';
@@ -53,6 +54,7 @@ export default {
     Bulma,
     Foundation5,
     Foundation6,
+    Gumby,
     Ink,
     Kube,
     Materialize,

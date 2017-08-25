@@ -8,6 +8,7 @@ export default {
     bulma: 'http://bulma.io/documentation/components/modal/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/reveal.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/reveal.html',
+    gumby: 'https://gumbyframework.com/docs/components/#!/modals',
     ink: 'http://ink.sapo.pt/javascript-ui/#InkUIModal_1',
     kube: 'https://imperavi.com/kube/docs/modals/',
     materialize: 'http://materializecss.com/modals.html',

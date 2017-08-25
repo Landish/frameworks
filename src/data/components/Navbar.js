@@ -8,6 +8,7 @@ export default {
     bulma: 'http://bulma.io/documentation/components/navbar/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/topbar.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/top-bar.html',
+    gumby: 'https://gumbyframework.com/docs/ui-kit/#!/navigation',
     ink: 'http://ink.sapo.pt/ui-elements/navigation/',
     materialize: 'http://materializecss.com/navbar.html',
     metro: 'https://metroui.org.ua/appbar.html',

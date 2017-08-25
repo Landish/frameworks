@@ -264,6 +264,37 @@ exports[`Chooser renders correctly 1`] = `
         framework={
           Object {
             "css": "SASS",
+            "description": "A Flexible, Responsive CSS Framework - Powered by Sass",
+            "documentation": "https://gumbyframework.com/docs/",
+            "github": "https://github.com/GumbyFramework/Gumby",
+            "icons": Object {
+              "name": "Entypo",
+              "url": "https://gumbyframework.com/docs/ui-kit/#!/icons",
+            },
+            "install": Object {
+              "bower": "gumby",
+              "npm": false,
+            },
+            "isNew": true,
+            "js": "https://gumbyframework.com/docs/javascript/",
+            "name": "Gumby",
+            "slug": "gumby",
+            "stats": Object {
+              "forks": "500+",
+              "stars": "3K+",
+            },
+            "url": "https://gumbyframework.com/",
+            "version": "2.6.4",
+          }
+        }
+        isNew={true}
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
+            "css": "SASS",
             "description": "Ink is a set of tools for quick development of web interfaces",
             "documentation": "http://ink.sapo.pt/ui-elements/",
             "github": "https://github.com/sapo/Ink/",

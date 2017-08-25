@@ -8,6 +8,7 @@ export default {
     bulma: 'http://bulma.io/documentation/elements/form/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html',
     foundation6: 'https://foundation.zurb.com/sites/docs/forms.html',
+    gumby: 'https://gumbyframework.com/docs/ui-kit/#!/forms',
     ink: 'http://ink.sapo.pt/ui-elements/forms/',
     materialize: 'http://materializecss.com/forms.html',
     metro: 'https://metroui.org.ua/inputs.html',

@@ -8,6 +8,7 @@ export default {
     bulma: 'http://bulma.io/documentation/components/tabs/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/tabs.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/tabs.html',
+    gumby: 'https://gumbyframework.com/docs/ui-kit/#!/tabs',
     ink: 'http://ink.sapo.pt/javascript-ui/#InkUITabs_1',
     kube: 'https://imperavi.com/kube/docs/tabs/',
     materialize: 'http://materializecss.com/tabs.html',

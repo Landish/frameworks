@@ -8,6 +8,7 @@ export default {
     semantic: 'http://semantic-ui.com/modules/popup.html#tooltip',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/tooltips.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/tooltip.html',
+    gumby: 'https://gumbyframework.com/docs/ui-kit/#!/tooltips',
     ink: 'http://ink.sapo.pt/javascript-ui/#InkUITooltip_1',
     materialize: 'http://materializecss.com/dialogs.html#tooltip',
     metro: 'https://metroui.org.ua/hints.html',

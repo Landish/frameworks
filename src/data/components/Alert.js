@@ -8,6 +8,7 @@ export default {
     bulma: 'http://bulma.io/documentation/elements/notification/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/alert_boxes.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/callout.html',
+    gumby: 'https://gumbyframework.com/docs/ui-kit/#!/indicators',
     ink: 'http://ink.sapo.pt/ui-elements/alerts/',
     kube: 'https://imperavi.com/kube/docs/alerts/',
     metro: 'https://metroui.org.ua/notify.html',
