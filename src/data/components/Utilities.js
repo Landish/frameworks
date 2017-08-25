@@ -11,6 +11,7 @@ export default {
     kube: 'https://imperavi.com/kube/docs/utilities/',
     ink: 'http://ink.sapo.pt/ui-elements/helpers/',
     materialize: 'http://materializecss.com/helpers.html',
+    mini: 'http://minicss.org/utility',
     uikit2: 'https://getuikit.com/v2/docs/utility.html',
     uikit3: 'https://getuikit.com/docs/utility',
     primer: 'http://primercss.io/utilities/',

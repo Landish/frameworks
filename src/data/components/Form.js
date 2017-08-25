@@ -10,6 +10,7 @@ export default {
     foundation6: 'https://foundation.zurb.com/sites/docs/forms.html',
     ink: 'http://ink.sapo.pt/ui-elements/forms/',
     materialize: 'http://materializecss.com/forms.html',
+    mini: 'http://minicss.org/input_control',
     uikit2: 'https://getuikit.com/v2/docs/form.html',
     uikit3: 'https://getuikit.com/docs/form',
     pure: 'http://purecss.io/forms/',

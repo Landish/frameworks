@@ -11,7 +11,7 @@ import data from '../../data/index';
 class App extends Component {
   state = {
     frameworks: data.frameworks,
-    visible: new Collection(['amaze', 'blaze', 'bootstrap4', 'bulma']),
+    visible: new Collection(['amaze', 'blaze', 'bootstrap4', 'mini']),
     menuOpened: false
   };
 

@@ -11,6 +11,7 @@ export default {
     ink: 'http://ink.sapo.pt/javascript-ui/#InkUITabs_1',
     kube: 'https://imperavi.com/kube/docs/tabs/',
     materialize: 'http://materializecss.com/tabs.html',
+    mini: 'http://minicss.org/tab',
     uikit2: 'https://getuikit.com/v2/docs/tab.html',
     uikit3: 'https://getuikit.com/docs/tab',
     primer: 'http://primercss.io/nav/#tabnav',

@@ -6,6 +6,7 @@ import { Foundation5, Foundation6 } from './frameworks/Foundation';
 import { Ink } from './frameworks/Ink';
 import { Kube } from './frameworks/Kube';
 import { Materialize } from './frameworks/Materialize';
+import { Mini } from './frameworks/Mini';
 import { UIkit2, UIkit3 } from './frameworks/UIkit';
 import { Pure } from './frameworks/Pure';
 import { Primer } from './frameworks/Primer';
@@ -54,6 +55,7 @@ export default {
     Ink,
     Kube,
     Materialize,
+    Mini,
     UIkit2,
     UIkit3,
     Pure,

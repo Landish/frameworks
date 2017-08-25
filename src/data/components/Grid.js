@@ -11,6 +11,7 @@ export default {
     kube: 'https://imperavi.com/kube/docs/grid/',
     ink: 'http://ink.sapo.pt/ui-elements/grid/',
     materialize: 'http://materializecss.com/grid.html',
+    mini: 'http://minicss.org/grid',
     uikit2: 'https://getuikit.com/v2/docs/grid.html',
     uikit3: 'https://getuikit.com/docs/grid',
     pure: 'http://purecss.io/grids/',

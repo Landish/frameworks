@@ -11,6 +11,7 @@ export default {
     kube: 'https://imperavi.com/kube/docs/tables/',
     ink: 'http://ink.sapo.pt/ui-elements/tables/',
     materialize: 'http://materializecss.com/table.html',
+    mini: 'http://minicss.org/table',
     uikit2: 'https://getuikit.com/v2/docs/table.html',
     uikit3: 'https://getuikit.com/docs/table',
     pure: 'http://purecss.io/tables/',

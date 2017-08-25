@@ -11,6 +11,7 @@ export default {
     kube: 'https://imperavi.com/kube/docs/modals/',
     ink: 'http://ink.sapo.pt/javascript-ui/#InkUIModal_1',
     materialize: 'http://materializecss.com/modals.html',
+    mini: 'http://minicss.org/contextual#modals',
     uikit2: 'https://getuikit.com/v2/docs/modal.html',
     uikit3: 'https://getuikit.com/docs/modal',
     semantic: 'http://semantic-ui.com/modules/modal.html',

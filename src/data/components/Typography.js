@@ -11,6 +11,7 @@ export default {
     kube: 'https://imperavi.com/kube/docs/typography/',
     ink: 'http://ink.sapo.pt/ui-elements/typography/',
     materialize: 'http://materializecss.com/typography.html',
+    mini: 'http://minicss.org/core#typography',
     uikit2: 'https://getuikit.com/v2/docs/base.html',
     uikit3: 'https://getuikit.com/docs/base',
     primer: 'http://primercss.io/type/',

@@ -7,6 +7,7 @@ export default {
     bulma: 'http://bulma.io/documentation/components/menu/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/sidenav.html',
     foundation6: 'http://foundation.zurb.com/sites/docs/menu.html',
+    mini: 'http://minicss.org/navigation#navigation-bar',
     ink: 'http://ink.sapo.pt/ui-elements/navigation/#menus',
     uikit2: 'https://getuikit.com/v2/docs/nav.html',
     uikit3: 'https://getuikit.com/docs/nav',
