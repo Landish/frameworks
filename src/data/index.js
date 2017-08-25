@@ -33,6 +33,7 @@ import Navbar from './components/Navbar';
 import OffCanvas from './components/OffCanvas';
 import Pagination from './components/Pagination';
 import Panel from './components/Panel';
+import Popover from './components/Popover';
 import Progress from './components/Progress';
 import Table from './components/Table';
 import Tabs from './components/Tabs';
@@ -48,8 +49,8 @@ export default {
     Bootstrap3,
     Bootstrap4,
     Bulma,
-    Foundation6,
     Foundation5,
+    Foundation6,
     Ink,
     Kube,
     Materialize,
@@ -82,6 +83,7 @@ export default {
     OffCanvas,
     Pagination,
     Panel,
+    Popover,
     Progress,
     Table,
     Tabs,

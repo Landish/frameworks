@@ -60,6 +60,7 @@ This repository displays popular front-end frameworks with brief information and
 * Off-Canvas
 * Pagination
 * Panel
+* Popover
 * Progress
 * Table
 * Tabs

@@ -6,11 +6,14 @@ All notable changes to this project will be documented in this file.
 ### Added
 - [Amaze UI](http://amazeui.github.io/docs/en/)
 - [Blaze CSS](http://blazecss.com/)
+- [Foundation 5](http://foundation.zurb.com/sites/docs/v/5.5.3/) and [Foundation 6](http://foundation.zurb.com/) to Tooltip component.
 - Avatar component.
+- Popover component.
 
 ### Changed 
  - Components order. Now it's sorted alphabetically.
- - Bulma dependency to `0.5.1`. 
+ - Bulma dependency to `0.5.1`.
+ - Docs url for [Ink Interface Kit](http://ink.sapo.pt/).
 
 ### [1.1.3] - 2017-08-25
 ### Changed
