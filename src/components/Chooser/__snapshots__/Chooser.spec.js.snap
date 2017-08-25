@@ -5,18 +5,20 @@ exports[`Chooser renders correctly 1`] = `
   className="section has-text-centered"
 >
   <div
-    className="container"
+    className="container is-fullhd"
   >
     <h2
       className="subtitle is-5"
     >
       Select 
       <strong>
-        at least 2
+        at least 
+        2
       </strong>
        and 
       <strong>
-        maximum 4
+        maximum 
+        4
       </strong>
        front-end frameworks and compare them to each other.
     </h2>

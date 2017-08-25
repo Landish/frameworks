@@ -5,7 +5,7 @@ exports[`Navbar renders correctly 1`] = `
   className="nav"
 >
   <div
-    className="container"
+    className="container is-fullhd"
   >
     <div
       className="nav-left"

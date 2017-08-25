@@ -7,7 +7,7 @@ import Footer from '../Footer';
 import ComponentsList from '../ComponentsList';
 import Collection from '../../core/Collection';
 import data from '../../data/index';
-import config from '../../config.json';
+import config from '../../config';
 
 class App extends Component {
   state = {
@@ -17,22 +17,23 @@ class App extends Component {
   };
 
   onFrameworkSelect = framework => {
-    let visible = this.state.visible;
+    const { visible } = this.state;
+    const { minimum, maximum } = config;
 
-    if (visible.size() >= 2 && visible.size() < 5) {
-      // if can remove
-      if (visible.has(framework) && visible.size() > 2) {
+    // if in range between `minimum` and `maximum`
+    if (visible.size() >= minimum && visible.size() <= maximum) {
+      if (visible.has(framework) && visible.size() > minimum) {
         visible.remove(framework);
-      } else if (!visible.has(framework) && visible.size() < 4) {
-        // if can add
+      } else if (!visible.has(framework) && visible.size() < maximum) {
         visible.add(framework);
       } else {
-        if (visible.size() > 2) {
+        if (visible.size() > minimum) {
           visible.removeFirst();
         }
         visible.add(framework);
       }
 
+      // finally, update
       this.setState(visible);
     }
   };
@@ -52,6 +53,8 @@ class App extends Component {
           <Navbar onNavToggle={this.onNavToggle} isMenuOpened={this.state.menuOpened} />
         </Header>
         <Chooser
+          minimum={config.minimum}
+          maximum={config.maximum}
           onFrameworkSelect={this.onFrameworkSelect}
           frameworks={this.state.frameworks}
           visible={this.state.visible}

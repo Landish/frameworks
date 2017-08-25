@@ -74,7 +74,7 @@ const ComponentsList = ({ frameworks, visible, components }) => {
 
   return (
     <div className="section">
-      <div className="container is-x">
+      <div className="container is-x is-fullhd">
         <h2 className="title">List of Components</h2>
         <table className="table has-text-centered is-striped is-bordered">
           {renderHeader()}

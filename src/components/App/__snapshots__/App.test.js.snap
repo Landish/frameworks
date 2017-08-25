@@ -518,13 +518,16 @@ exports[`App renders correctly 1`] = `
         },
       ]
     }
+    maximum={5}
+    minimum={2}
     onFrameworkSelect={[Function]}
     visible={
       Collection {
-        "count": 4,
+        "count": 5,
         "data": Array [
           "amaze",
           "blaze",
+          "gumby",
           "metro",
           "mini",
         ],
@@ -1043,10 +1046,11 @@ exports[`App renders correctly 1`] = `
     }
     visible={
       Collection {
-        "count": 4,
+        "count": 5,
         "data": Array [
           "amaze",
           "blaze",
+          "gumby",
           "metro",
           "mini",
         ],
@@ -2106,10 +2110,11 @@ exports[`App renders correctly 1`] = `
     }
     visible={
       Collection {
-        "count": 4,
+        "count": 5,
         "data": Array [
           "amaze",
           "blaze",
+          "gumby",
           "metro",
           "mini",
         ],

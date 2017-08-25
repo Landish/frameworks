@@ -265,7 +265,7 @@ const FrameworksList = ({ frameworks, visible }) => {
 
   return (
     <div className="section is-x">
-      <div className="container">
+      <div className="container is-fullhd">
         <h2 className="title">List of Frameworks</h2>
         <table className="table has-text-centered is-striped is-bordered">
           <thead>

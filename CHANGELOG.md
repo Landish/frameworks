@@ -17,6 +17,8 @@ All notable changes to this project will be documented in this file.
  - Components order. Now it's sorted alphabetically.
  - Bulma dependency to `0.5.1`.
  - Docs url for [Ink Interface Kit](http://ink.sapo.pt/).
+ - Increase minimum *selectable* frameworks size up to **5**.
+ - Width of the container.
 
 ### [1.1.3] - 2017-08-25
 ### Changed

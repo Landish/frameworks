@@ -14,7 +14,7 @@ const Navbar = ({ onNavToggle, isMenuOpened }) => {
   });
   return (
     <nav className="nav">
-      <div className="container">
+      <div className="container is-fullhd">
         <div className="nav-left">
           <div className="nav-item">
             <img src={logo} alt={config.title} />
