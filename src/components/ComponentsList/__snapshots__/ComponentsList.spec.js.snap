@@ -46,7 +46,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Accordion
             </span>
@@ -83,7 +83,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Alert
             </span>
@@ -120,7 +120,44 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
+            >
+              Avatar
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <Icon
+                name="eye-slash"
+              />
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <Icon
+                name="eye-slash"
+              />
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info is-rounded"
             >
               Badge
             </span>
@@ -157,7 +194,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Breadcrumbs
             </span>
@@ -194,7 +231,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Button
             </span>
@@ -231,7 +268,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Card
             </span>
@@ -268,7 +305,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Dropdown
             </span>
@@ -305,7 +342,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Flex Grid
             </span>
@@ -342,44 +379,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
-            >
-              Grid
-            </span>
-          </td>
-          <td>
-            <a
-              className="button is-fixed is-small is-info is-outlined"
-              href="http://bulma.io/documentation/grid/columns/"
-              target="_blank"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </a>
-          </td>
-          <td>
-            <a
-              className="button is-fixed is-small is-info is-outlined"
-              href="http://ink.sapo.pt/ui-elements/grid/"
-              target="_blank"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Form
             </span>
@@ -416,7 +416,44 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
+            >
+              Grid
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/grid/columns/"
+              target="_blank"
+            >
+              <Icon
+                name="eye"
+              />
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://ink.sapo.pt/ui-elements/grid/"
+              target="_blank"
+            >
+              <Icon
+                name="eye"
+              />
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info is-rounded"
             >
               Icons
             </span>
@@ -453,7 +490,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Label
             </span>
@@ -490,7 +527,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               List
             </span>
@@ -527,7 +564,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Media Object
             </span>
@@ -564,7 +601,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Menu
             </span>
@@ -601,7 +638,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Modal
             </span>
@@ -638,7 +675,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Navbar
             </span>
@@ -675,7 +712,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Off-Canvas
             </span>
@@ -712,44 +749,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
-            >
-              Panel
-            </span>
-          </td>
-          <td>
-            <a
-              className="button is-fixed is-small is-info is-outlined"
-              href="http://bulma.io/documentation/components/panel/"
-              target="_blank"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </a>
-          </td>
-          <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Pagination
             </span>
@@ -786,7 +786,81 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
+            >
+              Panel
+            </span>
+          </td>
+          <td>
+            <a
+              className="button is-fixed is-small is-info is-outlined"
+              href="http://bulma.io/documentation/components/panel/"
+              target="_blank"
+            >
+              <Icon
+                name="eye"
+              />
+              <span>
+                Demo
+              </span>
+            </a>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <Icon
+                name="eye-slash"
+              />
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info is-rounded"
+            >
+              Popover
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <Icon
+                name="eye-slash"
+              />
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <Icon
+                name="eye-slash"
+              />
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info is-rounded"
             >
               Progress
             </span>
@@ -823,7 +897,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Table
             </span>
@@ -860,7 +934,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Tabs
             </span>
@@ -897,7 +971,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Thumbnail
             </span>
@@ -934,7 +1008,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Tooltip
             </span>
@@ -971,7 +1045,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Typography
             </span>
@@ -1008,7 +1082,7 @@ exports[`Components List renders correctly 1`] = `
         <tr>
           <td>
             <span
-              className="tag is-info"
+              className="tag is-info is-rounded"
             >
               Utilities
             </span>

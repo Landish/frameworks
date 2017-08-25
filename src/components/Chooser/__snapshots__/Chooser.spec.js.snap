@@ -8,7 +8,7 @@ exports[`Chooser renders correctly 1`] = `
     className="container"
   >
     <h2
-      className="title is-5"
+      className="subtitle is-5"
     >
       Select 
       <strong>
@@ -35,6 +35,7 @@ exports[`Chooser renders correctly 1`] = `
               "url": "http://fontawesome.io/",
             },
             "install": "amazeui",
+            "isNew": true,
             "js": "http://amazeui.github.io/docs/en/javascript/",
             "name": "Amaze UI",
             "slug": "amaze",
@@ -46,6 +47,31 @@ exports[`Chooser renders correctly 1`] = `
             "version": "2.7.2",
           }
         }
+        isNew={true}
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
+            "css": "SASS",
+            "description": "Open source modular CSS toolkit providing great structure for building websites quickly",
+            "documentation": "http://blazecss.com/getting-started/install/",
+            "github": "https://github.com/BlazeCSS/blaze",
+            "install": "blaze",
+            "isNew": true,
+            "js": false,
+            "name": "Blaze CSS",
+            "slug": "blaze",
+            "stats": Object {
+              "forks": "100+",
+              "stars": "1.1K+",
+            },
+            "url": "http://blazecss.com/",
+            "version": "3.3.0",
+          }
+        }
+        isNew={true}
         isSelected={false}
         onClick={[Function]}
       />
@@ -83,6 +109,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "3.3.7",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -117,6 +144,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "4.0.0-beta",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -152,44 +180,8 @@ exports[`Chooser renders correctly 1`] = `
             "version": "0.5.1",
           }
         }
+        isNew={false}
         isSelected={true}
-        onClick={[Function]}
-      />
-      <SelectButton
-        framework={
-          Object {
-            "browsers": Object {
-              "android": "Latest",
-              "chrome": "Latest",
-              "details": "https://foundation.zurb.com/sites/docs/compatibility.html",
-              "edge": "Latest",
-              "firefox": "Latest",
-              "ie": "IE9+",
-              "ios": "Latest",
-              "opera": "Latest",
-              "safari": "Latest",
-            },
-            "css": "SASS",
-            "description": "The most advanced responsive front-end framework in the world",
-            "documentation": "http://foundation.zurb.com/sites/docs/",
-            "github": "https://github.com/zurb/foundation-sites",
-            "icons": Object {
-              "name": "Foundation Icon Fonts 3 (Optional)",
-              "url": "http://zurb.com/playground/foundation-icon-fonts-3",
-            },
-            "install": "foundation-sites",
-            "js": "https://foundation.zurb.com/sites/docs/javascript.html",
-            "name": "Foundation 6",
-            "slug": "foundation6",
-            "stats": Object {
-              "forks": "5K+",
-              "stars": "25K+",
-            },
-            "url": "http://foundation.zurb.com/",
-            "version": "6.4.1",
-          }
-        }
-        isSelected={false}
         onClick={[Function]}
       />
       <SelectButton
@@ -226,6 +218,45 @@ exports[`Chooser renders correctly 1`] = `
             "version": "5.5.3",
           }
         }
+        isNew={false}
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
+            "browsers": Object {
+              "android": "Latest",
+              "chrome": "Latest",
+              "details": "https://foundation.zurb.com/sites/docs/compatibility.html",
+              "edge": "Latest",
+              "firefox": "Latest",
+              "ie": "IE9+",
+              "ios": "Latest",
+              "opera": "Latest",
+              "safari": "Latest",
+            },
+            "css": "SASS",
+            "description": "The most advanced responsive front-end framework in the world",
+            "documentation": "http://foundation.zurb.com/sites/docs/",
+            "github": "https://github.com/zurb/foundation-sites",
+            "icons": Object {
+              "name": "Foundation Icon Fonts 3 (Optional)",
+              "url": "http://zurb.com/playground/foundation-icon-fonts-3",
+            },
+            "install": "foundation-sites",
+            "js": "https://foundation.zurb.com/sites/docs/javascript.html",
+            "name": "Foundation 6",
+            "slug": "foundation6",
+            "stats": Object {
+              "forks": "5K+",
+              "stars": "25K+",
+            },
+            "url": "http://foundation.zurb.com/",
+            "version": "6.4.1",
+          }
+        }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -234,7 +265,7 @@ exports[`Chooser renders correctly 1`] = `
           Object {
             "css": "SASS",
             "description": "Ink is a set of tools for quick development of web interfaces",
-            "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
+            "documentation": "http://ink.sapo.pt/ui-elements/",
             "github": "https://github.com/sapo/Ink/",
             "install": Object {
               "bower": "sapo-ink",
@@ -252,6 +283,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "3.1.10",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -287,6 +319,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "6.5.2",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -322,6 +355,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "0.99.0",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -359,6 +393,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "2.27.4",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -396,6 +431,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "3.0.0-Beta.25",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -437,6 +473,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "1.0.0",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -473,6 +510,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "8.0.0",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -510,6 +548,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "2.2.10",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -535,6 +574,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "0.3.1",
           }
         }
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />

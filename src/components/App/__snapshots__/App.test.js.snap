@@ -21,6 +21,7 @@ exports[`App renders correctly 1`] = `
             "url": "http://fontawesome.io/",
           },
           "install": "amazeui",
+          "isNew": true,
           "js": "http://amazeui.github.io/docs/en/javascript/",
           "name": "Amaze UI",
           "slug": "amaze",
@@ -30,6 +31,23 @@ exports[`App renders correctly 1`] = `
           },
           "url": "http://amazeui.github.io/docs/en/",
           "version": "2.7.2",
+        },
+        Object {
+          "css": "SASS",
+          "description": "Open source modular CSS toolkit providing great structure for building websites quickly",
+          "documentation": "http://blazecss.com/getting-started/install/",
+          "github": "https://github.com/BlazeCSS/blaze",
+          "install": "blaze",
+          "isNew": true,
+          "js": false,
+          "name": "Blaze CSS",
+          "slug": "blaze",
+          "stats": Object {
+            "forks": "100+",
+            "stars": "1.1K+",
+          },
+          "url": "http://blazecss.com/",
+          "version": "3.3.0",
         },
         Object {
           "browsers": Object {
@@ -123,37 +141,6 @@ exports[`App renders correctly 1`] = `
           "browsers": Object {
             "android": "Latest",
             "chrome": "Latest",
-            "details": "https://foundation.zurb.com/sites/docs/compatibility.html",
-            "edge": "Latest",
-            "firefox": "Latest",
-            "ie": "IE9+",
-            "ios": "Latest",
-            "opera": "Latest",
-            "safari": "Latest",
-          },
-          "css": "SASS",
-          "description": "The most advanced responsive front-end framework in the world",
-          "documentation": "http://foundation.zurb.com/sites/docs/",
-          "github": "https://github.com/zurb/foundation-sites",
-          "icons": Object {
-            "name": "Foundation Icon Fonts 3 (Optional)",
-            "url": "http://zurb.com/playground/foundation-icon-fonts-3",
-          },
-          "install": "foundation-sites",
-          "js": "https://foundation.zurb.com/sites/docs/javascript.html",
-          "name": "Foundation 6",
-          "slug": "foundation6",
-          "stats": Object {
-            "forks": "5K+",
-            "stars": "25K+",
-          },
-          "url": "http://foundation.zurb.com/",
-          "version": "6.4.1",
-        },
-        Object {
-          "browsers": Object {
-            "android": "Latest",
-            "chrome": "Latest",
             "details": "http://foundation.zurb.com/sites/docs/v/5.5.3/compatibility.html",
             "edge": "Latest",
             "firefox": "Latest",
@@ -182,9 +169,40 @@ exports[`App renders correctly 1`] = `
           "version": "5.5.3",
         },
         Object {
+          "browsers": Object {
+            "android": "Latest",
+            "chrome": "Latest",
+            "details": "https://foundation.zurb.com/sites/docs/compatibility.html",
+            "edge": "Latest",
+            "firefox": "Latest",
+            "ie": "IE9+",
+            "ios": "Latest",
+            "opera": "Latest",
+            "safari": "Latest",
+          },
+          "css": "SASS",
+          "description": "The most advanced responsive front-end framework in the world",
+          "documentation": "http://foundation.zurb.com/sites/docs/",
+          "github": "https://github.com/zurb/foundation-sites",
+          "icons": Object {
+            "name": "Foundation Icon Fonts 3 (Optional)",
+            "url": "http://zurb.com/playground/foundation-icon-fonts-3",
+          },
+          "install": "foundation-sites",
+          "js": "https://foundation.zurb.com/sites/docs/javascript.html",
+          "name": "Foundation 6",
+          "slug": "foundation6",
+          "stats": Object {
+            "forks": "5K+",
+            "stars": "25K+",
+          },
+          "url": "http://foundation.zurb.com/",
+          "version": "6.4.1",
+        },
+        Object {
           "css": "SASS",
           "description": "Ink is a set of tools for quick development of web interfaces",
-          "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
+          "documentation": "http://ink.sapo.pt/ui-elements/",
           "github": "https://github.com/sapo/Ink/",
           "install": Object {
             "bower": "sapo-ink",
@@ -444,9 +462,9 @@ exports[`App renders correctly 1`] = `
         "count": 4,
         "data": Array [
           "amaze",
+          "blaze",
           "bootstrap4",
           "bulma",
-          "semantic",
         ],
       }
     }
@@ -464,6 +482,7 @@ exports[`App renders correctly 1`] = `
             "url": "http://fontawesome.io/",
           },
           "install": "amazeui",
+          "isNew": true,
           "js": "http://amazeui.github.io/docs/en/javascript/",
           "name": "Amaze UI",
           "slug": "amaze",
@@ -473,6 +492,23 @@ exports[`App renders correctly 1`] = `
           },
           "url": "http://amazeui.github.io/docs/en/",
           "version": "2.7.2",
+        },
+        Object {
+          "css": "SASS",
+          "description": "Open source modular CSS toolkit providing great structure for building websites quickly",
+          "documentation": "http://blazecss.com/getting-started/install/",
+          "github": "https://github.com/BlazeCSS/blaze",
+          "install": "blaze",
+          "isNew": true,
+          "js": false,
+          "name": "Blaze CSS",
+          "slug": "blaze",
+          "stats": Object {
+            "forks": "100+",
+            "stars": "1.1K+",
+          },
+          "url": "http://blazecss.com/",
+          "version": "3.3.0",
         },
         Object {
           "browsers": Object {
@@ -566,37 +602,6 @@ exports[`App renders correctly 1`] = `
           "browsers": Object {
             "android": "Latest",
             "chrome": "Latest",
-            "details": "https://foundation.zurb.com/sites/docs/compatibility.html",
-            "edge": "Latest",
-            "firefox": "Latest",
-            "ie": "IE9+",
-            "ios": "Latest",
-            "opera": "Latest",
-            "safari": "Latest",
-          },
-          "css": "SASS",
-          "description": "The most advanced responsive front-end framework in the world",
-          "documentation": "http://foundation.zurb.com/sites/docs/",
-          "github": "https://github.com/zurb/foundation-sites",
-          "icons": Object {
-            "name": "Foundation Icon Fonts 3 (Optional)",
-            "url": "http://zurb.com/playground/foundation-icon-fonts-3",
-          },
-          "install": "foundation-sites",
-          "js": "https://foundation.zurb.com/sites/docs/javascript.html",
-          "name": "Foundation 6",
-          "slug": "foundation6",
-          "stats": Object {
-            "forks": "5K+",
-            "stars": "25K+",
-          },
-          "url": "http://foundation.zurb.com/",
-          "version": "6.4.1",
-        },
-        Object {
-          "browsers": Object {
-            "android": "Latest",
-            "chrome": "Latest",
             "details": "http://foundation.zurb.com/sites/docs/v/5.5.3/compatibility.html",
             "edge": "Latest",
             "firefox": "Latest",
@@ -625,9 +630,40 @@ exports[`App renders correctly 1`] = `
           "version": "5.5.3",
         },
         Object {
+          "browsers": Object {
+            "android": "Latest",
+            "chrome": "Latest",
+            "details": "https://foundation.zurb.com/sites/docs/compatibility.html",
+            "edge": "Latest",
+            "firefox": "Latest",
+            "ie": "IE9+",
+            "ios": "Latest",
+            "opera": "Latest",
+            "safari": "Latest",
+          },
+          "css": "SASS",
+          "description": "The most advanced responsive front-end framework in the world",
+          "documentation": "http://foundation.zurb.com/sites/docs/",
+          "github": "https://github.com/zurb/foundation-sites",
+          "icons": Object {
+            "name": "Foundation Icon Fonts 3 (Optional)",
+            "url": "http://zurb.com/playground/foundation-icon-fonts-3",
+          },
+          "install": "foundation-sites",
+          "js": "https://foundation.zurb.com/sites/docs/javascript.html",
+          "name": "Foundation 6",
+          "slug": "foundation6",
+          "stats": Object {
+            "forks": "5K+",
+            "stars": "25K+",
+          },
+          "url": "http://foundation.zurb.com/",
+          "version": "6.4.1",
+        },
+        Object {
           "css": "SASS",
           "description": "Ink is a set of tools for quick development of web interfaces",
-          "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
+          "documentation": "http://ink.sapo.pt/ui-elements/",
           "github": "https://github.com/sapo/Ink/",
           "install": Object {
             "bower": "sapo-ink",
@@ -886,9 +922,9 @@ exports[`App renders correctly 1`] = `
         "count": 4,
         "data": Array [
           "amaze",
+          "blaze",
           "bootstrap4",
           "bulma",
-          "semantic",
         ],
       }
     }
@@ -900,6 +936,7 @@ exports[`App renders correctly 1`] = `
           "name": "Accordion",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/javascript/collapse/",
+            "blaze": "http://blazecss.com/components/accordions/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#collapse",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/collapse/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/accordion.html",
@@ -917,6 +954,7 @@ exports[`App renders correctly 1`] = `
           "name": "Alert",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/javascript/alert/",
+            "blaze": "http://blazecss.com/components/alerts/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#alerts",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/alerts/",
             "bulma": "http://bulma.io/documentation/elements/notification/",
@@ -932,9 +970,19 @@ exports[`App renders correctly 1`] = `
           },
         },
         Object {
+          "name": "Avatar",
+          "supports": Object {
+            "blaze": "http://blazecss.com/components/avatars/",
+            "primer": "http://primercss.io/avatars/",
+            "semantic": "https://semantic-ui.com/elements/image.html#avatar",
+            "spectre": "https://picturepan2.github.io/spectre/components.html#avatars",
+          },
+        },
+        Object {
           "name": "Badge",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/badge/",
+            "blaze": "http://blazecss.com/components/badges/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#badges",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/badge/",
             "bulma": "http://bulma.io/documentation/elements/tag/",
@@ -954,6 +1002,7 @@ exports[`App renders correctly 1`] = `
           "name": "Breadcrumbs",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/breadcrumb/",
+            "blaze": "http://blazecss.com/components/breadcrumbs/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#breadcrumbs",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/breadcrumb/",
             "bulma": "http://bulma.io/documentation/components/breadcrumb/",
@@ -972,6 +1021,7 @@ exports[`App renders correctly 1`] = `
           "name": "Button",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/button/",
+            "blaze": "http://blazecss.com/components/buttons/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#buttons",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/buttons/",
             "bulma": "http://bulma.io/documentation/elements/button/",
@@ -991,6 +1041,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Card",
           "supports": Object {
+            "blaze": "http://blazecss.com/components/cards/",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/card/",
             "bulma": "http://bulma.io/documentation/components/card/",
             "materialize": "http://materializecss.com/cards.html",
@@ -1019,6 +1070,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Flex Grid",
           "supports": Object {
+            "blaze": "http://blazecss.com/objects/grid/",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/layout/grid/",
             "bulma": "http://bulma.io/documentation/grid/columns/",
             "foundation6": "https://foundation.zurb.com/sites/docs/flex-grid.html",
@@ -1031,9 +1083,30 @@ exports[`App renders correctly 1`] = `
           },
         },
         Object {
+          "name": "Form",
+          "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/form/",
+            "blaze": "http://blazecss.com/components/inputs/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#forms",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/forms/",
+            "bulma": "http://bulma.io/documentation/elements/form/",
+            "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html",
+            "foundation6": "https://foundation.zurb.com/sites/docs/forms.html",
+            "ink": "http://ink.sapo.pt/ui-elements/forms/",
+            "materialize": "http://materializecss.com/forms.html",
+            "primer": "http://primercss.io/forms/",
+            "pure": "http://purecss.io/forms/",
+            "semantic": "http://semantic-ui.com/collections/form.html",
+            "spectre": "https://picturepan2.github.io/spectre/elements.html#forms",
+            "uikit2": "https://getuikit.com/v2/docs/form.html",
+            "uikit3": "https://getuikit.com/docs/form",
+          },
+        },
+        Object {
           "name": "Grid",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/grid/",
+            "blaze": "http://blazecss.com/objects/grid/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#grid",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/layout/grid/",
             "bulma": "http://bulma.io/documentation/grid/columns/",
@@ -1048,25 +1121,6 @@ exports[`App renders correctly 1`] = `
             "spectre": "https://picturepan2.github.io/spectre/layout.html#grid",
             "uikit2": "https://getuikit.com/v2/docs/grid.html",
             "uikit3": "https://getuikit.com/docs/grid",
-          },
-        },
-        Object {
-          "name": "Form",
-          "supports": Object {
-            "amaze": "http://amazeui.github.io/docs/en/css/form/",
-            "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#forms",
-            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/forms/",
-            "bulma": "http://bulma.io/documentation/elements/form/",
-            "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/forms.html",
-            "foundation6": "https://foundation.zurb.com/sites/docs/forms.html",
-            "ink": "http://ink.sapo.pt/ui-elements/forms/",
-            "materialize": "http://materializecss.com/forms.html",
-            "primer": "http://primercss.io/forms/",
-            "pure": "http://purecss.io/forms/",
-            "semantic": "http://semantic-ui.com/collections/form.html",
-            "spectre": "https://picturepan2.github.io/spectre/elements.html#forms",
-            "uikit2": "https://getuikit.com/v2/docs/form.html",
-            "uikit3": "https://getuikit.com/docs/form",
           },
         },
         Object {
@@ -1103,6 +1157,7 @@ exports[`App renders correctly 1`] = `
           "name": "List",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/list/",
+            "blaze": "http://blazecss.com/components/lists/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#list-group",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/list-group/",
             "materialize": "http://materializecss.com/collections.html",
@@ -1115,6 +1170,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Media Object",
           "supports": Object {
+            "blaze": "http://blazecss.com/objects/medias/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#media",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/layout/media-object/",
             "bulma": "http://bulma.io/documentation/components/media-object/",
@@ -1124,6 +1180,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Menu",
           "supports": Object {
+            "blaze": "http://blazecss.com/components/menus/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#list-group-linked",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/list-group/#links-and-buttons",
             "bulma": "http://bulma.io/documentation/components/menu/",
@@ -1142,6 +1199,7 @@ exports[`App renders correctly 1`] = `
           "name": "Modal",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/javascript/modal/",
+            "blaze": "http://blazecss.com/objects/modals/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#modals",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/modal/",
             "bulma": "http://bulma.io/documentation/components/modal/",
@@ -1160,6 +1218,7 @@ exports[`App renders correctly 1`] = `
           "name": "Navbar",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/topbar/",
+            "blaze": "http://blazecss.com/components/navs/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#navbar",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/navbar/",
             "bulma": "http://bulma.io/documentation/components/navbar/",
@@ -1177,6 +1236,7 @@ exports[`App renders correctly 1`] = `
           "name": "Off-Canvas",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/javascript/offcanvas/",
+            "blaze": "http://blazecss.com/objects/drawers/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/offcanvas.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/off-canvas.html",
             "kube": "https://imperavi.com/kube/docs/offcanvas/",
@@ -1187,19 +1247,10 @@ exports[`App renders correctly 1`] = `
           },
         },
         Object {
-          "name": "Panel",
-          "supports": Object {
-            "amaze": "http://amazeui.github.io/docs/en/css/panel/",
-            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#panels",
-            "bulma": "http://bulma.io/documentation/components/panel/",
-            "spectre": "https://picturepan2.github.io/spectre/components.html#panels",
-            "uikit2": "https://getuikit.com/v2/docs/panel.html",
-          },
-        },
-        Object {
           "name": "Pagination",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/pagination/",
+            "blaze": "http://blazecss.com/components/pagination/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#pagination",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/pagination/",
             "bulma": "http://bulma.io/documentation/components/pagination/",
@@ -1215,9 +1266,30 @@ exports[`App renders correctly 1`] = `
           },
         },
         Object {
+          "name": "Panel",
+          "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/panel/",
+            "blaze": "http://blazecss.com/objects/panels/",
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#panels",
+            "bulma": "http://bulma.io/documentation/components/panel/",
+            "spectre": "https://picturepan2.github.io/spectre/components.html#panels",
+            "uikit2": "https://getuikit.com/v2/docs/panel.html",
+          },
+        },
+        Object {
+          "name": "Popover",
+          "supports": Object {
+            "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#popovers",
+            "bootstrap4": "https://getbootstrap.com/docs/4.0/components/popovers/",
+            "semantic": "https://semantic-ui.com/modules/popup.html",
+            "spectre": "https://picturepan2.github.io/spectre/components.html#popovers",
+          },
+        },
+        Object {
           "name": "Progress",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/progress/",
+            "blaze": "http://blazecss.com/components/progress/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#progress",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/progress/",
             "bulma": "http://bulma.io/documentation/elements/progress/",
@@ -1235,6 +1307,7 @@ exports[`App renders correctly 1`] = `
           "name": "Table",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/table/",
+            "blaze": "http://blazecss.com/components/tables/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#tables",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/content/tables/",
             "bulma": "http://bulma.io/documentation/elements/table/",
@@ -1254,6 +1327,7 @@ exports[`App renders correctly 1`] = `
           "name": "Tabs",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/javascript/tabs/",
+            "blaze": "http://blazecss.com/components/tabs/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#tabs",
             "bootstrap4": "http://v4-alpha.getbootstrap.com/components/navs/#tabs",
             "bulma": "http://bulma.io/documentation/components/tabs/",
@@ -1287,8 +1361,11 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Tooltip",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/javascript/popover/",
+            "blaze": "http://blazecss.com/components/tooltips/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#tooltips",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/tooltips/",
+            "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/tooltips.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/tooltip.html",
             "ink": "http://ink.sapo.pt/javascript-ui/#InkUITooltip_1",
             "materialize": "http://materializecss.com/dialogs.html#tooltip",
@@ -1303,6 +1380,7 @@ exports[`App renders correctly 1`] = `
           "name": "Typography",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/typography/",
+            "blaze": "http://blazecss.com/components/typography/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#type",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/content/typography/",
             "bulma": "http://bulma.io/documentation/elements/content/",
@@ -1321,6 +1399,7 @@ exports[`App renders correctly 1`] = `
           "name": "Utilities",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/utility/",
+            "blaze": "http://blazecss.com/utilities/alignment/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#helper-classes",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/utilities/",
             "bulma": "http://bulma.io/documentation/modifiers/helpers/",
@@ -1349,6 +1428,7 @@ exports[`App renders correctly 1`] = `
             "url": "http://fontawesome.io/",
           },
           "install": "amazeui",
+          "isNew": true,
           "js": "http://amazeui.github.io/docs/en/javascript/",
           "name": "Amaze UI",
           "slug": "amaze",
@@ -1358,6 +1438,23 @@ exports[`App renders correctly 1`] = `
           },
           "url": "http://amazeui.github.io/docs/en/",
           "version": "2.7.2",
+        },
+        Object {
+          "css": "SASS",
+          "description": "Open source modular CSS toolkit providing great structure for building websites quickly",
+          "documentation": "http://blazecss.com/getting-started/install/",
+          "github": "https://github.com/BlazeCSS/blaze",
+          "install": "blaze",
+          "isNew": true,
+          "js": false,
+          "name": "Blaze CSS",
+          "slug": "blaze",
+          "stats": Object {
+            "forks": "100+",
+            "stars": "1.1K+",
+          },
+          "url": "http://blazecss.com/",
+          "version": "3.3.0",
         },
         Object {
           "browsers": Object {
@@ -1451,37 +1548,6 @@ exports[`App renders correctly 1`] = `
           "browsers": Object {
             "android": "Latest",
             "chrome": "Latest",
-            "details": "https://foundation.zurb.com/sites/docs/compatibility.html",
-            "edge": "Latest",
-            "firefox": "Latest",
-            "ie": "IE9+",
-            "ios": "Latest",
-            "opera": "Latest",
-            "safari": "Latest",
-          },
-          "css": "SASS",
-          "description": "The most advanced responsive front-end framework in the world",
-          "documentation": "http://foundation.zurb.com/sites/docs/",
-          "github": "https://github.com/zurb/foundation-sites",
-          "icons": Object {
-            "name": "Foundation Icon Fonts 3 (Optional)",
-            "url": "http://zurb.com/playground/foundation-icon-fonts-3",
-          },
-          "install": "foundation-sites",
-          "js": "https://foundation.zurb.com/sites/docs/javascript.html",
-          "name": "Foundation 6",
-          "slug": "foundation6",
-          "stats": Object {
-            "forks": "5K+",
-            "stars": "25K+",
-          },
-          "url": "http://foundation.zurb.com/",
-          "version": "6.4.1",
-        },
-        Object {
-          "browsers": Object {
-            "android": "Latest",
-            "chrome": "Latest",
             "details": "http://foundation.zurb.com/sites/docs/v/5.5.3/compatibility.html",
             "edge": "Latest",
             "firefox": "Latest",
@@ -1510,9 +1576,40 @@ exports[`App renders correctly 1`] = `
           "version": "5.5.3",
         },
         Object {
+          "browsers": Object {
+            "android": "Latest",
+            "chrome": "Latest",
+            "details": "https://foundation.zurb.com/sites/docs/compatibility.html",
+            "edge": "Latest",
+            "firefox": "Latest",
+            "ie": "IE9+",
+            "ios": "Latest",
+            "opera": "Latest",
+            "safari": "Latest",
+          },
+          "css": "SASS",
+          "description": "The most advanced responsive front-end framework in the world",
+          "documentation": "http://foundation.zurb.com/sites/docs/",
+          "github": "https://github.com/zurb/foundation-sites",
+          "icons": Object {
+            "name": "Foundation Icon Fonts 3 (Optional)",
+            "url": "http://zurb.com/playground/foundation-icon-fonts-3",
+          },
+          "install": "foundation-sites",
+          "js": "https://foundation.zurb.com/sites/docs/javascript.html",
+          "name": "Foundation 6",
+          "slug": "foundation6",
+          "stats": Object {
+            "forks": "5K+",
+            "stars": "25K+",
+          },
+          "url": "http://foundation.zurb.com/",
+          "version": "6.4.1",
+        },
+        Object {
           "css": "SASS",
           "description": "Ink is a set of tools for quick development of web interfaces",
-          "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
+          "documentation": "http://ink.sapo.pt/ui-elements/",
           "github": "https://github.com/sapo/Ink/",
           "install": Object {
             "bower": "sapo-ink",
@@ -1771,9 +1868,9 @@ exports[`App renders correctly 1`] = `
         "count": 4,
         "data": Array [
           "amaze",
+          "blaze",
           "bootstrap4",
           "bulma",
-          "semantic",
         ],
       }
     }

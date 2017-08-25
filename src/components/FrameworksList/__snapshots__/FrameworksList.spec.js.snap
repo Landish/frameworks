@@ -136,7 +136,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
               >
                 <a
                   className="button is-small is-info is-outlined"
-                  href="https://picturepan2.github.io/spectre/index.html#introduction"
+                  href="http://ink.sapo.pt/ui-elements/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
@@ -228,7 +228,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
               className="tag-group"
             >
               <span
-                className="tag is-small is-dark"
+                className="tag is-rounded is-small is-dark"
               >
                 <Icon
                   name="code-fork"
@@ -236,7 +236,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
                 1K+
               </span>
               <span
-                className="tag is-small is-dark"
+                className="tag is-rounded is-small is-dark"
               >
                 <Icon
                   name="star"
@@ -250,7 +250,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
               className="tag-group"
             >
               <span
-                className="tag is-small is-dark"
+                className="tag is-rounded is-small is-dark"
               >
                 <Icon
                   name="code-fork"
@@ -258,7 +258,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
                 200+
               </span>
               <span
-                className="tag is-small is-dark"
+                className="tag is-rounded is-small is-dark"
               >
                 <Icon
                   name="star"
@@ -276,7 +276,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <a
-              className="tag is-small is-info"
+              className="tag is-rounded is-small is-info"
               href="https://github.com/jgthms/bulma/releases"
               rel="noopener noreferrer"
               target="_blank"
@@ -292,7 +292,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <a
-              className="tag is-small is-info"
+              className="tag is-rounded is-small is-info"
               href="https://github.com/sapo/Ink//releases"
               rel="noopener noreferrer"
               target="_blank"
@@ -315,7 +315,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <a
-              className="tag is-tooltip is-small is-success"
+              className="tag is-rounded is-tooltip is-small is-success"
               data-title="Font Awesome (Optional)"
               href="http://fontawesome.io/"
               rel="noopener noreferrer"
@@ -326,7 +326,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <span
-              className="tag is-small is-danger"
+              className="tag is-rounded is-small is-danger"
             >
               No
             </span>
@@ -340,14 +340,14 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <span
-              className="tag is-small is-info"
+              className="tag is-rounded is-small is-info"
             >
               SASS
             </span>
           </td>
           <td>
             <span
-              className="tag is-small is-info"
+              className="tag is-rounded is-small is-info"
             >
               SASS
             </span>
@@ -361,14 +361,14 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <span
-              className="tag is-small is-danger"
+              className="tag is-rounded is-small is-danger"
             >
               No
             </span>
           </td>
           <td>
             <a
-              className="tag is-small is-success"
+              className="tag is-rounded is-small is-success"
               href="http://ink.sapo.pt/javascript/"
               rel="noopener noreferrer"
               target="_blank"
@@ -385,7 +385,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <a
-              className="tag is-small is-info"
+              className="tag is-rounded is-small is-info"
               href="https://opensource.org/licenses/MIT"
               rel="noopener noreferrer"
               target="_blank"
@@ -395,7 +395,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           </td>
           <td>
             <a
-              className="tag is-small is-info"
+              className="tag is-rounded is-small is-info"
               href="https://opensource.org/licenses/MIT"
               rel="noopener noreferrer"
               target="_blank"
