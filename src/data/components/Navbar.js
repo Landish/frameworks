@@ -1,6 +1,7 @@
 export default {
   name: 'Navbar',
   supports: {
+    amaze: 'http://amazeui.github.io/docs/en/css/topbar/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#navbar',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/navbar/',
     bulma: 'http://bulma.io/documentation/components/navbar/',

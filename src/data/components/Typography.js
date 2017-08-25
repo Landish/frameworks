@@ -1,6 +1,7 @@
 export default {
   name: 'Typography',
   supports: {
+    amaze: 'http://amazeui.github.io/docs/en/css/typography/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#type',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/content/typography/',
     bulma: 'http://bulma.io/documentation/elements/content/',

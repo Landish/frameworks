@@ -12,6 +12,26 @@ exports[`App renders correctly 1`] = `
     frameworks={
       Array [
         Object {
+          "css": "LESS",
+          "description": "A mobile-first and modular front-end framework",
+          "documentation": "http://amazeui.github.io/docs/en/",
+          "github": "https://github.com/amazeui/amazeui",
+          "icons": Object {
+            "name": "Font Awesome",
+            "url": "http://fontawesome.io/",
+          },
+          "install": "amazeui",
+          "js": "http://amazeui.github.io/docs/en/javascript/",
+          "name": "Amaze UI",
+          "slug": "amaze",
+          "stats": Object {
+            "forks": "2.2K+",
+            "stars": "10K+",
+          },
+          "url": "http://amazeui.github.io/docs/en/",
+          "version": "2.7.2",
+        },
+        Object {
           "browsers": Object {
             "android": "Latest",
             "chrome": "Latest",
@@ -163,7 +183,7 @@ exports[`App renders correctly 1`] = `
         },
         Object {
           "css": "SASS",
-          "description": "Ink is a set of tools for quick development of web interfaces.",
+          "description": "Ink is a set of tools for quick development of web interfaces",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
           "github": "https://github.com/sapo/Ink/",
           "install": Object {
@@ -192,7 +212,7 @@ exports[`App renders correctly 1`] = `
             "safari": "Latest",
           },
           "css": "SASS",
-          "description": "Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.",
+          "description": "Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework",
           "documentation": "https://imperavi.com/kube/docs/",
           "github": "https://github.com/imperavi/kube",
           "icons": Object {
@@ -313,7 +333,7 @@ exports[`App renders correctly 1`] = `
             "safari": "Latest",
           },
           "css": "CSS",
-          "description": "A set of small, responsive CSS modules that you can use in every web project.",
+          "description": "A set of small, responsive CSS modules that you can use in every web project",
           "documentation": "http://purecss.io/start/",
           "github": "https://github.com/yahoo/pure",
           "icons": false,
@@ -348,7 +368,7 @@ exports[`App renders correctly 1`] = `
             "safari": "Latest",
           },
           "css": "SASS",
-          "description": "The CSS toolkit and guidelines that power GitHub.",
+          "description": "The CSS toolkit and guidelines that power GitHub",
           "documentation": "http://primercss.io/scaffolding/",
           "github": "https://github.com/primer/primer-css",
           "icons": Object {
@@ -399,7 +419,7 @@ exports[`App renders correctly 1`] = `
         },
         Object {
           "css": "LESS",
-          "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development.",
+          "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
           "github": "https://github.com/picturepan2/spectre",
           "icons": Object {
@@ -423,10 +443,10 @@ exports[`App renders correctly 1`] = `
       Collection {
         "count": 4,
         "data": Array [
-          "bootstrap3",
+          "amaze",
+          "bootstrap4",
           "bulma",
           "semantic",
-          "ink",
         ],
       }
     }
@@ -434,6 +454,26 @@ exports[`App renders correctly 1`] = `
   <FrameworksList
     frameworks={
       Array [
+        Object {
+          "css": "LESS",
+          "description": "A mobile-first and modular front-end framework",
+          "documentation": "http://amazeui.github.io/docs/en/",
+          "github": "https://github.com/amazeui/amazeui",
+          "icons": Object {
+            "name": "Font Awesome",
+            "url": "http://fontawesome.io/",
+          },
+          "install": "amazeui",
+          "js": "http://amazeui.github.io/docs/en/javascript/",
+          "name": "Amaze UI",
+          "slug": "amaze",
+          "stats": Object {
+            "forks": "2.2K+",
+            "stars": "10K+",
+          },
+          "url": "http://amazeui.github.io/docs/en/",
+          "version": "2.7.2",
+        },
         Object {
           "browsers": Object {
             "android": "Latest",
@@ -586,7 +626,7 @@ exports[`App renders correctly 1`] = `
         },
         Object {
           "css": "SASS",
-          "description": "Ink is a set of tools for quick development of web interfaces.",
+          "description": "Ink is a set of tools for quick development of web interfaces",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
           "github": "https://github.com/sapo/Ink/",
           "install": Object {
@@ -615,7 +655,7 @@ exports[`App renders correctly 1`] = `
             "safari": "Latest",
           },
           "css": "SASS",
-          "description": "Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.",
+          "description": "Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework",
           "documentation": "https://imperavi.com/kube/docs/",
           "github": "https://github.com/imperavi/kube",
           "icons": Object {
@@ -736,7 +776,7 @@ exports[`App renders correctly 1`] = `
             "safari": "Latest",
           },
           "css": "CSS",
-          "description": "A set of small, responsive CSS modules that you can use in every web project.",
+          "description": "A set of small, responsive CSS modules that you can use in every web project",
           "documentation": "http://purecss.io/start/",
           "github": "https://github.com/yahoo/pure",
           "icons": false,
@@ -771,7 +811,7 @@ exports[`App renders correctly 1`] = `
             "safari": "Latest",
           },
           "css": "SASS",
-          "description": "The CSS toolkit and guidelines that power GitHub.",
+          "description": "The CSS toolkit and guidelines that power GitHub",
           "documentation": "http://primercss.io/scaffolding/",
           "github": "https://github.com/primer/primer-css",
           "icons": Object {
@@ -822,7 +862,7 @@ exports[`App renders correctly 1`] = `
         },
         Object {
           "css": "LESS",
-          "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development.",
+          "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
           "github": "https://github.com/picturepan2/spectre",
           "icons": Object {
@@ -845,10 +885,10 @@ exports[`App renders correctly 1`] = `
       Collection {
         "count": 4,
         "data": Array [
-          "bootstrap3",
+          "amaze",
+          "bootstrap4",
           "bulma",
           "semantic",
-          "ink",
         ],
       }
     }
@@ -859,6 +899,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Accordion",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/javascript/collapse/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#collapse",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/collapse/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/accordion.html",
@@ -875,6 +916,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Alert",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/javascript/alert/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#alerts",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/alerts/",
             "bulma": "http://bulma.io/documentation/elements/notification/",
@@ -892,6 +934,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Badge",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/badge/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#badges",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/badge/",
             "bulma": "http://bulma.io/documentation/elements/tag/",
@@ -910,6 +953,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Breadcrumbs",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/breadcrumb/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#breadcrumbs",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/breadcrumb/",
             "bulma": "http://bulma.io/documentation/components/breadcrumb/",
@@ -927,6 +971,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Button",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/button/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#buttons",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/buttons/",
             "bulma": "http://bulma.io/documentation/elements/button/",
@@ -957,6 +1002,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Dropdown",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/javascript/dropdown/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#dropdowns",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/dropdowns/",
             "bulma": "http://bulma.io/documentation/components/dropdown/",
@@ -987,6 +1033,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Grid",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/grid/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#grid",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/layout/grid/",
             "bulma": "http://bulma.io/documentation/grid/columns/",
@@ -1006,6 +1053,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Form",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/form/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#forms",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/forms/",
             "bulma": "http://bulma.io/documentation/elements/form/",
@@ -1024,6 +1072,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Icons",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/icon/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#glyphicons",
             "bulma": "http://bulma.io/documentation/elements/icon/",
             "foundation5": "http://zurb.com/playground/foundation-icon-fonts-3",
@@ -1053,6 +1102,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "List",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/list/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#list-group",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/list-group/",
             "materialize": "http://materializecss.com/collections.html",
@@ -1091,6 +1141,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Modal",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/javascript/modal/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#modals",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/modal/",
             "bulma": "http://bulma.io/documentation/components/modal/",
@@ -1108,6 +1159,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Navbar",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/topbar/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#navbar",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/navbar/",
             "bulma": "http://bulma.io/documentation/components/navbar/",
@@ -1124,6 +1176,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Off-Canvas",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/javascript/offcanvas/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/offcanvas.html",
             "foundation6": "http://foundation.zurb.com/sites/docs/off-canvas.html",
             "kube": "https://imperavi.com/kube/docs/offcanvas/",
@@ -1136,6 +1189,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Panel",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/panel/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#panels",
             "bulma": "http://bulma.io/documentation/components/panel/",
             "spectre": "https://picturepan2.github.io/spectre/components.html#panels",
@@ -1145,6 +1199,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Pagination",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/pagination/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#pagination",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/pagination/",
             "bulma": "http://bulma.io/documentation/components/pagination/",
@@ -1162,6 +1217,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Progress",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/progress/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#progress",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/progress/",
             "bulma": "http://bulma.io/documentation/elements/progress/",
@@ -1178,6 +1234,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Table",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/table/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#tables",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/content/tables/",
             "bulma": "http://bulma.io/documentation/elements/table/",
@@ -1196,6 +1253,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Tabs",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/javascript/tabs/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#tabs",
             "bootstrap4": "http://v4-alpha.getbootstrap.com/components/navs/#tabs",
             "bulma": "http://bulma.io/documentation/components/tabs/",
@@ -1214,6 +1272,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Thumbnail",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/thumbnail/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#thumbnails",
             "bootstrap4": "http://getbootstrap.com/docs/4.0/content/images/",
             "bulma": "http://bulma.io/documentation/elements/image/",
@@ -1243,6 +1302,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Typography",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/typography/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#type",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/content/typography/",
             "bulma": "http://bulma.io/documentation/elements/content/",
@@ -1260,6 +1320,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Utilities",
           "supports": Object {
+            "amaze": "http://amazeui.github.io/docs/en/css/utility/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#helper-classes",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/utilities/",
             "bulma": "http://bulma.io/documentation/modifiers/helpers/",
@@ -1278,6 +1339,26 @@ exports[`App renders correctly 1`] = `
     }
     frameworks={
       Array [
+        Object {
+          "css": "LESS",
+          "description": "A mobile-first and modular front-end framework",
+          "documentation": "http://amazeui.github.io/docs/en/",
+          "github": "https://github.com/amazeui/amazeui",
+          "icons": Object {
+            "name": "Font Awesome",
+            "url": "http://fontawesome.io/",
+          },
+          "install": "amazeui",
+          "js": "http://amazeui.github.io/docs/en/javascript/",
+          "name": "Amaze UI",
+          "slug": "amaze",
+          "stats": Object {
+            "forks": "2.2K+",
+            "stars": "10K+",
+          },
+          "url": "http://amazeui.github.io/docs/en/",
+          "version": "2.7.2",
+        },
         Object {
           "browsers": Object {
             "android": "Latest",
@@ -1430,7 +1511,7 @@ exports[`App renders correctly 1`] = `
         },
         Object {
           "css": "SASS",
-          "description": "Ink is a set of tools for quick development of web interfaces.",
+          "description": "Ink is a set of tools for quick development of web interfaces",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
           "github": "https://github.com/sapo/Ink/",
           "install": Object {
@@ -1459,7 +1540,7 @@ exports[`App renders correctly 1`] = `
             "safari": "Latest",
           },
           "css": "SASS",
-          "description": "Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.",
+          "description": "Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework",
           "documentation": "https://imperavi.com/kube/docs/",
           "github": "https://github.com/imperavi/kube",
           "icons": Object {
@@ -1580,7 +1661,7 @@ exports[`App renders correctly 1`] = `
             "safari": "Latest",
           },
           "css": "CSS",
-          "description": "A set of small, responsive CSS modules that you can use in every web project.",
+          "description": "A set of small, responsive CSS modules that you can use in every web project",
           "documentation": "http://purecss.io/start/",
           "github": "https://github.com/yahoo/pure",
           "icons": false,
@@ -1615,7 +1696,7 @@ exports[`App renders correctly 1`] = `
             "safari": "Latest",
           },
           "css": "SASS",
-          "description": "The CSS toolkit and guidelines that power GitHub.",
+          "description": "The CSS toolkit and guidelines that power GitHub",
           "documentation": "http://primercss.io/scaffolding/",
           "github": "https://github.com/primer/primer-css",
           "icons": Object {
@@ -1666,7 +1747,7 @@ exports[`App renders correctly 1`] = `
         },
         Object {
           "css": "LESS",
-          "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development.",
+          "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
           "github": "https://github.com/picturepan2/spectre",
           "icons": Object {
@@ -1689,10 +1770,10 @@ exports[`App renders correctly 1`] = `
       Collection {
         "count": 4,
         "data": Array [
-          "bootstrap3",
+          "amaze",
+          "bootstrap4",
           "bulma",
           "semantic",
-          "ink",
         ],
       }
     }

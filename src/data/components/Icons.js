@@ -1,6 +1,7 @@
 export default {
   name: 'Icons',
   supports: {
+    amaze: 'http://amazeui.github.io/docs/en/css/icon/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#glyphicons',
     bulma: 'http://bulma.io/documentation/elements/icon/',
     foundation5: 'http://zurb.com/playground/foundation-icon-fonts-3',

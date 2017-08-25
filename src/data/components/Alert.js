@@ -1,6 +1,7 @@
 export default {
   name: 'Alert',
   supports: {
+    amaze: 'http://amazeui.github.io/docs/en/javascript/alert/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#alerts',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/alerts/',
     bulma: 'http://bulma.io/documentation/elements/notification/',

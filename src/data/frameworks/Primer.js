@@ -2,7 +2,7 @@ export const Primer = {
   name: 'Primer',
   slug: 'primer',
   install: 'primer-css',
-  description: 'The CSS toolkit and guidelines that power GitHub.',
+  description: 'The CSS toolkit and guidelines that power GitHub',
   url: 'http://primercss.io/',
   documentation: 'http://primercss.io/scaffolding/',
   github: 'https://github.com/primer/primer-css',

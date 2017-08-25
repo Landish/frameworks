@@ -1,6 +1,7 @@
 export default {
   name: 'Tabs',
   supports: {
+    amaze: 'http://amazeui.github.io/docs/en/javascript/tabs/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#tabs',
     bootstrap4: 'http://v4-alpha.getbootstrap.com/components/navs/#tabs',
     bulma: 'http://bulma.io/documentation/components/tabs/',

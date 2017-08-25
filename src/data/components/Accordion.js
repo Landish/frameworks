@@ -1,6 +1,7 @@
 export default {
   name: 'Accordion',
   supports: {
+    amaze: 'http://amazeui.github.io/docs/en/javascript/collapse/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#collapse',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/collapse/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/accordion.html',

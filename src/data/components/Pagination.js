@@ -1,6 +1,7 @@
 export default {
   name: 'Pagination',
   supports: {
+    amaze: 'http://amazeui.github.io/docs/en/css/pagination/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#pagination',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/pagination/',
     bulma: 'http://bulma.io/documentation/components/pagination/',

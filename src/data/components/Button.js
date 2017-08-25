@@ -1,6 +1,7 @@
 export default {
   name: 'Button',
   supports: {
+    amaze: 'http://amazeui.github.io/docs/en/css/button/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#buttons',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/buttons/',
     bulma: 'http://bulma.io/documentation/elements/button/',

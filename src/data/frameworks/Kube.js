@@ -3,7 +3,7 @@ export const Kube = {
   slug: 'kube',
   install: 'kube',
   description:
-    'Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.',
+    'Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework',
   url: 'https://imperavi.com/kube/',
   documentation: 'https://imperavi.com/kube/docs/',
   github: 'https://github.com/imperavi/kube',

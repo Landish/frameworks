@@ -6,7 +6,7 @@ export const Pure = {
     npm: 'purecss',
     yarn: 'purecss'
   },
-  description: 'A set of small, responsive CSS modules that you can use in every web project.',
+  description: 'A set of small, responsive CSS modules that you can use in every web project',
   licence: {
     name: 'BSD License',
     url: 'https://github.com/yahoo/pure/blob/master/LICENSE.md'

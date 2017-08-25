@@ -26,6 +26,32 @@ exports[`Chooser renders correctly 1`] = `
       <SelectButton
         framework={
           Object {
+            "css": "LESS",
+            "description": "A mobile-first and modular front-end framework",
+            "documentation": "http://amazeui.github.io/docs/en/",
+            "github": "https://github.com/amazeui/amazeui",
+            "icons": Object {
+              "name": "Font Awesome",
+              "url": "http://fontawesome.io/",
+            },
+            "install": "amazeui",
+            "js": "http://amazeui.github.io/docs/en/javascript/",
+            "name": "Amaze UI",
+            "slug": "amaze",
+            "stats": Object {
+              "forks": "2.2K+",
+              "stars": "10K+",
+            },
+            "url": "http://amazeui.github.io/docs/en/",
+            "version": "2.7.2",
+          }
+        }
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
             "browsers": Object {
               "android": "Latest",
               "chrome": "Latest",
@@ -207,7 +233,7 @@ exports[`Chooser renders correctly 1`] = `
         framework={
           Object {
             "css": "SASS",
-            "description": "Ink is a set of tools for quick development of web interfaces.",
+            "description": "Ink is a set of tools for quick development of web interfaces",
             "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
             "github": "https://github.com/sapo/Ink/",
             "install": Object {
@@ -242,7 +268,7 @@ exports[`Chooser renders correctly 1`] = `
               "safari": "Latest",
             },
             "css": "SASS",
-            "description": "Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework.",
+            "description": "Clean, minimalistic and fast to implement, Kube is free to all CSS and Web Framework",
             "documentation": "https://imperavi.com/kube/docs/",
             "github": "https://github.com/imperavi/kube",
             "icons": Object {
@@ -387,7 +413,7 @@ exports[`Chooser renders correctly 1`] = `
               "safari": "Latest",
             },
             "css": "CSS",
-            "description": "A set of small, responsive CSS modules that you can use in every web project.",
+            "description": "A set of small, responsive CSS modules that you can use in every web project",
             "documentation": "http://purecss.io/start/",
             "github": "https://github.com/yahoo/pure",
             "icons": false,
@@ -428,7 +454,7 @@ exports[`Chooser renders correctly 1`] = `
               "safari": "Latest",
             },
             "css": "SASS",
-            "description": "The CSS toolkit and guidelines that power GitHub.",
+            "description": "The CSS toolkit and guidelines that power GitHub",
             "documentation": "http://primercss.io/scaffolding/",
             "github": "https://github.com/primer/primer-css",
             "icons": Object {
@@ -491,7 +517,7 @@ exports[`Chooser renders correctly 1`] = `
         framework={
           Object {
             "css": "LESS",
-            "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development.",
+            "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development",
             "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
             "github": "https://github.com/picturepan2/spectre",
             "icons": Object {

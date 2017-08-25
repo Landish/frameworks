@@ -1,6 +1,7 @@
 export default {
   name: 'Thumbnail',
   supports: {
+    amaze: 'http://amazeui.github.io/docs/en/css/thumbnail/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#thumbnails',
     bootstrap4: 'http://getbootstrap.com/docs/4.0/content/images/',
     bulma: 'http://bulma.io/documentation/elements/image/',
