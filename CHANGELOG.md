@@ -2,10 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
-## [X.X.X] - XXXX-XX-XX
+## [1.2.0] - 2017-08-26
 ### Added
 - [Amaze UI](http://amazeui.github.io/docs/en/)
 - [Blaze CSS](http://blazecss.com/)
+- [Metro UI CSS](https://metroui.org.ua/)
 - [mini.css](http://minicss.org/)
 - [Foundation 5](http://foundation.zurb.com/sites/docs/v/5.5.3/) and [Foundation 6](http://foundation.zurb.com/) to Tooltip component.
 - Avatar component.
