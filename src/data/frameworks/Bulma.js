@@ -19,11 +19,11 @@ export const Bulma = {
     ios: 'Latest',
     android: 'Latest'
   },
-  version: '0.4.4',
+  version: '0.5.1',
   css: 'SASS',
   js: false,
   stats: {
-    stars: '16K+',
+    stars: '18K+',
     forks: '1K+'
   }
 };
