@@ -32,11 +32,15 @@ class App extends Component {
       });
     }
 
-    this.history.listen(location => {
+    this.removeHistoryListener = this.history.listen(location => {
       this.setState({
         visible: new Collection(location.state.frameworks)
       });
     });
+  }
+
+  componentWillUnmount() {
+    this.removeHistoryListener();
   }
 
   onFrameworkSelect = framework => {
