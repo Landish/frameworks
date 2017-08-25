@@ -114,11 +114,11 @@ const FrameworksList = ({ frameworks, visible }) => {
           return (
             <td key={framework.slug}>
               <div className="tag-group">
-                <span className="tag is-small is-dark">
+                <span className="tag is-rounded is-small is-dark">
                   <Icon name="code-fork" />
                   {framework.stats.forks}
                 </span>
-                <span className="tag is-small is-dark">
+                <span className="tag is-rounded is-small is-dark">
                   <Icon name="star" />
                   {framework.stats.stars}
                 </span>
@@ -143,7 +143,7 @@ const FrameworksList = ({ frameworks, visible }) => {
                 target="_blank"
                 rel="noopener noreferrer"
                 href={`${framework.github}/releases`}
-                className="tag is-small is-info"
+                className="tag is-rounded is-small is-info"
               >
                 <Icon name="history" />
                 <span>
@@ -171,12 +171,12 @@ const FrameworksList = ({ frameworks, visible }) => {
                   data-title={framework.icons.name}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="tag is-tooltip is-small is-success"
+                  className="tag is-rounded is-tooltip is-small is-success"
                   href={framework.icons.url}
                 >
                   Yes
                 </a>}
-              {!framework.icons && <span className="tag is-small is-danger">No</span>}
+              {!framework.icons && <span className="tag is-rounded is-small is-danger">No</span>}
             </td>
           );
         })}
@@ -193,7 +193,7 @@ const FrameworksList = ({ frameworks, visible }) => {
         {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
           return (
             <td key={framework.slug}>
-              <span className="tag is-small is-info">
+              <span className="tag is-rounded is-small is-info">
                 {framework.css}
               </span>
             </td>
@@ -216,12 +216,12 @@ const FrameworksList = ({ frameworks, visible }) => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="tag is-small is-success"
+                  className="tag is-rounded is-small is-success"
                   href={framework.js}
                 >
                   Yes
                 </a>}
-              {!framework.js && <span className="tag is-small is-danger">No</span>}
+              {!framework.js && <span className="tag is-rounded is-small is-danger">No</span>}
             </td>
           );
         })}
@@ -242,7 +242,7 @@ const FrameworksList = ({ frameworks, visible }) => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="tag is-small is-info"
+                  className="tag is-rounded is-small is-info"
                   href={framework.licence.url}
                 >
                   {framework.licence.name}
@@ -252,7 +252,7 @@ const FrameworksList = ({ frameworks, visible }) => {
                   target="_blank"
                   rel="noopener noreferrer"
                   href="https://opensource.org/licenses/MIT"
-                  className="tag is-small is-info"
+                  className="tag is-rounded is-small is-info"
                 >
                   MIT
                 </a>}

@@ -2,6 +2,7 @@ export default {
   name: 'Grid',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/css/grid/',
+    blaze: 'http://blazecss.com/objects/grid/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#grid',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/layout/grid/',
     bulma: 'http://bulma.io/documentation/grid/columns/',

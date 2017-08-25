@@ -2,6 +2,7 @@ export default {
   name: 'Progress',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/css/progress/',
+    blaze: 'http://blazecss.com/components/progress/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#progress',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/progress/',
     bulma: 'http://bulma.io/documentation/elements/progress/',

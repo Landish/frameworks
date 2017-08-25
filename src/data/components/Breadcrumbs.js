@@ -2,6 +2,7 @@ export default {
   name: 'Breadcrumbs',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/css/breadcrumb/',
+    blaze: 'http://blazecss.com/components/breadcrumbs/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#breadcrumbs',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/breadcrumb/',
     bulma: 'http://bulma.io/documentation/components/breadcrumb/',

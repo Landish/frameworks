@@ -2,6 +2,7 @@ export default {
   name: 'Modal',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/javascript/modal/',
+    blaze: 'http://blazecss.com/objects/modals/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#modals',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/modal/',
     bulma: 'http://bulma.io/documentation/components/modal/',

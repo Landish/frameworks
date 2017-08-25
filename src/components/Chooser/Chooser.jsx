@@ -7,7 +7,7 @@ const Chooser = ({ frameworks, visible, onFrameworkSelect }) => {
   return (
     <div className="section has-text-centered">
       <div className="container">
-        <h2 className="title is-5">
+        <h2 className="subtitle is-5">
           Select <strong>at least 2</strong> and <strong>maximum 4</strong> front-end frameworks and
           compare them to each other.
         </h2>
@@ -16,6 +16,7 @@ const Chooser = ({ frameworks, visible, onFrameworkSelect }) => {
             return (
               <SelectButton
                 key={framework.slug}
+                isNew={framework.isNew}
                 isSelected={visible.has(framework.slug)}
                 framework={framework}
                 onClick={() => {

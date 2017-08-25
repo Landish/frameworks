@@ -22,6 +22,7 @@ This repository displays popular front-end frameworks with brief information and
 ## List of Frameworks
 
 * [Amaze UI](http://amazeui.github.io/docs/en/) - A mobile-first and modular front-end framework.
+* [Blaze CSS](http://blazecss.com/) - Open source modular CSS toolkit providing great structure for building websites quickly.
 * [Bootstrap 3](https://getbootstrap.com/docs/3.3/) - The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 * [Bootstrap 4 (Beta)](https://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.

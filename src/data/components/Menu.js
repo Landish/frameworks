@@ -1,6 +1,7 @@
 export default {
   name: 'Menu',
   supports: {
+    blaze: 'http://blazecss.com/components/menus/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#list-group-linked',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/list-group/#links-and-buttons',
     bulma: 'http://bulma.io/documentation/components/menu/',

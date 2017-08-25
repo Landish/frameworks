@@ -2,6 +2,7 @@ export default {
   name: 'Table',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/css/table/',
+    blaze: 'http://blazecss.com/components/tables/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#tables',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/content/tables/',
     bulma: 'http://bulma.io/documentation/elements/table/',

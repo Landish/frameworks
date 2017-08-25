@@ -2,6 +2,7 @@ export default {
   name: 'List',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/css/list/',
+    blaze: 'http://blazecss.com/components/lists/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#list-group',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/list-group/',
     materialize: 'http://materializecss.com/collections.html',

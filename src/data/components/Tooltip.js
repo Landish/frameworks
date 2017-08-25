@@ -1,6 +1,7 @@
 export default {
   name: 'Tooltip',
   supports: {
+    blaze: 'http://blazecss.com/components/tooltips/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#tooltips',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/tooltips/',
     semantic: 'http://semantic-ui.com/modules/popup.html#tooltip',

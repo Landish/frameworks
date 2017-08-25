@@ -1,4 +1,5 @@
 import { AmazeUI } from './frameworks/AmazeUI';
+import { BlazeCSS } from './frameworks/BlazeCSS';
 import { Bootstrap3, Bootstrap4 } from './frameworks/Bootstrap';
 import { Bulma } from './frameworks/Bulma';
 import { Foundation5, Foundation6 } from './frameworks/Foundation';
@@ -42,6 +43,7 @@ import Utilities from './components/Utilities';
 export default {
   frameworks: [
     AmazeUI,
+    BlazeCSS,
     Bootstrap3,
     Bootstrap4,
     Bulma,

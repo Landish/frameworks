@@ -2,6 +2,7 @@ export default {
   name: 'Utilities',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/css/utility/',
+    blaze: 'http://blazecss.com/utilities/alignment/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#helper-classes',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/utilities/',
     bulma: 'http://bulma.io/documentation/modifiers/helpers/',

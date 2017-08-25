@@ -1,4 +1,5 @@
 export const AmazeUI = {
+  isNew: true,
   name: 'Amaze UI',
   slug: 'amaze',
   install: 'amazeui',

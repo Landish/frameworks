@@ -83,7 +83,7 @@ const ComponentsList = ({ frameworks, visible, components }) => {
               return (
                 <tr key={component.name.toLowerCase()}>
                   <td>
-                    <span className="tag is-info">
+                    <span className="tag is-info is-rounded">
                       {component.name}
                     </span>
                   </td>

@@ -1,6 +1,7 @@
 export default {
   name: 'Card',
   supports: {
+    blaze: 'http://blazecss.com/components/cards/',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/card/',
     bulma: 'http://bulma.io/documentation/components/card/',
     materialize: 'http://materializecss.com/cards.html',

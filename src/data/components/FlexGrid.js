@@ -1,6 +1,7 @@
 export default {
   name: 'Flex Grid',
   supports: {
+    blaze: 'http://blazecss.com/objects/grid/',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/layout/grid/',
     bulma: 'http://bulma.io/documentation/grid/columns/',
     foundation6: 'https://foundation.zurb.com/sites/docs/flex-grid.html',
