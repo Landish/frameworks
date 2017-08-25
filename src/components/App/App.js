@@ -7,11 +7,12 @@ import Footer from '../Footer';
 import ComponentsList from '../ComponentsList';
 import Collection from '../../core/Collection';
 import data from '../../data/index';
+import config from '../../config.json';
 
 class App extends Component {
   state = {
     frameworks: data.frameworks,
-    visible: new Collection(['amaze', 'blaze', 'bootstrap4', 'mini']),
+    visible: new Collection(config.defaultSelected),
     menuOpened: false
   };
 
