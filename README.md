@@ -57,6 +57,7 @@ Visit: [Comparison of Front-End Frameworks](https://frameworks.now.sh/)
 * Icons
 * Label
 * List
+* Loading
 * Media Object
 * Menu
 * Navbar
@@ -67,6 +68,7 @@ Visit: [Comparison of Front-End Frameworks](https://frameworks.now.sh/)
 * Progress
 * Table
 * Tabs
+* Tags
 * Thumbnail
 * Tooltip
 * Typography

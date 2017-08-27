@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.1] - 2017-08-28
+### Added
+- Loading component.
+- Tags component.
+
+### Changed
+- Order of Github stats and forks.
+- Github stats and forks from badge to links.
+- Css Preprocessor badge to link. ([LESS](http://lesscss.org/) and [SASS](http://sass-lang.com/))
+
 ## [1.2.0] - 2017-08-26
 ### Added
 - [Amaze UI](http://amazeui.github.io/docs/en/)

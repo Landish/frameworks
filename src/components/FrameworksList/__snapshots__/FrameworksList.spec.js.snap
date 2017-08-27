@@ -227,44 +227,56 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
             <div
               className="tag-group"
             >
-              <span
-                className="tag is-rounded is-small is-dark"
-              >
-                <Icon
-                  name="code-fork"
-                />
-                1K+
-              </span>
-              <span
+              <a
                 className="tag is-space is-rounded is-small is-dark"
+                href="https://github.com/jgthms/bulma/stargazers"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <Icon
                   name="star"
                 />
                 18K+
-              </span>
+              </a>
+              <a
+                className="tag is-rounded is-small is-dark"
+                href="https://github.com/jgthms/bulma/network"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <Icon
+                  name="code-fork"
+                />
+                1K+
+              </a>
             </div>
           </td>
           <td>
             <div
               className="tag-group"
             >
-              <span
-                className="tag is-rounded is-small is-dark"
-              >
-                <Icon
-                  name="code-fork"
-                />
-                200+
-              </span>
-              <span
+              <a
                 className="tag is-space is-rounded is-small is-dark"
+                href="https://github.com/sapo/Ink//stargazers"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 <Icon
                   name="star"
                 />
                 1.9K+
-              </span>
+              </a>
+              <a
+                className="tag is-rounded is-small is-dark"
+                href="https://github.com/sapo/Ink//network"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <Icon
+                  name="code-fork"
+                />
+                200+
+              </a>
             </div>
           </td>
         </tr>
@@ -339,18 +351,24 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
             </strong>
           </td>
           <td>
-            <span
+            <a
               className="tag is-rounded is-small is-info"
+              href="http://sass-lang.com/"
+              rel="noopener noreferrer"
+              target="_blank"
             >
               SASS
-            </span>
+            </a>
           </td>
           <td>
-            <span
+            <a
               className="tag is-rounded is-small is-info"
+              href="http://sass-lang.com/"
+              rel="noopener noreferrer"
+              target="_blank"
             >
               SASS
-            </span>
+            </a>
           </td>
         </tr>
         <tr>

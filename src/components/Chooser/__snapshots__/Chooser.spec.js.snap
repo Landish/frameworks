@@ -534,7 +534,7 @@ exports[`Chooser renders correctly 1`] = `
               "opera": "Latest",
               "safari": "Latest",
             },
-            "css": "CSS",
+            "css": false,
             "description": "A set of small, responsive CSS modules that you can use in every web project",
             "documentation": "http://purecss.io/start/",
             "github": "https://github.com/yahoo/pure",

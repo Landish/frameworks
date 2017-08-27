@@ -1,6 +1,6 @@
 {
   "title": "Comparison of Front-End Frameworks",
-  "version": "1.2",
+  "version": "1.2.1",
   "minimum": 2,
   "maximum": 5,
   "defaultSelected": ["amaze", "blaze", "gumby", "metro", "mini"]

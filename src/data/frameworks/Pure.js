@@ -26,7 +26,7 @@ export const Pure = {
     details: 'http://primercss.io/about/#browser-support'
   },
   version: '1.0.0',
-  css: 'CSS',
+  css: false,
   js: false,
   stats: {
     stars: '17K+',

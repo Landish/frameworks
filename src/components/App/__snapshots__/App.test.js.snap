@@ -412,7 +412,7 @@ exports[`App renders correctly 1`] = `
             "opera": "Latest",
             "safari": "Latest",
           },
-          "css": "CSS",
+          "css": false,
           "description": "A set of small, responsive CSS modules that you can use in every web project",
           "documentation": "http://purecss.io/start/",
           "github": "https://github.com/yahoo/pure",
@@ -938,7 +938,7 @@ exports[`App renders correctly 1`] = `
             "opera": "Latest",
             "safari": "Latest",
           },
-          "css": "CSS",
+          "css": false,
           "description": "A set of small, responsive CSS modules that you can use in every web project",
           "documentation": "http://purecss.io/start/",
           "github": "https://github.com/yahoo/pure",
@@ -1320,6 +1320,16 @@ exports[`App renders correctly 1`] = `
           },
         },
         Object {
+          "name": "Loading",
+          "supports": Object {
+            "materialize": "http://materializecss.com/preloader.html",
+            "metro": "https://metroui.org.ua/preloaders.html",
+            "mini": "http://minicss.org/progress#donut-spinner",
+            "semantic": "https://semantic-ui.com/elements/loader.html",
+            "spectre": "https://picturepan2.github.io/spectre/utilities.html#loading",
+          },
+        },
+        Object {
           "name": "Media Object",
           "supports": Object {
             "blaze": "http://blazecss.com/objects/medias/",
@@ -1515,6 +1525,15 @@ exports[`App renders correctly 1`] = `
             "spectre": "https://picturepan2.github.io/spectre/components.html#tabs",
             "uikit2": "https://getuikit.com/v2/docs/tab.html",
             "uikit3": "https://getuikit.com/docs/tab",
+          },
+        },
+        Object {
+          "name": "Tags",
+          "supports": Object {
+            "blaze": "http://blazecss.com/components/tags/",
+            "materialize": "http://materializecss.com/chips.html",
+            "semantic": "https://semantic-ui.com/modules/dropdown.html#tagging-and-user-additions",
+            "spectre": "https://picturepan2.github.io/spectre/components.html#chips",
           },
         },
         Object {
@@ -2002,7 +2021,7 @@ exports[`App renders correctly 1`] = `
             "opera": "Latest",
             "safari": "Latest",
           },
-          "css": "CSS",
+          "css": false,
           "description": "A set of small, responsive CSS modules that you can use in every web project",
           "documentation": "http://purecss.io/start/",
           "github": "https://github.com/yahoo/pure",

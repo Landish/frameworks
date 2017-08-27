@@ -29,6 +29,7 @@ import Grid from './components/Grid';
 import Icons from './components/Icons';
 import Label from './components/Label';
 import List from './components/List';
+import Loading from './components/Loading';
 import Media from './components/Media';
 import Menu from './components/Menu';
 import Modal from './components/Modal';
@@ -40,6 +41,7 @@ import Popover from './components/Popover';
 import Progress from './components/Progress';
 import Table from './components/Table';
 import Tabs from './components/Tabs';
+import Tags from './components/Tags';
 import Thumbnail from './components/Thumbnail';
 import Tooltip from './components/Tooltip';
 import Typography from './components/Typography';
@@ -82,6 +84,7 @@ export default {
     Icons,
     Label,
     List,
+    Loading,
     Media,
     Menu,
     Modal,
@@ -93,6 +96,7 @@ export default {
     Progress,
     Table,
     Tabs,
+    Tags,
     Thumbnail,
     Tooltip,
     Typography,

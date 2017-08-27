@@ -566,6 +566,43 @@ exports[`Components List renders correctly 1`] = `
             <span
               className="tag is-info is-rounded"
             >
+              Loading
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <Icon
+                name="eye-slash"
+              />
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <Icon
+                name="eye-slash"
+              />
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info is-rounded"
+            >
               Media Object
             </span>
           </td>
@@ -966,6 +1003,43 @@ exports[`Components List renders correctly 1`] = `
                 Demo
               </span>
             </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span
+              className="tag is-info is-rounded"
+            >
+              Tags
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <Icon
+                name="eye-slash"
+              />
+              <span>
+                N / A
+              </span>
+            </span>
+          </td>
+          <td>
+            <span
+              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+              data-title="Not Available"
+              disabled={false}
+            >
+              <Icon
+                name="eye-slash"
+              />
+              <span>
+                N / A
+              </span>
+            </span>
           </td>
         </tr>
         <tr>
