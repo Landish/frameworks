@@ -5,7 +5,9 @@ import { toInstall } from '../../core/utils';
 import Collection from '../../core/Collection';
 
 const FrameworksList = ({ frameworks, visible }) => {
-  function renderHeader() {
+  const renderNoBadge = () => <span className="tag is-rounded is-small is-danger">No</span>;
+
+  const renderHeader = () => {
     return (
       <tr>
         <th className="is-first" />
@@ -20,9 +22,9 @@ const FrameworksList = ({ frameworks, visible }) => {
         })}
       </tr>
     );
-  }
+  };
 
-  function renderLinksRow() {
+  const renderLinksRow = () => {
     return (
       <tr>
         <td>
@@ -71,9 +73,9 @@ const FrameworksList = ({ frameworks, visible }) => {
         })}
       </tr>
     );
-  }
+  };
 
-  function renderInstallRow() {
+  const renderInstallRow = () => {
     return (
       <tr>
         <td>
@@ -102,9 +104,9 @@ const FrameworksList = ({ frameworks, visible }) => {
         })}
       </tr>
     );
-  }
+  };
 
-  function renderStatsRow() {
+  const renderStatsRow = () => {
     return (
       <tr>
         <td>
@@ -114,23 +116,33 @@ const FrameworksList = ({ frameworks, visible }) => {
           return (
             <td key={framework.slug}>
               <div className="tag-group">
-                <span className="tag is-rounded is-small is-dark">
-                  <Icon name="code-fork" />
-                  {framework.stats.forks}
-                </span>
-                <span className="tag is-space is-rounded is-small is-dark">
+                <a
+                  href={`${framework.github}/stargazers`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="tag is-space is-rounded is-small is-dark"
+                >
                   <Icon name="star" />
                   {framework.stats.stars}
-                </span>
+                </a>
+                <a
+                  href={`${framework.github}/network`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="tag is-rounded is-small is-dark"
+                >
+                  <Icon name="code-fork" />
+                  {framework.stats.forks}
+                </a>
               </div>
             </td>
           );
         })}
       </tr>
     );
-  }
+  };
 
-  function renderVersionRow() {
+  const renderVersionRow = () => {
     return (
       <tr>
         <td>
@@ -140,9 +152,9 @@ const FrameworksList = ({ frameworks, visible }) => {
           return (
             <td key={framework.slug}>
               <a
+                href={`${framework.github}/releases`}
                 target="_blank"
                 rel="noopener noreferrer"
-                href={`${framework.github}/releases`}
                 className="tag is-space is-rounded is-small is-info"
               >
                 <Icon name="history" />
@@ -155,9 +167,9 @@ const FrameworksList = ({ frameworks, visible }) => {
         })}
       </tr>
     );
-  }
+  };
 
-  function renderIconsRow() {
+  const renderIconsRow = () => {
     return (
       <tr>
         <td>
@@ -182,9 +194,9 @@ const FrameworksList = ({ frameworks, visible }) => {
         })}
       </tr>
     );
-  }
+  };
 
-  function renderCSSRow() {
+  const renderCSSRow = () => {
     return (
       <tr>
         <td>
@@ -193,17 +205,24 @@ const FrameworksList = ({ frameworks, visible }) => {
         {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
           return (
             <td key={framework.slug}>
-              <span className="tag is-rounded is-small is-info">
-                {framework.css}
-              </span>
+              {framework.css &&
+                <a
+                  href={framework.css === 'LESS' ? 'http://lesscss.org/' : 'http://sass-lang.com/'}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="tag is-rounded is-small is-info"
+                >
+                  {framework.css}
+                </a>}
+              {!framework.css && renderNoBadge()}
             </td>
           );
         })}
       </tr>
     );
-  }
+  };
 
-  function renderJSRow() {
+  const renderJSRow = () => {
     return (
       <tr>
         <td>
@@ -221,15 +240,15 @@ const FrameworksList = ({ frameworks, visible }) => {
                 >
                   Yes
                 </a>}
-              {!framework.js && <span className="tag is-rounded is-small is-danger">No</span>}
+              {!framework.js && renderNoBadge()}
             </td>
           );
         })}
       </tr>
     );
-  }
+  };
 
-  function renderLicenceRow() {
+  const renderLicenceRow = () => {
     return (
       <tr>
         <td>
@@ -261,7 +280,7 @@ const FrameworksList = ({ frameworks, visible }) => {
         })}
       </tr>
     );
-  }
+  };
 
   return (
     <div className="section is-x">
