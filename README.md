@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://landish.github.io/frameworks/"><img src="https://raw.githubusercontent.com/Landish/frameworks/master/banner.png" alt="Comparison of Front-End Frameworks" /></a>
+<a href="https://frameworks.now.sh/"><img src="https://raw.githubusercontent.com/Landish/frameworks/master/banner.png" alt="Comparison of Front-End Frameworks" /></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 This repository displays popular front-end frameworks with brief information and their components.
 
-Visit: [Comparison of Front-End Frameworks](https://landish.github.io/frameworks/)
+Visit: [Comparison of Front-End Frameworks](https://frameworks.now.sh/)
 
 
 ## List of Frameworks

@@ -1,7 +1,7 @@
 {
   "name": "frameworks",
-  "version": "1.1.0",
-  "homepage": "https://landish.github.io/frameworks",
+  "version": "1.2.0",
+  "homepage": "https://frameworks.now.sh/",
   "private": true,
   "dependencies": {
     "bulma": "^0.5.1",
@@ -40,6 +40,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "now": "npm run build && now build --public --name frameworks"
   }
 }
