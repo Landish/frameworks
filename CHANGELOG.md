@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.2] - 2017-09-06
+### Added
+- [Office UI Fabric](http://dev.office.com/fabric)
+
+### Changed
+- Font Awesome from CDN to local.
+- `Github` to `Source Code` link in header.
+
+### Removed
+- `Issues` link from header.
+- Word `Changelog` and icon.
+- `isNew` property from the following frameworks: Amaze UI, Blaze CSS, Gumby Framework, Metro UI CSS, mini.css.
+
+
 ## [1.2.1] - 2017-08-28
 ### Added
 - Loading component.
