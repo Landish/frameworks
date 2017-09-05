@@ -40,18 +40,7 @@ exports[`Navbar renders correctly 1`] = `
         <Icon
           name="github"
         />
-        Github
-      </a>
-      <a
-        className="nav-item"
-        href="https://github.com/Landish/frameworks/issues"
-        rel="noopener noreferrer"
-        target="_blank"
-      >
-        <Icon
-          name="bug"
-        />
-         Issues
+        Source Code
       </a>
       <a
         className="nav-item"
@@ -59,14 +48,11 @@ exports[`Navbar renders correctly 1`] = `
         rel="noopener noreferrer"
         target="_blank"
       >
-        <Icon
-          name="list-ul"
-        />
-        Changelog
         <span
           className="tag is-white is-small"
         >
-          1.2.1
+          v
+          1.2.2
         </span>
       </a>
     </div>

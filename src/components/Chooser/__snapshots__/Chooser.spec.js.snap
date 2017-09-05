@@ -38,7 +38,6 @@ exports[`Chooser renders correctly 1`] = `
               "url": "http://fontawesome.io/",
             },
             "install": "amazeui",
-            "isNew": true,
             "js": "http://amazeui.github.io/docs/en/javascript/",
             "name": "Amaze UI",
             "slug": "amaze",
@@ -50,7 +49,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "2.7.2",
           }
         }
-        isNew={true}
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -62,7 +61,6 @@ exports[`Chooser renders correctly 1`] = `
             "documentation": "http://blazecss.com/getting-started/install/",
             "github": "https://github.com/BlazeCSS/blaze",
             "install": "blaze",
-            "isNew": true,
             "js": false,
             "name": "Blaze CSS",
             "slug": "blaze",
@@ -74,7 +72,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "3.3.0",
           }
         }
-        isNew={true}
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -278,7 +276,6 @@ exports[`Chooser renders correctly 1`] = `
               "bower": "gumby",
               "npm": false,
             },
-            "isNew": true,
             "js": "https://gumbyframework.com/docs/javascript/",
             "name": "Gumby",
             "slug": "gumby",
@@ -290,7 +287,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "2.6.4",
           }
         }
-        isNew={true}
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -405,7 +402,6 @@ exports[`Chooser renders correctly 1`] = `
               "url": "https://metroui.org.ua/font.html",
             },
             "install": "metro-dist",
-            "isNew": true,
             "js": "https://metroui.org.ua/events.html",
             "name": "Metro UI CSS",
             "slug": "metro",
@@ -417,7 +413,7 @@ exports[`Chooser renders correctly 1`] = `
             "version": "3.0.17",
           }
         }
-        isNew={true}
+        isNew={false}
         isSelected={false}
         onClick={[Function]}
       />
@@ -429,7 +425,6 @@ exports[`Chooser renders correctly 1`] = `
             "documentation": "http://minicss.org/index",
             "github": "https://github.com/Chalarangelo/mini.css",
             "install": "mini.css",
-            "isNew": true,
             "js": false,
             "name": "mini.css",
             "slug": "mini",
@@ -439,6 +434,34 @@ exports[`Chooser renders correctly 1`] = `
             },
             "url": "http://minicss.org/",
             "version": "2.3.4",
+          }
+        }
+        isNew={false}
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
+            "css": "SASS",
+            "description": "The official front-end framework for building experiences that fit seamlessly into Office and Office 365",
+            "documentation": "http://dev.office.com/fabric#/get-started",
+            "github": "https://github.com/OfficeDev/office-ui-fabric-core",
+            "icons": Object {
+              "name": "Office UI Icons",
+              "url": "http://dev.office.com/fabric#/styles/icons",
+            },
+            "install": "office-ui-fabric-core",
+            "isNew": true,
+            "js": "https://dev.office.com/fabric-js/index.html",
+            "name": "Office UI Fabric",
+            "slug": "office",
+            "stats": Object {
+              "forks": "370+",
+              "stars": "2.7K+",
+            },
+            "url": "http://dev.office.com/fabric",
+            "version": "7.2.0",
           }
         }
         isNew={true}
