@@ -1,15 +1,15 @@
 <p align="center">
-<a href="https://frameworks.now.sh/"><img src="https://raw.githubusercontent.com/Landish/frameworks/master/banner.png" alt="Comparison of Front-End Frameworks" /></a>
+<a href="https://frameworks.now.sh/"><img src="https://raw.githubusercontent.com/Landish/frameworks.now.sh/master/banner.png" alt="Comparison of Front-End Frameworks" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Landish/frameworks/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" /></a>
-<a href="https://travis-ci.org/Landish/frameworks"><img src="https://travis-ci.org/Landish/frameworks.svg?branch=master" alt="Build Status" /></a>
+<a href="https://github.com/Landish/frameworks.now.sh/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" /></a>
+<a href="https://travis-ci.org/Landish/frameworks.now.sh"><img src="https://travis-ci.org/Landish/frameworks.now.sh.svg?branch=master" alt="Build Status" /></a>
 <a href="https://github.com/commitizen/cz-cli"><img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly" /></a>
 <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="styled with prettier" /></a>
 <a href="https://bulma.io"><img src="https://img.shields.io/badge/Built-with%20Bulma-00d1b2.svg"  alt="Built with Bulma" /></a>
 <a href="https://facebook.github.io/react/"><img src="https://img.shields.io/badge/Built-with%20React-blue.svg"  alt="Built with React" /></a>
-<a href="https://github.com/Landish/frameworks/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Landish/frameworks.svg" alt="License - MIT" /></a>
+<a href="https://github.com/Landish/frameworks.now.sh/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Landish/frameworks.now.sh.svg" alt="License - MIT" /></a>
 </p>
 
 ## 
@@ -82,12 +82,12 @@ PR's are welcome. Feel free to edit any necessary information about frameworks o
 But, before you start contributing to this project. First clone this repo and install it's dependencies:
 
 ```
-$ git clone git@github.com:Landish/frameworks.git
-$ cd frameworks
+$ git clone git@github.com:Landish/frameworks.now.sh.git
+$ cd frameworks.now.sh
 $ npm install
 $ npm run start
 ```
 
 ## Licence
 
-[The MIT License (MIT)](https://github.com/Landish/frameworks/blob/master/LICENSE).
+[The MIT License (MIT)](https://github.com/Landish/frameworks.now.sh/blob/master/LICENSE).
