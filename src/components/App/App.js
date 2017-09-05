@@ -26,7 +26,8 @@ class App extends Component {
     const { search } = this.history.location;
 
     if (search && search.indexOf('?compare=') > -1) {
-      const frameworks = search.replace('?compare=', '').split(',');
+      let frameworks = search.replace('?compare=', '').split(',');
+      frameworks = !frameworks[0].length ? config.defaultSelected : frameworks;
       this.setState({
         visible: new Collection(frameworks)
       });
