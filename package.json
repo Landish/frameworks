@@ -3,6 +3,11 @@
   "version": "1.2.1",
   "homepage": "https://frameworks.now.sh/",
   "private": true,
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
   "dependencies": {
     "bulma": "^0.5.1",
     "classnames": "^2.2.5",
@@ -17,6 +22,8 @@
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0",
     "enzyme": "^2.9.1",
     "jest-serializer-enzyme": "^1.0.0",
     "react-scripts": "1.0.10",
@@ -34,6 +41,7 @@
     ]
   },
   "scripts": {
+    "cz": "git-cz",
     "pretty": "prettier --single-quote --print-width 100 --write \"src/**/*.{js,jsx,json,css}\"",
     "precommit": "lint-staged",
     "predeploy": "npm run build",
