@@ -34,15 +34,7 @@ const Navbar = ({ onNavToggle, isMenuOpened }) => {
             className="nav-item"
           >
             <Icon name="github" />
-            Github
-          </a>
-          <a
-            href="https://github.com/Landish/frameworks/issues"
-            rel="noopener noreferrer"
-            target="_blank"
-            className="nav-item"
-          >
-            <Icon name="bug" /> Issues
+            Source Code
           </a>
           <a
             href="https://github.com/Landish/frameworks/blob/master/CHANGELOG.md"
@@ -50,9 +42,9 @@ const Navbar = ({ onNavToggle, isMenuOpened }) => {
             target="_blank"
             className="nav-item"
           >
-            <Icon name="list-ul" />
-            Changelog
-            <span className="tag is-white is-small">{config.version}</span>
+            <span className="tag is-white is-small">
+              v{config.version}
+            </span>
           </a>
         </div>
       </div>
