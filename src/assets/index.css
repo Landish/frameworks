@@ -217,6 +217,10 @@ th.is-first {
   margin-right: 3px;
 }
 
+.notification {
+  padding: 1.5em 2em 1em;
+}
+
 @media (max-width: 1191px) {
   .field.has-addons .button .icon {
     margin-left: 0;
