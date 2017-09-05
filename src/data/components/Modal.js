@@ -14,6 +14,7 @@ export default {
     materialize: 'http://materializecss.com/modals.html',
     metro: 'https://metroui.org.ua/dialog.html',
     mini: 'http://minicss.org/contextual#modals',
+    office: 'http://dev.office.com/fabric#/components/modal',
     uikit2: 'https://getuikit.com/v2/docs/modal.html',
     uikit3: 'https://getuikit.com/docs/modal',
     semantic: 'http://semantic-ui.com/modules/modal.html',

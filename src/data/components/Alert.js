@@ -12,6 +12,7 @@ export default {
     ink: 'http://ink.sapo.pt/ui-elements/alerts/',
     kube: 'https://imperavi.com/kube/docs/alerts/',
     metro: 'https://metroui.org.ua/notify.html',
+    office: 'http://dev.office.com/fabric#/components/messagebar',
     uikit2: 'https://getuikit.com/v2/docs/alert.html',
     uikit3: 'https://getuikit.com/docs/alert',
     primer: 'http://primercss.io/alerts/',

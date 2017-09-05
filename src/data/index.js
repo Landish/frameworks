@@ -9,6 +9,7 @@ import { Kube } from './frameworks/Kube';
 import { Materialize } from './frameworks/Materialize';
 import { MetroUI } from './frameworks/MetroUI';
 import { Mini } from './frameworks/Mini';
+import { OfficeUI } from './frameworks/OfficeUI';
 import { UIkit2, UIkit3 } from './frameworks/UIkit';
 import { Pure } from './frameworks/Pure';
 import { Primer } from './frameworks/Primer';
@@ -62,6 +63,7 @@ export default {
     Materialize,
     MetroUI,
     Mini,
+    OfficeUI,
     UIkit2,
     UIkit3,
     Pure,

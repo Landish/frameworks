@@ -34,6 +34,7 @@ Visit: [Comparison of Front-End Frameworks](https://frameworks.now.sh/)
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on [Material Design](https://material.io/).
 * [Metro UI CSS](https://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows MetroUI Style.
 * [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
+* [Office UI Fabric](http://dev.office.com/fabric) - The front-end framework for building experiences for Office and Office 365.
 * [UIKit 2](https://getuikit.com/v2/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 * [UIKit 3 (Beta)](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.

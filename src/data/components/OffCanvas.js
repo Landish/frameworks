@@ -9,6 +9,7 @@ export default {
     materialize: 'http://materializecss.com/side-nav.html',
     metro: 'https://metroui.org.ua/charms.html',
     mini: 'http://minicss.org/navigation#drawer',
+    office: 'http://dev.office.com/fabric#/components/panel',
     uikit2: 'https://getuikit.com/v2/docs/offcanvas.html',
     uikit3: 'https://getuikit.com/docs/offcanvas',
     semantic: 'http://semantic-ui.com/modules/sidebar.html'

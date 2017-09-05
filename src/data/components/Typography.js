@@ -13,6 +13,7 @@ export default {
     materialize: 'http://materializecss.com/typography.html',
     metro: 'https://metroui.org.ua/typography.html',
     mini: 'http://minicss.org/core#typography',
+    office: 'http://dev.office.com/fabric#/styles/typography',
     uikit2: 'https://getuikit.com/v2/docs/base.html',
     uikit3: 'https://getuikit.com/docs/base',
     primer: 'http://primercss.io/type/',

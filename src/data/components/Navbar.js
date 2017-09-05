@@ -13,6 +13,7 @@ export default {
     materialize: 'http://materializecss.com/navbar.html',
     metro: 'https://metroui.org.ua/appbar.html',
     mini: 'http://minicss.org/navigation#header',
+    office: 'http://dev.office.com/fabric#/components/commandbar',
     uikit2: 'https://getuikit.com/v2/docs/navbar.html',
     uikit3: 'https://getuikit.com/docs/navbar',
     semantic: 'http://semantic-ui.com/collections/menu.html',

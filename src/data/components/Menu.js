@@ -10,6 +10,7 @@ export default {
     ink: 'http://ink.sapo.pt/ui-elements/navigation/#menus',
     metro: 'https://metroui.org.ua/menu.html',
     mini: 'http://minicss.org/navigation#navigation-bar',
+    office: 'http://dev.office.com/fabric#/components/nav',
     uikit2: 'https://getuikit.com/v2/docs/nav.html',
     uikit3: 'https://getuikit.com/docs/nav',
     pure: 'https://purecss.io/menus/',

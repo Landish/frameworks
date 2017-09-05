@@ -14,6 +14,7 @@ export default {
     materialize: 'http://materializecss.com/table.html',
     metro: 'https://metroui.org.ua/tables.html',
     mini: 'http://minicss.org/table',
+    office: 'https://dev.office.com/fabric-js/Components/Table/Table.html',
     uikit2: 'https://getuikit.com/v2/docs/table.html',
     uikit3: 'https://getuikit.com/docs/table',
     pure: 'http://purecss.io/tables/',

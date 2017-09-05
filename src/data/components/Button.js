@@ -14,6 +14,7 @@ export default {
     materialize: 'http://materializecss.com/buttons.html',
     metro: 'https://metroui.org.ua/buttons.html',
     mini: 'http://minicss.org/input_control#buttons',
+    office: 'http://dev.office.com/fabric#/components/button',
     uikit2: 'https://getuikit.com/v2/docs/button.html',
     uikit3: 'https://getuikit.com/docs/button',
     pure: 'http://purecss.io/buttons/',

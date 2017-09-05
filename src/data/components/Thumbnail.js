@@ -10,6 +10,7 @@ export default {
     ink: 'http://ink.sapo.pt/ui-elements/images/',
     metro: 'https://metroui.org.ua/images.html',
     mini: 'http://minicss.org/core#images-captions',
+    office: 'http://dev.office.com/fabric#/components/image',
     uikit2: 'https://getuikit.com/v2/docs/thumbnail.html',
     semantic: 'http://semantic-ui.com/elements/image.html',
     spectre: 'https://picturepan2.github.io/spectre/elements.html#media'

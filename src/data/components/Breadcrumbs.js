@@ -13,6 +13,7 @@ export default {
     materialize: 'http://materializecss.com/breadcrumbs.html',
     metro: 'https://metroui.org.ua/buttons.html',
     mini: 'http://minicss.org/utility#breadcrumbs',
+    office: 'http://dev.office.com/fabric#/components/breadcrumb',
     uikit2: 'https://getuikit.com/v2/docs/breadcrumb.html',
     uikit3: 'https://getuikit.com/docs/breadcrumb',
     semantic: 'http://semantic-ui.com/collections/breadcrumb.html',

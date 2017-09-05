@@ -12,6 +12,7 @@ export default {
     materialize: 'http://materializecss.com/preloader.html',
     metro: 'https://metroui.org.ua/progressbar.html',
     mini: 'http://minicss.org/progress',
+    office: 'http://dev.office.com/fabric#/components/progressindicator',
     uikit2: 'https://getuikit.com/v2/docs/progress.html',
     uikit3: 'https://getuikit.com/docs/progress',
     semantic: 'http://semantic-ui.com/modules/progress.html',

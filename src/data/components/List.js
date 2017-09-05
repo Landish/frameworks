@@ -7,6 +7,7 @@ export default {
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/list-group/',
     materialize: 'http://materializecss.com/collections.html',
     metro: 'https://metroui.org.ua/listview.html',
+    office: 'http://dev.office.com/fabric#/components/list',
     uikit2: 'https://getuikit.com/v2/docs/list.html',
     uikit3: 'https://getuikit.com/docs/list',
     primer: 'http://primercss.io/type/#lists',

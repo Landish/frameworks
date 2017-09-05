@@ -4,7 +4,7 @@ export const OfficeUI = {
   slug: 'office',
   install: 'office-ui-fabric-core',
   description:
-    'The official front-end framework for building experiences that fit seamlessly into Office and Office 365.',
+    'The official front-end framework for building experiences that fit seamlessly into Office and Office 365',
   url: 'http://dev.office.com/fabric',
   documentation: 'http://dev.office.com/fabric#/get-started',
   github: 'https://github.com/OfficeDev/office-ui-fabric-core',

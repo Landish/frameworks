@@ -13,6 +13,7 @@ export default {
     materialize: 'http://materializecss.com/helpers.html',
     metro: 'https://metroui.org.ua/helpers.html',
     mini: 'http://minicss.org/utility',
+    office: 'http://dev.office.com/fabric#/components/utilities',
     uikit2: 'https://getuikit.com/v2/docs/utility.html',
     uikit3: 'https://getuikit.com/docs/utility',
     primer: 'http://primercss.io/utilities/',

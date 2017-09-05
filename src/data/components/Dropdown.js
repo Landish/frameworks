@@ -10,6 +10,7 @@ export default {
     ink: 'http://ink.sapo.pt/ui-elements/navigation/#dropdowns',
     materialize: 'http://materializecss.com/dropdown.html',
     metro: 'https://metroui.org.ua/buttons.html',
+    office: 'http://dev.office.com/fabric#/components/dropdown',
     uikit2: 'https://getuikit.com/v2/docs/dropdown.html',
     uikit3: 'https://getuikit.com/docs/dropdown',
     semantic: 'http://semantic-ui.com/modules/dropdown.html',

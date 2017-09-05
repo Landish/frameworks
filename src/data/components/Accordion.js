@@ -12,6 +12,7 @@ export default {
     materialize: 'http://materializecss.com/collapsible.html',
     metro: 'https://metroui.org.ua/accordion.html',
     mini: 'http://minicss.org/tab#stacked-tabs',
+    office: 'http://dev.office.com/fabric#/components/groupedlist',
     uikit2: 'https://getuikit.com/v2/docs/accordion.html',
     uikit3: 'https://getuikit.com/docs/accordion',
     semantic: 'http://semantic-ui.com/modules/accordion.html',

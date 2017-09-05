@@ -6,6 +6,7 @@ export default {
     bulma: 'http://bulma.io/documentation/components/card/',
     materialize: 'http://materializecss.com/cards.html',
     mini: 'http://minicss.org/card',
+    office: 'http://dev.office.com/fabric#/components/documentcard',
     uikit3: 'https://getuikit.com/docs/card',
     semantic: 'http://semantic-ui.com/views/card.html',
     spectre: 'https://picturepan2.github.io/spectre/components.html#cards'

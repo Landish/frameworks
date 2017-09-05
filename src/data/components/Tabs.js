@@ -14,6 +14,7 @@ export default {
     materialize: 'http://materializecss.com/tabs.html',
     metro: 'https://metroui.org.ua/tabcontrol.html',
     mini: 'http://minicss.org/tab',
+    office: 'http://dev.office.com/fabric#/components/pivot',
     uikit2: 'https://getuikit.com/v2/docs/tab.html',
     uikit3: 'https://getuikit.com/docs/tab',
     primer: 'http://primercss.io/nav/#tabnav',

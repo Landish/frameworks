@@ -13,6 +13,7 @@ export default {
     materialize: 'http://materializecss.com/forms.html',
     metro: 'https://metroui.org.ua/inputs.html',
     mini: 'http://minicss.org/input_control',
+    office: 'http://dev.office.com/fabric#/components/textfield',
     uikit2: 'https://getuikit.com/v2/docs/form.html',
     uikit3: 'https://getuikit.com/docs/form',
     pure: 'http://purecss.io/forms/',
