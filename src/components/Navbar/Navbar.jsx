@@ -28,7 +28,7 @@ const Navbar = ({ onNavToggle, isMenuOpened }) => {
         </span>
         <div className={navClass}>
           <a
-            href="https://github.com/Landish/frameworks"
+            href="https://github.com/Landish/frameworks.now.sh"
             rel="noopener noreferrer"
             target="_blank"
             className="nav-item"
@@ -37,7 +37,7 @@ const Navbar = ({ onNavToggle, isMenuOpened }) => {
             Source Code
           </a>
           <a
-            href="https://github.com/Landish/frameworks/blob/master/CHANGELOG.md"
+            href="https://github.com/Landish/frameworks.now.sh/blob/master/CHANGELOG.md"
             rel="noopener noreferrer"
             target="_blank"
             className="nav-item"
