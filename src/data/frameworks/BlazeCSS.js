@@ -1,5 +1,4 @@
 export const BlazeCSS = {
-  isNew: true,
   name: 'Blaze CSS',
   slug: 'blaze',
   install: 'blaze',

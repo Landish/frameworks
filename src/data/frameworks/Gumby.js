@@ -1,5 +1,4 @@
 export const Gumby = {
-  isNew: true,
   name: 'Gumby',
   slug: 'gumby',
   install: {

@@ -1,5 +1,4 @@
 export const MetroUI = {
-  isNew: true,
   name: 'Metro UI CSS',
   slug: 'metro',
   install: 'metro-dist',

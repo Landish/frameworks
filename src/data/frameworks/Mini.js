@@ -1,5 +1,4 @@
 export const Mini = {
-  isNew: true,
   name: 'mini.css',
   slug: 'mini',
   install: 'mini.css',
