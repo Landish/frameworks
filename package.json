@@ -43,7 +43,7 @@
   },
   "scripts": {
     "cz": "git-cz",
-    "pretty": "prettier --single-quote --print-width 100 --write \"src/**/*.{js,jsx,json,css}\"",
+    "format": "prettier --single-quote --print-width 100 --write \"src/**/*.{js,jsx,json,css}\"",
     "precommit": "lint-staged",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
