@@ -26,6 +26,7 @@
     "cz-conventional-changelog": "^2.0.0",
     "enzyme": "^2.9.1",
     "jest-serializer-enzyme": "^1.0.0",
+    "react-addons-perf": "^15.4.2",
     "react-scripts": "1.0.10",
     "react-test-renderer": "^15.6.1"
   },
