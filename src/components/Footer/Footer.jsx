@@ -1,11 +1,7 @@
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import config from '../../config.json';
 
-class Footer extends Component {
-  shouldComponentUpdate() {
-    return false;
-  }
-
+class Footer extends PureComponent {
   render() {
     return (
       <footer className="footer">

@@ -1,12 +1,8 @@
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import logo from '../../assets/logo.svg';
 import config from '../../config.json';
 
-class Header extends Component {
-  shouldComponentUpdate() {
-    return false;
-  }
-
+class Header extends PureComponent {
   render() {
     return (
       <section className="hero is-info is-medium">

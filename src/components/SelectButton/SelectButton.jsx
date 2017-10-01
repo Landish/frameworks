@@ -1,13 +1,9 @@
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import { shape, string, func, bool } from 'prop-types';
 import classNames from 'classnames';
 import Icon from '../Icon';
 
-class SelectButton extends Component {
-  shouldComponentUpdate(nextProps) {
-    return this.props.isSelected !== nextProps.isSelected;
-  }
-
+class SelectButton extends PureComponent {
   buttonClass = () =>
     classNames('button', 'is-checkbox', 'is-info', {
       'is-outlined': !this.props.isSelected

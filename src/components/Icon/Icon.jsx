@@ -1,14 +1,10 @@
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import { string } from 'prop-types';
 
-class Icon extends Component {
+class Icon extends PureComponent {
   static propTypes = {
     name: string.isRequired
   };
-
-  shouldComponentUpdate(nextProps) {
-    return this.props.name !== nextProps.name;
-  }
 
   render() {
     return (
