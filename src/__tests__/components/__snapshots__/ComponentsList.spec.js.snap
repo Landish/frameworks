@@ -54,7 +54,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -125,7 +125,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -139,7 +139,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -280,7 +280,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -456,7 +456,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -514,7 +514,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -528,7 +528,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -551,7 +551,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -565,7 +565,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -601,7 +601,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -729,7 +729,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -743,7 +743,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -814,7 +814,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -837,7 +837,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -851,7 +851,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -979,7 +979,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -993,7 +993,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon
@@ -1051,7 +1051,7 @@ exports[`Components List renders correctly 1`] = `
           <td>
             <span
               className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-title="Not Available"
+              data-tooltip="Not Available"
               disabled={false}
             >
               <Icon

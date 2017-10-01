@@ -15,7 +15,7 @@ const FrameworksList = ({ frameworks, visible }) => {
         {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
           return (
             <th key={framework.slug}>
-              <span data-title={framework.description} className="tag is-tooltip is-info">
+              <span data-tooltip={framework.description} className="tag is-tooltip is-info">
                 {framework.name}
               </span>
             </th>

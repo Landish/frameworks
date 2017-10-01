@@ -23,7 +23,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           <th>
             <span
               className="tag is-tooltip is-info"
-              data-title="A modern CSS framework based on Flexbox"
+              data-tooltip="A modern CSS framework based on Flexbox"
             >
               Bulma
             </span>
@@ -31,7 +31,7 @@ exports[`Frameworks List should pass snapshot correctly 1`] = `
           <th>
             <span
               className="tag is-tooltip is-info"
-              data-title="Ink is a set of tools for quick development of web interfaces"
+              data-tooltip="Ink is a set of tools for quick development of web interfaces"
             >
               Ink Interface Kit
             </span>

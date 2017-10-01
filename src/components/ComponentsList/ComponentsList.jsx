@@ -62,7 +62,7 @@ const ComponentsList = ({ frameworks, visible, components }) => {
   function renderNotAvailableButton() {
     return (
       <span
-        data-title="Not Available"
+        data-tooltip="Not Available"
         disabled={false}
         className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
       >
