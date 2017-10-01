@@ -26,8 +26,8 @@ export const Foundation5 = {
   css: 'SASS',
   js: 'http://foundation.zurb.com/sites/docs/v/5.5.3/javascript.html',
   stats: {
-    stars: '24K+',
-    forks: '5K+'
+    stars: '26K+',
+    forks: '5.7K+'
   }
 };
 
@@ -54,11 +54,11 @@ export const Foundation6 = {
     android: 'Latest',
     details: 'https://foundation.zurb.com/sites/docs/compatibility.html'
   },
-  version: '6.4.1',
+  version: '6.4.3',
   css: 'SASS',
   js: 'https://foundation.zurb.com/sites/docs/javascript.html',
   stats: {
-    stars: '25K+',
-    forks: '5K+'
+    stars: '26K+',
+    forks: '5.7K+'
   }
 };

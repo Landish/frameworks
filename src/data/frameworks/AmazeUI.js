@@ -15,6 +15,6 @@ export const AmazeUI = {
   js: 'http://amazeui.github.io/docs/en/javascript/',
   stats: {
     stars: '10K+',
-    forks: '2.2K+'
+    forks: '2.3K+'
   }
 };

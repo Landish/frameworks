@@ -17,7 +17,7 @@ export const Gumby = {
   css: 'SASS',
   js: 'https://gumbyframework.com/docs/javascript/',
   stats: {
-    stars: '3K+',
+    stars: '2.9K+',
     forks: '500+'
   }
 };

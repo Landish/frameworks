@@ -11,7 +11,7 @@ export const BlazeCSS = {
   css: 'SASS',
   js: false,
   stats: {
-    stars: '1.1K+',
+    stars: '1.2K+',
     forks: '100+'
   }
 };

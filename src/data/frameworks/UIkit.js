@@ -26,7 +26,7 @@ export const UIkit2 = {
   css: 'LESS',
   js: 'https://getuikit.com/v2/docs/documentation_javascript.html',
   stats: {
-    stars: '9.9K+',
+    stars: '10K+',
     forks: '1.7K+'
   }
 };
@@ -55,11 +55,11 @@ export const UIkit3 = {
     android: 'Latest',
     details: 'https://github.com/uikit/uikit#browser-support'
   },
-  version: '3.0.0-Beta.25',
+  version: '3.0.0-Beta.30',
   css: 'LESS',
   js: 'https://getuikit.com/docs/javascript',
   stats: {
-    stars: '9.9K+',
+    stars: '10K+',
     forks: '1.7K+'
   }
 };

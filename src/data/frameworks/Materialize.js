@@ -19,11 +19,11 @@ export const Materialize = {
     ios: 'Latest',
     android: 'Latest'
   },
-  version: '0.99.0',
+  version: '0.100.2',
   css: 'SASS',
   js: 'http://materializecss.com/carousel.html',
   stats: {
-    stars: '27K+',
-    forks: '3.9K+'
+    stars: '29K+',
+    forks: '4K+'
   }
 };

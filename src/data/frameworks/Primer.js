@@ -20,11 +20,11 @@ export const Primer = {
     android: 'Latest',
     details: 'http://primercss.io/about/#browser-support'
   },
-  version: '8.0.0',
+  version: '9.4.0',
   css: 'SASS',
   js: false,
   stats: {
-    stars: '5.7K+',
+    stars: '6.1K+',
     forks: '400+'
   }
 };

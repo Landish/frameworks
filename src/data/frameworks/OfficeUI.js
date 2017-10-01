@@ -12,7 +12,7 @@ export const OfficeUI = {
     name: 'Office UI Icons',
     url: 'http://dev.office.com/fabric#/styles/icons'
   },
-  version: '7.2.0',
+  version: '8.0.0',
   css: 'SASS',
   js: 'https://dev.office.com/fabric-js/index.html',
   stats: {
