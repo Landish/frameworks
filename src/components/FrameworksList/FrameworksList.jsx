@@ -226,7 +226,7 @@ const FrameworksList = ({ frameworks, visible }) => {
     return (
       <tr>
         <td>
-          <strong>JS Library?</strong>
+          <strong>JS Library</strong>
         </td>
         {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
           return (
