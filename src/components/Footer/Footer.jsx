@@ -1,4 +1,5 @@
 import React, { PureComponent } from 'react';
+import Link from '../Link';
 import config from '../../config.json';
 
 class Footer extends PureComponent {
@@ -9,19 +10,13 @@ class Footer extends PureComponent {
           <div className="content has-text-centered">
             <p>
               <strong>{config.title}</strong> by
-              <a href="http://landish.github.io/" target="_blank" rel="noopener noreferrer">
-                Lado Lomidze
-              </a>.
+              <Link url="http://landish.github.io/" text="Lado Lomidze" />
             </p>
             <p>
               Built with
-              <a href="https://facebook.github.io/react/" rel="noopener noreferrer" target="_blank">
-                React
-              </a>
+              <Link url="https://reactjs.org" text="React" />
               &nbsp;&amp;
-              <a href="http://bulma.io/" rel="noopener noreferrer" target="_blank">
-                Bulma
-              </a>.
+              <Link url="http://bulma.io/" text="Bulma" />
             </p>
             <p>&copy; 2016-2017</p>
           </div>

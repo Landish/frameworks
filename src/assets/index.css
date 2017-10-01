@@ -41,7 +41,7 @@ h1.title img {
 
 .is-tooltip:before {
   display: none;
-  content: attr(data-title);
+  content: attr(data-tooltip);
   position: absolute;
   color: white;
   border-radius: 2px;

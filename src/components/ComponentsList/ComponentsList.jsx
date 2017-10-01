@@ -1,6 +1,7 @@
 import React from 'react';
 import { array, instanceOf } from 'prop-types';
 import Icon from '../Icon';
+import Link from '../Link';
 import Collection from '../../core/Collection';
 
 const ComponentsList = ({ frameworks, visible, components }) => {
@@ -48,14 +49,13 @@ const ComponentsList = ({ frameworks, visible, components }) => {
 
   function renderDemoButton(framework, component) {
     return (
-      <a
-        href={component.supports[framework.slug]}
-        target="_blank"
+      <Link
+        url={component.supports[framework.slug]}
         className="button is-fixed is-small is-info is-outlined"
       >
         <Icon name="eye" />
         <span>Demo</span>
-      </a>
+      </Link>
     );
   }
 

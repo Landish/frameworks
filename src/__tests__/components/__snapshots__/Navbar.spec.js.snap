@@ -31,22 +31,18 @@ exports[`Navbar renders correctly 1`] = `
     <div
       className="nav-right nav-menu"
     >
-      <a
+      <Link
         className="nav-item"
-        href="https://github.com/Landish/frameworks.now.sh"
-        rel="noopener noreferrer"
-        target="_blank"
+        url="https://github.com/Landish/frameworks.now.sh"
       >
         <Icon
           name="github"
         />
         Source Code
-      </a>
-      <a
+      </Link>
+      <Link
         className="nav-item"
-        href="https://github.com/Landish/frameworks.now.sh/blob/master/CHANGELOG.md"
-        rel="noopener noreferrer"
-        target="_blank"
+        url="https://github.com/Landish/frameworks.now.sh/blob/master/CHANGELOG.md"
       >
         <span
           className="tag is-white is-small"
@@ -54,7 +50,7 @@ exports[`Navbar renders correctly 1`] = `
           v
           1.2.2
         </span>
-      </a>
+      </Link>
     </div>
   </div>
 </nav>

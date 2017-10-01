@@ -25,7 +25,7 @@ exports[`App renders correctly 1`] = `
           "name": "Amaze UI",
           "slug": "amaze",
           "stats": Object {
-            "forks": "2.2K+",
+            "forks": "2.3K+",
             "stars": "10K+",
           },
           "url": "http://amazeui.github.io/docs/en/",
@@ -42,7 +42,7 @@ exports[`App renders correctly 1`] = `
           "slug": "blaze",
           "stats": Object {
             "forks": "100+",
-            "stars": "1.1K+",
+            "stars": "1.2K+",
           },
           "url": "http://blazecss.com/",
           "version": "3.3.0",
@@ -72,8 +72,8 @@ exports[`App renders correctly 1`] = `
           "name": "Bootstrap 3",
           "slug": "bootstrap3",
           "stats": Object {
-            "forks": "53K+",
-            "stars": "114K+",
+            "forks": "54K+",
+            "stars": "115K+",
           },
           "url": "https://getbootstrap.com/docs/3.3/",
           "version": "3.3.7",
@@ -100,8 +100,8 @@ exports[`App renders correctly 1`] = `
           "name": "Bootstrap 4 (Beta)",
           "slug": "bootstrap4",
           "stats": Object {
-            "forks": "53K+",
-            "stars": "114K+",
+            "forks": "54K+",
+            "stars": "115K+",
           },
           "url": "https://getbootstrap.com/",
           "version": "4.0.0-beta",
@@ -129,11 +129,11 @@ exports[`App renders correctly 1`] = `
           "name": "Bulma",
           "slug": "bulma",
           "stats": Object {
-            "forks": "1K+",
-            "stars": "18K+",
+            "forks": "1.4K+",
+            "stars": "19K+",
           },
           "url": "http://bulma.io/",
-          "version": "0.5.1",
+          "version": "0.5.3",
         },
         Object {
           "browsers": Object {
@@ -160,8 +160,8 @@ exports[`App renders correctly 1`] = `
           "name": "Foundation 5",
           "slug": "foundation5",
           "stats": Object {
-            "forks": "5K+",
-            "stars": "24K+",
+            "forks": "5.7K+",
+            "stars": "26K+",
           },
           "url": "http://foundation.zurb.com/sites/docs/v/5.5.3/",
           "version": "5.5.3",
@@ -191,11 +191,11 @@ exports[`App renders correctly 1`] = `
           "name": "Foundation 6",
           "slug": "foundation6",
           "stats": Object {
-            "forks": "5K+",
-            "stars": "25K+",
+            "forks": "5.7K+",
+            "stars": "26K+",
           },
           "url": "http://foundation.zurb.com/",
-          "version": "6.4.1",
+          "version": "6.4.3",
         },
         Object {
           "css": "SASS",
@@ -215,7 +215,7 @@ exports[`App renders correctly 1`] = `
           "slug": "gumby",
           "stats": Object {
             "forks": "500+",
-            "stars": "3K+",
+            "stars": "2.9K+",
           },
           "url": "https://gumbyframework.com/",
           "version": "2.6.4",
@@ -292,17 +292,17 @@ exports[`App renders correctly 1`] = `
           "name": "Materialize",
           "slug": "materialize",
           "stats": Object {
-            "forks": "3.9K+",
-            "stars": "27K+",
+            "forks": "4K+",
+            "stars": "29K+",
           },
           "url": "http://materializecss.com/",
-          "version": "0.99.0",
+          "version": "0.100.2",
         },
         Object {
           "css": "LESS",
           "description": "The front-end framework for developing projects on the web in Windows MetroUI Style",
           "documentation": "https://metroui.org.ua/",
-          "github": "https://github.com/olton/MetroUI-UI-CSS",
+          "github": "https://github.com/olton/Metro-UI-CSS",
           "icons": Object {
             "name": "MetroUI Icon Font",
             "url": "https://metroui.org.ua/font.html",
@@ -313,7 +313,7 @@ exports[`App renders correctly 1`] = `
           "slug": "metro",
           "stats": Object {
             "forks": "1.8K+",
-            "stars": "5.3K+",
+            "stars": "5.4K+",
           },
           "url": "https://metroui.org.ua/",
           "version": "3.0.17",
@@ -353,7 +353,7 @@ exports[`App renders correctly 1`] = `
             "stars": "2.7K+",
           },
           "url": "http://dev.office.com/fabric",
-          "version": "7.2.0",
+          "version": "8.0.0",
         },
         Object {
           "browsers": Object {
@@ -381,7 +381,7 @@ exports[`App renders correctly 1`] = `
           "slug": "uikit2",
           "stats": Object {
             "forks": "1.7K+",
-            "stars": "9.9K+",
+            "stars": "10K+",
           },
           "url": "https://getuikit.com/v2/",
           "version": "2.27.4",
@@ -412,10 +412,10 @@ exports[`App renders correctly 1`] = `
           "slug": "uikit3",
           "stats": Object {
             "forks": "1.7K+",
-            "stars": "9.9K+",
+            "stars": "10K+",
           },
           "url": "https://getuikit.com/",
-          "version": "3.0.0-Beta.25",
+          "version": "3.0.0-Beta.30",
         },
         Object {
           "browsers": Object {
@@ -477,10 +477,10 @@ exports[`App renders correctly 1`] = `
           "slug": "primer",
           "stats": Object {
             "forks": "400+",
-            "stars": "5.7K+",
+            "stars": "6.1K+",
           },
           "url": "http://primercss.io/",
-          "version": "8.0.0",
+          "version": "9.4.0",
         },
         Object {
           "browsers": Object {
@@ -507,14 +507,14 @@ exports[`App renders correctly 1`] = `
           "name": "Semantic UI",
           "slug": "semantic",
           "stats": Object {
-            "forks": "3.9K+",
-            "stars": "35K+",
+            "forks": "4K+",
+            "stars": "37K+",
           },
           "url": "http://semantic-ui.com/",
-          "version": "2.2.10",
+          "version": "2.2.13",
         },
         Object {
-          "css": "LESS",
+          "css": "SASS",
           "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
           "github": "https://github.com/picturepan2/spectre",
@@ -527,10 +527,10 @@ exports[`App renders correctly 1`] = `
           "slug": "spectre",
           "stats": Object {
             "forks": "300+",
-            "stars": "4.7K+",
+            "stars": "4.9K+",
           },
           "url": "https://picturepan2.github.io/spectre/",
-          "version": "0.3.1",
+          "version": "0.4.3",
         },
       ]
     }
@@ -567,7 +567,7 @@ exports[`App renders correctly 1`] = `
           "name": "Amaze UI",
           "slug": "amaze",
           "stats": Object {
-            "forks": "2.2K+",
+            "forks": "2.3K+",
             "stars": "10K+",
           },
           "url": "http://amazeui.github.io/docs/en/",
@@ -584,7 +584,7 @@ exports[`App renders correctly 1`] = `
           "slug": "blaze",
           "stats": Object {
             "forks": "100+",
-            "stars": "1.1K+",
+            "stars": "1.2K+",
           },
           "url": "http://blazecss.com/",
           "version": "3.3.0",
@@ -614,8 +614,8 @@ exports[`App renders correctly 1`] = `
           "name": "Bootstrap 3",
           "slug": "bootstrap3",
           "stats": Object {
-            "forks": "53K+",
-            "stars": "114K+",
+            "forks": "54K+",
+            "stars": "115K+",
           },
           "url": "https://getbootstrap.com/docs/3.3/",
           "version": "3.3.7",
@@ -642,8 +642,8 @@ exports[`App renders correctly 1`] = `
           "name": "Bootstrap 4 (Beta)",
           "slug": "bootstrap4",
           "stats": Object {
-            "forks": "53K+",
-            "stars": "114K+",
+            "forks": "54K+",
+            "stars": "115K+",
           },
           "url": "https://getbootstrap.com/",
           "version": "4.0.0-beta",
@@ -671,11 +671,11 @@ exports[`App renders correctly 1`] = `
           "name": "Bulma",
           "slug": "bulma",
           "stats": Object {
-            "forks": "1K+",
-            "stars": "18K+",
+            "forks": "1.4K+",
+            "stars": "19K+",
           },
           "url": "http://bulma.io/",
-          "version": "0.5.1",
+          "version": "0.5.3",
         },
         Object {
           "browsers": Object {
@@ -702,8 +702,8 @@ exports[`App renders correctly 1`] = `
           "name": "Foundation 5",
           "slug": "foundation5",
           "stats": Object {
-            "forks": "5K+",
-            "stars": "24K+",
+            "forks": "5.7K+",
+            "stars": "26K+",
           },
           "url": "http://foundation.zurb.com/sites/docs/v/5.5.3/",
           "version": "5.5.3",
@@ -733,11 +733,11 @@ exports[`App renders correctly 1`] = `
           "name": "Foundation 6",
           "slug": "foundation6",
           "stats": Object {
-            "forks": "5K+",
-            "stars": "25K+",
+            "forks": "5.7K+",
+            "stars": "26K+",
           },
           "url": "http://foundation.zurb.com/",
-          "version": "6.4.1",
+          "version": "6.4.3",
         },
         Object {
           "css": "SASS",
@@ -757,7 +757,7 @@ exports[`App renders correctly 1`] = `
           "slug": "gumby",
           "stats": Object {
             "forks": "500+",
-            "stars": "3K+",
+            "stars": "2.9K+",
           },
           "url": "https://gumbyframework.com/",
           "version": "2.6.4",
@@ -834,17 +834,17 @@ exports[`App renders correctly 1`] = `
           "name": "Materialize",
           "slug": "materialize",
           "stats": Object {
-            "forks": "3.9K+",
-            "stars": "27K+",
+            "forks": "4K+",
+            "stars": "29K+",
           },
           "url": "http://materializecss.com/",
-          "version": "0.99.0",
+          "version": "0.100.2",
         },
         Object {
           "css": "LESS",
           "description": "The front-end framework for developing projects on the web in Windows MetroUI Style",
           "documentation": "https://metroui.org.ua/",
-          "github": "https://github.com/olton/MetroUI-UI-CSS",
+          "github": "https://github.com/olton/Metro-UI-CSS",
           "icons": Object {
             "name": "MetroUI Icon Font",
             "url": "https://metroui.org.ua/font.html",
@@ -855,7 +855,7 @@ exports[`App renders correctly 1`] = `
           "slug": "metro",
           "stats": Object {
             "forks": "1.8K+",
-            "stars": "5.3K+",
+            "stars": "5.4K+",
           },
           "url": "https://metroui.org.ua/",
           "version": "3.0.17",
@@ -895,7 +895,7 @@ exports[`App renders correctly 1`] = `
             "stars": "2.7K+",
           },
           "url": "http://dev.office.com/fabric",
-          "version": "7.2.0",
+          "version": "8.0.0",
         },
         Object {
           "browsers": Object {
@@ -923,7 +923,7 @@ exports[`App renders correctly 1`] = `
           "slug": "uikit2",
           "stats": Object {
             "forks": "1.7K+",
-            "stars": "9.9K+",
+            "stars": "10K+",
           },
           "url": "https://getuikit.com/v2/",
           "version": "2.27.4",
@@ -954,10 +954,10 @@ exports[`App renders correctly 1`] = `
           "slug": "uikit3",
           "stats": Object {
             "forks": "1.7K+",
-            "stars": "9.9K+",
+            "stars": "10K+",
           },
           "url": "https://getuikit.com/",
-          "version": "3.0.0-Beta.25",
+          "version": "3.0.0-Beta.30",
         },
         Object {
           "browsers": Object {
@@ -1019,10 +1019,10 @@ exports[`App renders correctly 1`] = `
           "slug": "primer",
           "stats": Object {
             "forks": "400+",
-            "stars": "5.7K+",
+            "stars": "6.1K+",
           },
           "url": "http://primercss.io/",
-          "version": "8.0.0",
+          "version": "9.4.0",
         },
         Object {
           "browsers": Object {
@@ -1049,14 +1049,14 @@ exports[`App renders correctly 1`] = `
           "name": "Semantic UI",
           "slug": "semantic",
           "stats": Object {
-            "forks": "3.9K+",
-            "stars": "35K+",
+            "forks": "4K+",
+            "stars": "37K+",
           },
           "url": "http://semantic-ui.com/",
-          "version": "2.2.10",
+          "version": "2.2.13",
         },
         Object {
-          "css": "LESS",
+          "css": "SASS",
           "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
           "github": "https://github.com/picturepan2/spectre",
@@ -1069,10 +1069,10 @@ exports[`App renders correctly 1`] = `
           "slug": "spectre",
           "stats": Object {
             "forks": "300+",
-            "stars": "4.7K+",
+            "stars": "4.9K+",
           },
           "url": "https://picturepan2.github.io/spectre/",
-          "version": "0.3.1",
+          "version": "0.4.3",
         },
       ]
     }
@@ -1463,6 +1463,7 @@ exports[`App renders correctly 1`] = `
             "mini": "http://minicss.org/navigation#drawer",
             "office": "http://dev.office.com/fabric#/components/panel",
             "semantic": "http://semantic-ui.com/modules/sidebar.html",
+            "spectre": "https://picturepan2.github.io/spectre/experimentals.html#off-canvas",
             "uikit2": "https://getuikit.com/v2/docs/offcanvas.html",
             "uikit3": "https://getuikit.com/docs/offcanvas",
           },
@@ -1690,7 +1691,7 @@ exports[`App renders correctly 1`] = `
           "name": "Amaze UI",
           "slug": "amaze",
           "stats": Object {
-            "forks": "2.2K+",
+            "forks": "2.3K+",
             "stars": "10K+",
           },
           "url": "http://amazeui.github.io/docs/en/",
@@ -1707,7 +1708,7 @@ exports[`App renders correctly 1`] = `
           "slug": "blaze",
           "stats": Object {
             "forks": "100+",
-            "stars": "1.1K+",
+            "stars": "1.2K+",
           },
           "url": "http://blazecss.com/",
           "version": "3.3.0",
@@ -1737,8 +1738,8 @@ exports[`App renders correctly 1`] = `
           "name": "Bootstrap 3",
           "slug": "bootstrap3",
           "stats": Object {
-            "forks": "53K+",
-            "stars": "114K+",
+            "forks": "54K+",
+            "stars": "115K+",
           },
           "url": "https://getbootstrap.com/docs/3.3/",
           "version": "3.3.7",
@@ -1765,8 +1766,8 @@ exports[`App renders correctly 1`] = `
           "name": "Bootstrap 4 (Beta)",
           "slug": "bootstrap4",
           "stats": Object {
-            "forks": "53K+",
-            "stars": "114K+",
+            "forks": "54K+",
+            "stars": "115K+",
           },
           "url": "https://getbootstrap.com/",
           "version": "4.0.0-beta",
@@ -1794,11 +1795,11 @@ exports[`App renders correctly 1`] = `
           "name": "Bulma",
           "slug": "bulma",
           "stats": Object {
-            "forks": "1K+",
-            "stars": "18K+",
+            "forks": "1.4K+",
+            "stars": "19K+",
           },
           "url": "http://bulma.io/",
-          "version": "0.5.1",
+          "version": "0.5.3",
         },
         Object {
           "browsers": Object {
@@ -1825,8 +1826,8 @@ exports[`App renders correctly 1`] = `
           "name": "Foundation 5",
           "slug": "foundation5",
           "stats": Object {
-            "forks": "5K+",
-            "stars": "24K+",
+            "forks": "5.7K+",
+            "stars": "26K+",
           },
           "url": "http://foundation.zurb.com/sites/docs/v/5.5.3/",
           "version": "5.5.3",
@@ -1856,11 +1857,11 @@ exports[`App renders correctly 1`] = `
           "name": "Foundation 6",
           "slug": "foundation6",
           "stats": Object {
-            "forks": "5K+",
-            "stars": "25K+",
+            "forks": "5.7K+",
+            "stars": "26K+",
           },
           "url": "http://foundation.zurb.com/",
-          "version": "6.4.1",
+          "version": "6.4.3",
         },
         Object {
           "css": "SASS",
@@ -1880,7 +1881,7 @@ exports[`App renders correctly 1`] = `
           "slug": "gumby",
           "stats": Object {
             "forks": "500+",
-            "stars": "3K+",
+            "stars": "2.9K+",
           },
           "url": "https://gumbyframework.com/",
           "version": "2.6.4",
@@ -1957,17 +1958,17 @@ exports[`App renders correctly 1`] = `
           "name": "Materialize",
           "slug": "materialize",
           "stats": Object {
-            "forks": "3.9K+",
-            "stars": "27K+",
+            "forks": "4K+",
+            "stars": "29K+",
           },
           "url": "http://materializecss.com/",
-          "version": "0.99.0",
+          "version": "0.100.2",
         },
         Object {
           "css": "LESS",
           "description": "The front-end framework for developing projects on the web in Windows MetroUI Style",
           "documentation": "https://metroui.org.ua/",
-          "github": "https://github.com/olton/MetroUI-UI-CSS",
+          "github": "https://github.com/olton/Metro-UI-CSS",
           "icons": Object {
             "name": "MetroUI Icon Font",
             "url": "https://metroui.org.ua/font.html",
@@ -1978,7 +1979,7 @@ exports[`App renders correctly 1`] = `
           "slug": "metro",
           "stats": Object {
             "forks": "1.8K+",
-            "stars": "5.3K+",
+            "stars": "5.4K+",
           },
           "url": "https://metroui.org.ua/",
           "version": "3.0.17",
@@ -2018,7 +2019,7 @@ exports[`App renders correctly 1`] = `
             "stars": "2.7K+",
           },
           "url": "http://dev.office.com/fabric",
-          "version": "7.2.0",
+          "version": "8.0.0",
         },
         Object {
           "browsers": Object {
@@ -2046,7 +2047,7 @@ exports[`App renders correctly 1`] = `
           "slug": "uikit2",
           "stats": Object {
             "forks": "1.7K+",
-            "stars": "9.9K+",
+            "stars": "10K+",
           },
           "url": "https://getuikit.com/v2/",
           "version": "2.27.4",
@@ -2077,10 +2078,10 @@ exports[`App renders correctly 1`] = `
           "slug": "uikit3",
           "stats": Object {
             "forks": "1.7K+",
-            "stars": "9.9K+",
+            "stars": "10K+",
           },
           "url": "https://getuikit.com/",
-          "version": "3.0.0-Beta.25",
+          "version": "3.0.0-Beta.30",
         },
         Object {
           "browsers": Object {
@@ -2142,10 +2143,10 @@ exports[`App renders correctly 1`] = `
           "slug": "primer",
           "stats": Object {
             "forks": "400+",
-            "stars": "5.7K+",
+            "stars": "6.1K+",
           },
           "url": "http://primercss.io/",
-          "version": "8.0.0",
+          "version": "9.4.0",
         },
         Object {
           "browsers": Object {
@@ -2172,14 +2173,14 @@ exports[`App renders correctly 1`] = `
           "name": "Semantic UI",
           "slug": "semantic",
           "stats": Object {
-            "forks": "3.9K+",
-            "stars": "35K+",
+            "forks": "4K+",
+            "stars": "37K+",
           },
           "url": "http://semantic-ui.com/",
-          "version": "2.2.10",
+          "version": "2.2.13",
         },
         Object {
-          "css": "LESS",
+          "css": "SASS",
           "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
           "github": "https://github.com/picturepan2/spectre",
@@ -2192,10 +2193,10 @@ exports[`App renders correctly 1`] = `
           "slug": "spectre",
           "stats": Object {
             "forks": "300+",
-            "stars": "4.7K+",
+            "stars": "4.9K+",
           },
           "url": "https://picturepan2.github.io/spectre/",
-          "version": "0.3.1",
+          "version": "0.4.3",
         },
       ]
     }

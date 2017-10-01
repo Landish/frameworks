@@ -1,6 +1,7 @@
 import React from 'react';
 import { array, instanceOf } from 'prop-types';
 import Icon from '../Icon';
+import Link from '../Link';
 import { toInstall } from '../../core/utils';
 import Collection from '../../core/Collection';
 
@@ -35,37 +36,25 @@ const FrameworksList = ({ frameworks, visible }) => {
             <td key={framework.slug}>
               <div className="field has-addons has-text-centered">
                 <div className="control">
-                  <a
-                    href={framework.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="button is-small is-info is-outlined"
-                  >
+                  <Link url={framework.url} className="button is-small is-info is-outlined">
                     <Icon name="globe" />
                     <span className="button-text">Website</span>
-                  </a>
+                  </Link>
                 </div>
                 <div className="control">
-                  <a
-                    href={framework.documentation}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                  <Link
+                    url={framework.documentation}
                     className="button is-small is-info is-outlined"
                   >
                     <Icon name="book" />
                     <span className="button-text">Docs</span>
-                  </a>
+                  </Link>
                 </div>
                 <div className="control">
-                  <a
-                    className="button is-small is-info is-outlined"
-                    href={framework.github}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <Link url={framework.github} className="button is-small is-info is-outlined">
                     <Icon name="github" />
                     <span className="button-text">GitHub</span>
-                  </a>
+                  </Link>
                 </div>
               </div>
             </td>
@@ -116,24 +105,20 @@ const FrameworksList = ({ frameworks, visible }) => {
           return (
             <td key={framework.slug}>
               <div className="tag-group">
-                <a
-                  href={`${framework.github}/stargazers`}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  url={`${framework.github}/stargazers`}
                   className="tag is-space is-rounded is-small is-dark"
                 >
                   <Icon name="star" />
                   {framework.stats.stars}
-                </a>
-                <a
-                  href={`${framework.github}/network`}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                </Link>
+                <Link
+                  url={`${framework.github}/network`}
                   className="tag is-rounded is-small is-dark"
                 >
                   <Icon name="code-fork" />
                   {framework.stats.forks}
-                </a>
+                </Link>
               </div>
             </td>
           );
@@ -151,17 +136,15 @@ const FrameworksList = ({ frameworks, visible }) => {
         {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
           return (
             <td key={framework.slug}>
-              <a
-                href={`${framework.github}/releases`}
-                target="_blank"
-                rel="noopener noreferrer"
+              <Link
+                url={`${framework.github}/releases`}
                 className="tag is-space is-rounded is-small is-info"
               >
                 <Icon name="history" />
                 <span>
                   v{framework.version}
                 </span>
-              </a>
+              </Link>
             </td>
           );
         })}
@@ -179,15 +162,12 @@ const FrameworksList = ({ frameworks, visible }) => {
           return (
             <td key={framework.slug}>
               {framework.icons &&
-                <a
-                  data-title={framework.icons.name}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="tag is-rounded is-tooltip is-small is-success"
-                  href={framework.icons.url}
-                >
-                  Yes
-                </a>}
+                <Link
+                  url={framework.icons.url}
+                  tooltip={framework.icons.name}
+                  className="tag is-rounded is-small is-success"
+                  text="Yes"
+                />}
               {!framework.icons && <span className="tag is-rounded is-small is-danger">No</span>}
             </td>
           );
@@ -206,14 +186,12 @@ const FrameworksList = ({ frameworks, visible }) => {
           return (
             <td key={framework.slug}>
               {framework.css &&
-                <a
-                  href={framework.css === 'LESS' ? 'http://lesscss.org/' : 'http://sass-lang.com/'}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  url={framework.css === 'LESS' ? 'http://lesscss.org/' : 'http://sass-lang.com/'}
                   className="tag is-rounded is-small is-info"
                 >
                   {framework.css}
-                </a>}
+                </Link>}
               {!framework.css && renderNoBadge()}
             </td>
           );
@@ -232,14 +210,11 @@ const FrameworksList = ({ frameworks, visible }) => {
           return (
             <td key={framework.slug}>
               {framework.js &&
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  url={framework.js}
                   className="tag is-rounded is-small is-success"
-                  href={framework.js}
-                >
-                  Yes
-                </a>}
+                  text="Yes"
+                />}
               {!framework.js && renderNoBadge()}
             </td>
           );
@@ -258,23 +233,17 @@ const FrameworksList = ({ frameworks, visible }) => {
           return (
             <td key={framework.slug}>
               {framework.licence &&
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  url={framework.licence.url}
                   className="tag is-rounded is-small is-info"
-                  href={framework.licence.url}
-                >
-                  {framework.licence.name}
-                </a>}
+                  text={framework.licence.name}
+                />}
               {!framework.licence &&
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://opensource.org/licenses/MIT"
+                <Link
+                  url="https://opensource.org/licenses/MIT"
                   className="tag is-rounded is-small is-info"
-                >
-                  MIT
-                </a>}
+                  text="MIT"
+                />}
             </td>
           );
         })}

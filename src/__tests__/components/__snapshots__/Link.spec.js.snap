@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link renders correctly 1`] = `
+<a
+  className=""
+  href="https://frameworks.now.sh/"
+  rel="noopener noreferrer"
+  target="_blank"
+>
+  Comparison of Front-End Frameworks
+</a>
+`;

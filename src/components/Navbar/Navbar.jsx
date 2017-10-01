@@ -2,6 +2,7 @@ import React from 'react';
 import { func, bool } from 'prop-types';
 import classNames from 'classnames';
 import Icon from '../Icon';
+import Link from '../Link';
 import config from '../../config.json';
 import logo from '../../assets/logo.svg';
 
@@ -27,25 +28,18 @@ const Navbar = ({ onNavToggle, isMenuOpened }) => {
           <span />
         </span>
         <div className={navClass}>
-          <a
-            href="https://github.com/Landish/frameworks.now.sh"
-            rel="noopener noreferrer"
-            target="_blank"
-            className="nav-item"
-          >
+          <Link url="https://github.com/Landish/frameworks.now.sh" className="nav-item">
             <Icon name="github" />
             Source Code
-          </a>
-          <a
-            href="https://github.com/Landish/frameworks.now.sh/blob/master/CHANGELOG.md"
-            rel="noopener noreferrer"
-            target="_blank"
+          </Link>
+          <Link
+            url="https://github.com/Landish/frameworks.now.sh/blob/master/CHANGELOG.md"
             className="nav-item"
           >
             <span className="tag is-white is-small">
               v{config.version}
             </span>
-          </a>
+          </Link>
         </div>
       </div>
     </nav>
