@@ -1,6 +1,7 @@
 export default {
   name: 'Flex Grid',
   supports: {
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/grid',
     blaze: 'http://blazecss.com/objects/grid/',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/layout/grid/',
     bulma: 'http://bulma.io/documentation/grid/columns/',

@@ -1,6 +1,7 @@
 export default {
   name: 'Loading',
   supports: {
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/progress',
     materialize: 'http://materializecss.com/preloader.html',
     metro: 'https://metroui.org.ua/preloaders.html',
     mini: 'http://minicss.org/progress#donut-spinner',

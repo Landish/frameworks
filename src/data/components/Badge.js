@@ -2,6 +2,7 @@ export default {
   name: 'Badge',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/css/badge/',
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/badge',
     blaze: 'http://blazecss.com/components/badges/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#badges',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/badge/',

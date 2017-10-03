@@ -2,6 +2,7 @@ export default {
   name: 'Form',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/css/form/',
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/form',
     blaze: 'http://blazecss.com/components/inputs/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/css/#forms',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/forms/',

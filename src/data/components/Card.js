@@ -1,6 +1,7 @@
 export default {
   name: 'Card',
   supports: {
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/card',
     blaze: 'http://blazecss.com/components/cards/',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/card/',
     bulma: 'http://bulma.io/documentation/components/card/',

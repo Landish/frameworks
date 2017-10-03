@@ -1,6 +1,7 @@
 export default {
   name: 'Label',
   supports: {
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/label',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#labels',
     bulma: 'http://bulma.io/documentation/elements/tag/',
     foundation5: 'http://foundation.zurb.com/sites/docs/v/5.5.3/components/labels.html',

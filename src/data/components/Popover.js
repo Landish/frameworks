@@ -1,6 +1,7 @@
 export default {
   name: 'Popover',
   supports: {
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/tooltip',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#popovers',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/popovers/',
     metro: 'https://metroui.org.ua/popovers.html',

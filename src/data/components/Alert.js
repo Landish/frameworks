@@ -2,6 +2,7 @@ export default {
   name: 'Alert',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/javascript/alert/',
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/alert',
     blaze: 'http://blazecss.com/components/alerts/',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/components/#alerts',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/alerts/',

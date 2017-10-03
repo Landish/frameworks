@@ -1,4 +1,5 @@
 import { AmazeUI } from './frameworks/AmazeUI';
+import { Axiom } from './frameworks/Axiom';
 import { BlazeCSS } from './frameworks/BlazeCSS';
 import { Bootstrap3, Bootstrap4 } from './frameworks/Bootstrap';
 import { Bulma } from './frameworks/Bulma';
@@ -53,6 +54,7 @@ import Utilities from './components/Utilities';
 export default {
   frameworks: [
     AmazeUI,
+    Axiom,
     BlazeCSS,
     Bootstrap3,
     Bootstrap4,

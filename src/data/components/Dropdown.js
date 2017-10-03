@@ -2,6 +2,7 @@ export default {
   name: 'Dropdown',
   supports: {
     amaze: 'http://amazeui.github.io/docs/en/javascript/dropdown/',
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/dropdown',
     bootstrap3: 'https://getbootstrap.com/docs/3.3/javascript/#dropdowns',
     bootstrap4: 'https://getbootstrap.com/docs/4.0/components/dropdowns/',
     bulma: 'http://bulma.io/documentation/components/dropdown/',

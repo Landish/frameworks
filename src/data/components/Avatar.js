@@ -1,6 +1,7 @@
 export default {
   name: 'Avatar',
   supports: {
+    axiom: 'https://brandwatchltd.github.io/axiom/docs/components/avatar',
     blaze: 'http://blazecss.com/components/avatars/',
     office: 'http://dev.office.com/fabric#/components/persona',
     primer: 'http://primercss.io/avatars/',
