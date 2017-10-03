@@ -7,7 +7,7 @@ export const Skeleton = {
     npm: false,
     yarn: false
   },
-  description: 'A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development ',
+  description: 'A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development',
   url: 'http://getskeleton.com/',
   documentation: 'http://getskeleton.com/',
   github: 'https://github.com/dhg/Skeleton',
