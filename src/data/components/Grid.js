@@ -14,6 +14,7 @@ export default {
     materialize: 'http://materializecss.com/grid.html',
     metro: 'https://metroui.org.ua/grid.html',
     mini: 'http://minicss.org/grid',
+    mui: 'https://www.muicss.com/docs/v1/css-js/grid',
     office: 'http://dev.office.com/fabric#/styles/layout',
     uikit2: 'https://getuikit.com/v2/docs/grid.html',
     uikit3: 'https://getuikit.com/docs/grid',
