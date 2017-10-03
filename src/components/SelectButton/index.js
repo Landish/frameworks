@@ -1,2 +1,1 @@
-import SelectButton from './SelectButton';
-export default SelectButton;
+export { default } from './SelectButton';

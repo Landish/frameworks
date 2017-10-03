@@ -1,2 +1,1 @@
-import Chooser from './Chooser';
-export default Chooser;
+export { default } from './Chooser';

@@ -1,2 +1,1 @@
-import ComponentsList from './ComponentsList';
-export default ComponentsList;
+export { default } from './ComponentsList';

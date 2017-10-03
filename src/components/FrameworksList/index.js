@@ -1,2 +1,1 @@
-import FrameworksList from './FrameworksList';
-export default FrameworksList;
+export { default } from './FrameworksList';
