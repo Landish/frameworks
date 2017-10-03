@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.0] - 2017-10-03
+### Added
+- [Axiom - Pattern Library](https://brandwatchltd.github.io/axiom/)
+- [MUI](https://www.muicss.com/)
+- [Skeleton](http://getskeleton.com/)
+- `Off-Canvas` component to [Spectre.css](https://picturepan2.github.io/spectre/index.html)
+
+### Changed
+- [Spectre.css](https://picturepan2.github.io/spectre/index.html) version to `0.4.3`.
+- Update stats for `2017-10-03`.
+
 ## [1.2.2] - 2017-09-06
 ### Added
 - [Office UI Fabric](http://dev.office.com/fabric)

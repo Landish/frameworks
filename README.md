@@ -22,6 +22,7 @@ Visit: [Comparison of Front-End Frameworks](https://frameworks.now.sh/)
 ## List of Frameworks
 
 * [Amaze UI](http://amazeui.github.io/docs/en/) - A mobile-first and modular front-end framework.
+* [Axiom - Pattern Library](https://brandwatchltd.github.io/axiom/) - A consumable library of Brandwatch UI & UX patterns.
 * [Blaze CSS](http://blazecss.com/) - Open source modular CSS toolkit providing great structure for building websites quickly.
 * [Bootstrap 3](https://getbootstrap.com/docs/3.3/) - The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 * [Bootstrap 4 (Beta)](https://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web.
@@ -34,12 +35,14 @@ Visit: [Comparison of Front-End Frameworks](https://frameworks.now.sh/)
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on [Material Design](https://material.io/).
 * [Metro UI CSS](https://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows MetroUI Style.
 * [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
+* [MUI](https://www.muicss.com/) - MUI is a lightweight CSS framework that follows Google's Material Design guidelines.
 * [Office UI Fabric](http://dev.office.com/fabric) - The front-end framework for building experiences for Office and Office 365.
 * [UIKit 2](https://getuikit.com/v2/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 * [UIKit 3 (Beta)](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Primer](http://primercss.io/) - The CSS toolkit and guidelines that power GitHub.
 * [Semantic UI](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
+* [Skeleton](http://getskeleton.com/) - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development
 
 ## List of Components
