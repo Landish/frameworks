@@ -32,6 +32,31 @@ exports[`App renders correctly 1`] = `
           "version": "2.7.2",
         },
         Object {
+          "css": false,
+          "description": "A consumable library of Brandwatch UI & UX patterns",
+          "documentation": "https://brandwatchltd.github.io/axiom",
+          "github": "https://github.com/BrandwatchLtd/axiom",
+          "icons": Object {
+            "name": "Axiom SVG Icons",
+            "url": "https://brandwatchltd.github.io/axiom/docs/components/icon",
+          },
+          "install": Object {
+            "bower": false,
+            "npm": "bw-axiom",
+            "yarn": "bw-axiom",
+          },
+          "isNew": true,
+          "js": false,
+          "name": "Axiom - Pattern Library",
+          "slug": "axiom",
+          "stats": Object {
+            "forks": "20+",
+            "stars": "25+",
+          },
+          "url": "https://brandwatchltd.github.io/axiom",
+          "version": "27.7.0",
+        },
+        Object {
           "css": "SASS",
           "description": "Open source modular CSS toolkit providing great structure for building websites quickly",
           "documentation": "http://blazecss.com/getting-started/install/",
@@ -336,6 +361,27 @@ exports[`App renders correctly 1`] = `
         },
         Object {
           "css": "SASS",
+          "description": "MUI is a lightweight CSS framework that follows Google's Material Design guidelines",
+          "documentation": "https://www.muicss.com/docs/v1/css-js",
+          "github": "https://github.com/muicss/mui",
+          "install": Object {
+            "bower": "mui",
+            "npm": "muicss",
+            "yarn": "muicss",
+          },
+          "isNew": true,
+          "js": "https://www.muicss.com/docs/v1/css-js/reference",
+          "name": "MUI",
+          "slug": "mui",
+          "stats": Object {
+            "forks": "300+",
+            "stars": "3.6K+",
+          },
+          "url": "https://www.muicss.com/",
+          "version": "0.9.27",
+        },
+        Object {
+          "css": "SASS",
           "description": "The official front-end framework for building experiences that fit seamlessly into Office and Office 365",
           "documentation": "http://dev.office.com/fabric#/get-started",
           "github": "https://github.com/OfficeDev/office-ui-fabric-core",
@@ -512,6 +558,27 @@ exports[`App renders correctly 1`] = `
           },
           "url": "http://semantic-ui.com/",
           "version": "2.2.13",
+        },
+        Object {
+          "css": false,
+          "description": "A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+          "documentation": "http://getskeleton.com/",
+          "github": "https://github.com/dhg/Skeleton",
+          "install": Object {
+            "bower": "skeleton",
+            "npm": false,
+            "yarn": false,
+          },
+          "isNew": true,
+          "js": false,
+          "name": "Skeleton",
+          "slug": "skeleton",
+          "stats": Object {
+            "forks": "2K+",
+            "stars": "14K+",
+          },
+          "url": "http://getskeleton.com/",
+          "version": "2.0.4",
         },
         Object {
           "css": "SASS",
@@ -541,10 +608,10 @@ exports[`App renders correctly 1`] = `
       Collection {
         "count": 5,
         "data": Array [
-          "amaze",
+          "axiom",
           "blaze",
-          "gumby",
-          "metro",
+          "mui",
+          "skeleton",
           "office",
         ],
       }
@@ -572,6 +639,31 @@ exports[`App renders correctly 1`] = `
           },
           "url": "http://amazeui.github.io/docs/en/",
           "version": "2.7.2",
+        },
+        Object {
+          "css": false,
+          "description": "A consumable library of Brandwatch UI & UX patterns",
+          "documentation": "https://brandwatchltd.github.io/axiom",
+          "github": "https://github.com/BrandwatchLtd/axiom",
+          "icons": Object {
+            "name": "Axiom SVG Icons",
+            "url": "https://brandwatchltd.github.io/axiom/docs/components/icon",
+          },
+          "install": Object {
+            "bower": false,
+            "npm": "bw-axiom",
+            "yarn": "bw-axiom",
+          },
+          "isNew": true,
+          "js": false,
+          "name": "Axiom - Pattern Library",
+          "slug": "axiom",
+          "stats": Object {
+            "forks": "20+",
+            "stars": "25+",
+          },
+          "url": "https://brandwatchltd.github.io/axiom",
+          "version": "27.7.0",
         },
         Object {
           "css": "SASS",
@@ -878,6 +970,27 @@ exports[`App renders correctly 1`] = `
         },
         Object {
           "css": "SASS",
+          "description": "MUI is a lightweight CSS framework that follows Google's Material Design guidelines",
+          "documentation": "https://www.muicss.com/docs/v1/css-js",
+          "github": "https://github.com/muicss/mui",
+          "install": Object {
+            "bower": "mui",
+            "npm": "muicss",
+            "yarn": "muicss",
+          },
+          "isNew": true,
+          "js": "https://www.muicss.com/docs/v1/css-js/reference",
+          "name": "MUI",
+          "slug": "mui",
+          "stats": Object {
+            "forks": "300+",
+            "stars": "3.6K+",
+          },
+          "url": "https://www.muicss.com/",
+          "version": "0.9.27",
+        },
+        Object {
+          "css": "SASS",
           "description": "The official front-end framework for building experiences that fit seamlessly into Office and Office 365",
           "documentation": "http://dev.office.com/fabric#/get-started",
           "github": "https://github.com/OfficeDev/office-ui-fabric-core",
@@ -1056,6 +1169,27 @@ exports[`App renders correctly 1`] = `
           "version": "2.2.13",
         },
         Object {
+          "css": false,
+          "description": "A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+          "documentation": "http://getskeleton.com/",
+          "github": "https://github.com/dhg/Skeleton",
+          "install": Object {
+            "bower": "skeleton",
+            "npm": false,
+            "yarn": false,
+          },
+          "isNew": true,
+          "js": false,
+          "name": "Skeleton",
+          "slug": "skeleton",
+          "stats": Object {
+            "forks": "2K+",
+            "stars": "14K+",
+          },
+          "url": "http://getskeleton.com/",
+          "version": "2.0.4",
+        },
+        Object {
           "css": "SASS",
           "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
@@ -1080,10 +1214,10 @@ exports[`App renders correctly 1`] = `
       Collection {
         "count": 5,
         "data": Array [
-          "amaze",
+          "axiom",
           "blaze",
-          "gumby",
-          "metro",
+          "mui",
+          "skeleton",
           "office",
         ],
       }
@@ -1117,6 +1251,7 @@ exports[`App renders correctly 1`] = `
           "name": "Alert",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/javascript/alert/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/alert",
             "blaze": "http://blazecss.com/components/alerts/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#alerts",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/alerts/",
@@ -1138,6 +1273,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Avatar",
           "supports": Object {
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/avatar",
             "blaze": "http://blazecss.com/components/avatars/",
             "office": "http://dev.office.com/fabric#/components/persona",
             "primer": "http://primercss.io/avatars/",
@@ -1149,6 +1285,7 @@ exports[`App renders correctly 1`] = `
           "name": "Badge",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/badge/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/badge",
             "blaze": "http://blazecss.com/components/badges/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#badges",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/badge/",
@@ -1192,6 +1329,7 @@ exports[`App renders correctly 1`] = `
           "name": "Button",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/button/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/button",
             "blaze": "http://blazecss.com/components/buttons/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#buttons",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/buttons/",
@@ -1204,10 +1342,12 @@ exports[`App renders correctly 1`] = `
             "materialize": "http://materializecss.com/buttons.html",
             "metro": "https://metroui.org.ua/buttons.html",
             "mini": "http://minicss.org/input_control#buttons",
+            "mui": "https://www.muicss.com/docs/v1/css-js/buttons",
             "office": "http://dev.office.com/fabric#/components/button",
             "primer": "http://primercss.io/buttons/",
             "pure": "http://purecss.io/buttons/",
             "semantic": "http://semantic-ui.com/elements/button.html",
+            "skeleton": "http://getskeleton.com/#buttons",
             "spectre": "https://picturepan2.github.io/spectre/elements.html#buttons",
             "uikit2": "https://getuikit.com/v2/docs/button.html",
             "uikit3": "https://getuikit.com/docs/button",
@@ -1216,6 +1356,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Card",
           "supports": Object {
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/card",
             "blaze": "http://blazecss.com/components/cards/",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/card/",
             "bulma": "http://bulma.io/documentation/components/card/",
@@ -1231,6 +1372,7 @@ exports[`App renders correctly 1`] = `
           "name": "Dropdown",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/javascript/dropdown/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/dropdown",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#dropdowns",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/dropdowns/",
             "bulma": "http://bulma.io/documentation/components/dropdown/",
@@ -1239,6 +1381,7 @@ exports[`App renders correctly 1`] = `
             "ink": "http://ink.sapo.pt/ui-elements/navigation/#dropdowns",
             "materialize": "http://materializecss.com/dropdown.html",
             "metro": "https://metroui.org.ua/buttons.html",
+            "mui": "https://www.muicss.com/docs/v1/css-js/dropdowns",
             "office": "http://dev.office.com/fabric#/components/dropdown",
             "semantic": "http://semantic-ui.com/modules/dropdown.html",
             "spectre": "https://picturepan2.github.io/spectre/components.html#dropdowns",
@@ -1249,6 +1392,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Flex Grid",
           "supports": Object {
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/grid",
             "blaze": "http://blazecss.com/objects/grid/",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/layout/grid/",
             "bulma": "http://bulma.io/documentation/grid/columns/",
@@ -1267,6 +1411,7 @@ exports[`App renders correctly 1`] = `
           "name": "Form",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/form/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/form",
             "blaze": "http://blazecss.com/components/inputs/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#forms",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/forms/",
@@ -1278,10 +1423,12 @@ exports[`App renders correctly 1`] = `
             "materialize": "http://materializecss.com/forms.html",
             "metro": "https://metroui.org.ua/inputs.html",
             "mini": "http://minicss.org/input_control",
+            "mui": "https://www.muicss.com/docs/v1/css-js/forms",
             "office": "http://dev.office.com/fabric#/components/textfield",
             "primer": "http://primercss.io/forms/",
             "pure": "http://purecss.io/forms/",
             "semantic": "http://semantic-ui.com/collections/form.html",
+            "skeleton": "http://getskeleton.com/#forms",
             "spectre": "https://picturepan2.github.io/spectre/elements.html#forms",
             "uikit2": "https://getuikit.com/v2/docs/form.html",
             "uikit3": "https://getuikit.com/docs/form",
@@ -1303,10 +1450,12 @@ exports[`App renders correctly 1`] = `
             "materialize": "http://materializecss.com/grid.html",
             "metro": "https://metroui.org.ua/grid.html",
             "mini": "http://minicss.org/grid",
+            "mui": "https://www.muicss.com/docs/v1/css-js/grid",
             "office": "http://dev.office.com/fabric#/styles/layout",
             "primer": "http://primercss.io/layout/",
             "pure": "http://purecss.io/grids/",
             "semantic": "http://semantic-ui.com/collections/grid.html",
+            "skeleton": "http://getskeleton.com/#grid",
             "spectre": "https://picturepan2.github.io/spectre/layout.html#grid",
             "uikit2": "https://getuikit.com/v2/docs/grid.html",
             "uikit3": "https://getuikit.com/docs/grid",
@@ -1333,6 +1482,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Label",
           "supports": Object {
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/label",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#labels",
             "bulma": "http://bulma.io/documentation/elements/tag/",
             "foundation5": "http://foundation.zurb.com/sites/docs/v/5.5.3/components/labels.html",
@@ -1350,6 +1500,7 @@ exports[`App renders correctly 1`] = `
           "name": "List",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/list/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/list",
             "blaze": "http://blazecss.com/components/lists/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#list-group",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/list-group/",
@@ -1358,6 +1509,7 @@ exports[`App renders correctly 1`] = `
             "office": "http://dev.office.com/fabric#/components/list",
             "primer": "http://primercss.io/type/#lists",
             "semantic": "http://semantic-ui.com/elements/list.html",
+            "skeleton": "http://getskeleton.com/#lists",
             "uikit2": "https://getuikit.com/v2/docs/list.html",
             "uikit3": "https://getuikit.com/docs/list",
           },
@@ -1365,6 +1517,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Loading",
           "supports": Object {
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/progress",
             "materialize": "http://materializecss.com/preloader.html",
             "metro": "https://metroui.org.ua/preloaders.html",
             "mini": "http://minicss.org/progress#donut-spinner",
@@ -1443,6 +1596,7 @@ exports[`App renders correctly 1`] = `
             "materialize": "http://materializecss.com/navbar.html",
             "metro": "https://metroui.org.ua/appbar.html",
             "mini": "http://minicss.org/navigation#header",
+            "mui": "https://www.muicss.com/docs/v1/css-js/appbar",
             "office": "http://dev.office.com/fabric#/components/commandbar",
             "semantic": "http://semantic-ui.com/collections/menu.html",
             "spectre": "https://picturepan2.github.io/spectre/layout.html#navbar",
@@ -1472,6 +1626,7 @@ exports[`App renders correctly 1`] = `
           "name": "Pagination",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/pagination/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/pagination",
             "blaze": "http://blazecss.com/components/pagination/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#pagination",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/pagination/",
@@ -1492,10 +1647,12 @@ exports[`App renders correctly 1`] = `
           "name": "Panel",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/panel/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/panel",
             "blaze": "http://blazecss.com/objects/panels/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#panels",
             "bulma": "http://bulma.io/documentation/components/panel/",
             "metro": "https://metroui.org.ua/panels.html",
+            "mui": "https://www.muicss.com/docs/v1/css-js/panels",
             "spectre": "https://picturepan2.github.io/spectre/components.html#panels",
             "uikit2": "https://getuikit.com/v2/docs/panel.html",
           },
@@ -1503,6 +1660,7 @@ exports[`App renders correctly 1`] = `
         Object {
           "name": "Popover",
           "supports": Object {
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/tooltip",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#popovers",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/components/popovers/",
             "metro": "https://metroui.org.ua/popovers.html",
@@ -1536,6 +1694,7 @@ exports[`App renders correctly 1`] = `
           "name": "Table",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/table/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/table",
             "blaze": "http://blazecss.com/components/tables/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#tables",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/content/tables/",
@@ -1548,9 +1707,11 @@ exports[`App renders correctly 1`] = `
             "materialize": "http://materializecss.com/table.html",
             "metro": "https://metroui.org.ua/tables.html",
             "mini": "http://minicss.org/table",
+            "mui": "https://www.muicss.com/docs/v1/css-js/tables",
             "office": "https://dev.office.com/fabric-js/Components/Table/Table.html",
             "pure": "http://purecss.io/tables/",
             "semantic": "http://semantic-ui.com/collections/table.html",
+            "skeleton": "http://getskeleton.com/#tables",
             "spectre": "https://picturepan2.github.io/spectre/elements.html#tables",
             "uikit2": "https://getuikit.com/v2/docs/table.html",
             "uikit3": "https://getuikit.com/docs/table",
@@ -1560,6 +1721,7 @@ exports[`App renders correctly 1`] = `
           "name": "Tabs",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/javascript/tabs/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/tabset",
             "blaze": "http://blazecss.com/components/tabs/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/javascript/#tabs",
             "bootstrap4": "http://v4-alpha.getbootstrap.com/components/navs/#tabs",
@@ -1572,6 +1734,7 @@ exports[`App renders correctly 1`] = `
             "materialize": "http://materializecss.com/tabs.html",
             "metro": "https://metroui.org.ua/tabcontrol.html",
             "mini": "http://minicss.org/tab",
+            "mui": "https://www.muicss.com/docs/v1/css-js/tabs",
             "office": "http://dev.office.com/fabric#/components/pivot",
             "primer": "http://primercss.io/nav/#tabnav",
             "semantic": "http://semantic-ui.com/modules/tab.html",
@@ -1594,6 +1757,7 @@ exports[`App renders correctly 1`] = `
           "name": "Thumbnail",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/thumbnail/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/image",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/components/#thumbnails",
             "bootstrap4": "http://getbootstrap.com/docs/4.0/content/images/",
             "bulma": "http://bulma.io/documentation/elements/image/",
@@ -1633,6 +1797,7 @@ exports[`App renders correctly 1`] = `
           "name": "Typography",
           "supports": Object {
             "amaze": "http://amazeui.github.io/docs/en/css/typography/",
+            "axiom": "https://brandwatchltd.github.io/axiom/docs/components/typography",
             "blaze": "http://blazecss.com/components/typography/",
             "bootstrap3": "https://getbootstrap.com/docs/3.3/css/#type",
             "bootstrap4": "https://getbootstrap.com/docs/4.0/content/typography/",
@@ -1644,8 +1809,10 @@ exports[`App renders correctly 1`] = `
             "materialize": "http://materializecss.com/typography.html",
             "metro": "https://metroui.org.ua/typography.html",
             "mini": "http://minicss.org/core#typography",
+            "mui": "https://www.muicss.com/docs/v1/css-js/typography",
             "office": "http://dev.office.com/fabric#/styles/typography",
             "primer": "http://primercss.io/type/",
+            "skeleton": "http://getskeleton.com/#typography",
             "spectre": "https://picturepan2.github.io/spectre/elements.html#typography",
             "uikit2": "https://getuikit.com/v2/docs/base.html",
             "uikit3": "https://getuikit.com/docs/base",
@@ -1666,8 +1833,10 @@ exports[`App renders correctly 1`] = `
             "materialize": "http://materializecss.com/helpers.html",
             "metro": "https://metroui.org.ua/helpers.html",
             "mini": "http://minicss.org/utility",
+            "mui": "https://www.muicss.com/docs/v1/css-js/css-helpers",
             "office": "http://dev.office.com/fabric#/components/utilities",
             "primer": "http://primercss.io/utilities/",
+            "skeleton": "http://getskeleton.com/#utilities",
             "spectre": "https://picturepan2.github.io/spectre/utilities.html",
             "uikit2": "https://getuikit.com/v2/docs/utility.html",
             "uikit3": "https://getuikit.com/docs/utility",
@@ -1696,6 +1865,31 @@ exports[`App renders correctly 1`] = `
           },
           "url": "http://amazeui.github.io/docs/en/",
           "version": "2.7.2",
+        },
+        Object {
+          "css": false,
+          "description": "A consumable library of Brandwatch UI & UX patterns",
+          "documentation": "https://brandwatchltd.github.io/axiom",
+          "github": "https://github.com/BrandwatchLtd/axiom",
+          "icons": Object {
+            "name": "Axiom SVG Icons",
+            "url": "https://brandwatchltd.github.io/axiom/docs/components/icon",
+          },
+          "install": Object {
+            "bower": false,
+            "npm": "bw-axiom",
+            "yarn": "bw-axiom",
+          },
+          "isNew": true,
+          "js": false,
+          "name": "Axiom - Pattern Library",
+          "slug": "axiom",
+          "stats": Object {
+            "forks": "20+",
+            "stars": "25+",
+          },
+          "url": "https://brandwatchltd.github.io/axiom",
+          "version": "27.7.0",
         },
         Object {
           "css": "SASS",
@@ -2002,6 +2196,27 @@ exports[`App renders correctly 1`] = `
         },
         Object {
           "css": "SASS",
+          "description": "MUI is a lightweight CSS framework that follows Google's Material Design guidelines",
+          "documentation": "https://www.muicss.com/docs/v1/css-js",
+          "github": "https://github.com/muicss/mui",
+          "install": Object {
+            "bower": "mui",
+            "npm": "muicss",
+            "yarn": "muicss",
+          },
+          "isNew": true,
+          "js": "https://www.muicss.com/docs/v1/css-js/reference",
+          "name": "MUI",
+          "slug": "mui",
+          "stats": Object {
+            "forks": "300+",
+            "stars": "3.6K+",
+          },
+          "url": "https://www.muicss.com/",
+          "version": "0.9.27",
+        },
+        Object {
+          "css": "SASS",
           "description": "The official front-end framework for building experiences that fit seamlessly into Office and Office 365",
           "documentation": "http://dev.office.com/fabric#/get-started",
           "github": "https://github.com/OfficeDev/office-ui-fabric-core",
@@ -2180,6 +2395,27 @@ exports[`App renders correctly 1`] = `
           "version": "2.2.13",
         },
         Object {
+          "css": false,
+          "description": "A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+          "documentation": "http://getskeleton.com/",
+          "github": "https://github.com/dhg/Skeleton",
+          "install": Object {
+            "bower": "skeleton",
+            "npm": false,
+            "yarn": false,
+          },
+          "isNew": true,
+          "js": false,
+          "name": "Skeleton",
+          "slug": "skeleton",
+          "stats": Object {
+            "forks": "2K+",
+            "stars": "14K+",
+          },
+          "url": "http://getskeleton.com/",
+          "version": "2.0.4",
+        },
+        Object {
           "css": "SASS",
           "description": "Spectre.css is a lightweight and responsive and modern CSS framework for faster and extensible development",
           "documentation": "https://picturepan2.github.io/spectre/index.html#introduction",
@@ -2204,10 +2440,10 @@ exports[`App renders correctly 1`] = `
       Collection {
         "count": 5,
         "data": Array [
-          "amaze",
+          "axiom",
           "blaze",
-          "gumby",
-          "metro",
+          "mui",
+          "skeleton",
           "office",
         ],
       }

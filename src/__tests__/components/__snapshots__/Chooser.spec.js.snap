@@ -56,6 +56,38 @@ exports[`Chooser renders correctly 1`] = `
       <SelectButton
         framework={
           Object {
+            "css": false,
+            "description": "A consumable library of Brandwatch UI & UX patterns",
+            "documentation": "https://brandwatchltd.github.io/axiom",
+            "github": "https://github.com/BrandwatchLtd/axiom",
+            "icons": Object {
+              "name": "Axiom SVG Icons",
+              "url": "https://brandwatchltd.github.io/axiom/docs/components/icon",
+            },
+            "install": Object {
+              "bower": false,
+              "npm": "bw-axiom",
+              "yarn": "bw-axiom",
+            },
+            "isNew": true,
+            "js": false,
+            "name": "Axiom - Pattern Library",
+            "slug": "axiom",
+            "stats": Object {
+              "forks": "20+",
+              "stars": "25+",
+            },
+            "url": "https://brandwatchltd.github.io/axiom",
+            "version": "27.7.0",
+          }
+        }
+        isNew={true}
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
             "css": "SASS",
             "description": "Open source modular CSS toolkit providing great structure for building websites quickly",
             "documentation": "http://blazecss.com/getting-started/install/",
@@ -444,6 +476,34 @@ exports[`Chooser renders correctly 1`] = `
         framework={
           Object {
             "css": "SASS",
+            "description": "MUI is a lightweight CSS framework that follows Google's Material Design guidelines",
+            "documentation": "https://www.muicss.com/docs/v1/css-js",
+            "github": "https://github.com/muicss/mui",
+            "install": Object {
+              "bower": "mui",
+              "npm": "muicss",
+              "yarn": "muicss",
+            },
+            "isNew": true,
+            "js": "https://www.muicss.com/docs/v1/css-js/reference",
+            "name": "MUI",
+            "slug": "mui",
+            "stats": Object {
+              "forks": "300+",
+              "stars": "3.6K+",
+            },
+            "url": "https://www.muicss.com/",
+            "version": "0.9.27",
+          }
+        }
+        isNew={true}
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
+            "css": "SASS",
             "description": "The official front-end framework for building experiences that fit seamlessly into Office and Office 365",
             "documentation": "http://dev.office.com/fabric#/get-started",
             "github": "https://github.com/OfficeDev/office-ui-fabric-core",
@@ -658,6 +718,34 @@ exports[`Chooser renders correctly 1`] = `
           }
         }
         isNew={false}
+        isSelected={false}
+        onClick={[Function]}
+      />
+      <SelectButton
+        framework={
+          Object {
+            "css": false,
+            "description": "A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+            "documentation": "http://getskeleton.com/",
+            "github": "https://github.com/dhg/Skeleton",
+            "install": Object {
+              "bower": "skeleton",
+              "npm": false,
+              "yarn": false,
+            },
+            "isNew": true,
+            "js": false,
+            "name": "Skeleton",
+            "slug": "skeleton",
+            "stats": Object {
+              "forks": "2K+",
+              "stars": "14K+",
+            },
+            "url": "http://getskeleton.com/",
+            "version": "2.0.4",
+          }
+        }
+        isNew={true}
         isSelected={false}
         onClick={[Function]}
       />
