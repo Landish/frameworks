@@ -20,6 +20,7 @@ export default {
     pure: 'http://purecss.io/grids/',
     primer: 'http://primercss.io/layout/',
     semantic: 'http://semantic-ui.com/collections/grid.html',
+    skeleton: 'http://getskeleton.com/#grid',
     spectre: 'https://picturepan2.github.io/spectre/layout.html#grid'
   }
 };

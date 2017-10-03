@@ -20,6 +20,7 @@ export default {
     pure: 'http://purecss.io/buttons/',
     primer: 'http://primercss.io/buttons/',
     semantic: 'http://semantic-ui.com/elements/button.html',
+    skeleton: 'http://getskeleton.com/#buttons',
     spectre: 'https://picturepan2.github.io/spectre/elements.html#buttons'
   }
 };

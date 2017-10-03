@@ -19,6 +19,7 @@ export default {
     pure: 'http://purecss.io/forms/',
     primer: 'http://primercss.io/forms/',
     semantic: 'http://semantic-ui.com/collections/form.html',
+    skeleton: 'http://getskeleton.com/#forms',
     spectre: 'https://picturepan2.github.io/spectre/elements.html#forms'
   }
 };

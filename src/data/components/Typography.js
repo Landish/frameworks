@@ -17,6 +17,7 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/base.html',
     uikit3: 'https://getuikit.com/docs/base',
     primer: 'http://primercss.io/type/',
+    skeleton: 'http://getskeleton.com/#typography',
     spectre: 'https://picturepan2.github.io/spectre/elements.html#typography'
   }
 };

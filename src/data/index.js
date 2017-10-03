@@ -14,6 +14,7 @@ import { UIkit2, UIkit3 } from './frameworks/UIkit';
 import { Pure } from './frameworks/Pure';
 import { Primer } from './frameworks/Primer';
 import { SemanticUI } from './frameworks/SemanticUI';
+import { Skeleton } from './frameworks/Skeleton';
 import { Spectre } from './frameworks/Spectre';
 
 import Accordion from './components/Accordion';
@@ -69,6 +70,7 @@ export default {
     Pure,
     Primer,
     SemanticUI,
+    Skeleton,
     Spectre
   ],
   components: [
