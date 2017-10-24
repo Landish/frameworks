@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Icon from '../Icon';
-import Link from '../Link';
+import DemoButton from '../DemoButton';
+import NotAvailable from '../NotAvailable';
 import Collection from '../../core/Collection';
 
 const ComponentsList = ({ frameworks, visible, components }) => {
@@ -47,31 +47,6 @@ const ComponentsList = ({ frameworks, visible, components }) => {
     );
   }
 
-  function renderDemoButton(framework, component) {
-    return (
-      <Link
-        url={component.supports[framework.slug]}
-        className="button is-fixed is-small is-info is-outlined"
-      >
-        <Icon name="eye" />
-        <span>Demo</span>
-      </Link>
-    );
-  }
-
-  function renderNotAvailableButton() {
-    return (
-      <span
-        data-tooltip="Not Available"
-        disabled={false}
-        className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-      >
-        <Icon name="eye-slash" />
-        <span>N / A</span>
-      </span>
-    );
-  }
-
   return (
     <div className="section">
       <div className="container is-x is-fullhd">
@@ -89,12 +64,12 @@ const ComponentsList = ({ frameworks, visible, components }) => {
                   </td>
 
                   {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
+                    const supportsComponent = component.supports[framework.slug];
                     return (
                       <td key={framework.slug}>
-                        {component.supports[framework.slug] &&
-                          renderDemoButton(framework, component)}
+                        {supportsComponent && <DemoButton url={supportsComponent} />}
 
-                        {!component.supports[framework.slug] && renderNotAvailableButton()}
+                        {!supportsComponent && <NotAvailable />}
                       </td>
                     );
                   })}

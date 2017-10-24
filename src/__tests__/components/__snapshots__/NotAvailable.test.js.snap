@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotAvailable renders correctly 1`] = `
+<span
+  className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
+  data-tooltip="Not Available"
+  disabled={false}
+>
+  <Icon
+    name="eye-slash"
+  />
+  <span>
+    N / A
+  </span>
+</span>
+`;

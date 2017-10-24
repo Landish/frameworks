@@ -52,31 +52,12 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/javascript-ui/#InkUIToggle_1"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -88,30 +69,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/notification/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/alerts/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -123,32 +88,10 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -160,30 +103,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/tag/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/typography/#labels-and-badges"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -195,30 +122,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/breadcrumb/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/navigation/#breadcrumbs"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -230,30 +141,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/button/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/buttons/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -265,31 +160,12 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/card/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -301,30 +177,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/dropdown/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/navigation/#dropdowns"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -336,30 +196,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/grid/columns/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/flexbox/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -371,30 +215,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/form/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/forms/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -406,30 +234,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/grid/columns/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/grid/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -441,31 +253,12 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/icon/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -477,30 +270,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/tag/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/typography/#labels-and-badges"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -512,32 +289,10 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -549,32 +304,10 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -586,31 +319,12 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/media-object/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -622,30 +336,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/menu/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/navigation/#menus"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -657,30 +355,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/modal/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/javascript-ui/#InkUIModal_1"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -692,30 +374,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/navbar/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/navigation/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -727,32 +393,10 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -764,30 +408,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/pagination/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/navigation/#pagination"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -799,31 +427,12 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/panel/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -835,32 +444,10 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -872,30 +459,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/progress/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/javascript-ui/#InkUIProgressBar_1"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -907,30 +478,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/table/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/tables/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -942,30 +497,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/components/tabs/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/javascript-ui/#InkUITabs_1"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -977,32 +516,10 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
         </tr>
         <tr>
@@ -1014,30 +531,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/image/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/images/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -1049,31 +550,12 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <span
-              className="button is-static is-tooltip is-fixed is-small is-danger is-outlined"
-              data-tooltip="Not Available"
-              disabled={false}
-            >
-              <Icon
-                name="eye-slash"
-              />
-              <span>
-                N / A
-              </span>
-            </span>
+            <NotAvailable />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/javascript-ui/#InkUITooltip_1"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -1085,30 +567,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/elements/content/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/typography/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
         <tr>
@@ -1120,30 +586,14 @@ exports[`Components List renders correctly 1`] = `
             </span>
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://bulma.io/documentation/modifiers/helpers/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
           <td>
-            <Link
-              className="button is-fixed is-small is-info is-outlined"
+            <DemoButton
               url="http://ink.sapo.pt/ui-elements/helpers/"
-            >
-              <Icon
-                name="eye"
-              />
-              <span>
-                Demo
-              </span>
-            </Link>
+            />
           </td>
         </tr>
       </tbody>

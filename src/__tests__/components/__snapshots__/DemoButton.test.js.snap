@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DemoButton renders correctly 1`] = `
+<Link
+  className="button is-fixed is-small is-info is-outlined"
+  url="https://frameworks.now.sh"
+>
+  <Icon
+    name="eye"
+  />
+  <span>
+    Demo
+  </span>
+</Link>
+`;
