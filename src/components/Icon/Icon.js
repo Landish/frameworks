@@ -12,7 +12,7 @@ class Icon extends PureComponent {
 }
 
 Icon.propTypes = {
-  name: PropTypes.string.isRequired
+  name: PropTypes.string.isRequired,
 };
 
 export default Icon;

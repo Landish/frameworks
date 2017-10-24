@@ -9,7 +9,7 @@ export const Kube = {
   github: 'https://github.com/imperavi/kube',
   icons: {
     name: 'Font Awesome (Optional)',
-    url: 'http://fontawesome.io/'
+    url: 'http://fontawesome.io/',
   },
   browsers: {
     chrome: 'Latest',
@@ -18,13 +18,13 @@ export const Kube = {
     opera: 'Latest',
     ie: 'IE10+',
     ios: 'Latest',
-    android: 'Latest'
+    android: 'Latest',
   },
   version: '6.5.2',
   css: 'SASS',
   js: 'https://imperavi.com/kube/docs/custom-plugins/',
   stats: {
     stars: '1K+',
-    forks: '190+'
-  }
+    forks: '190+',
+  },
 };

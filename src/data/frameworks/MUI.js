@@ -5,7 +5,7 @@ export const MUI = {
   install: {
     bower: 'mui',
     npm: 'muicss',
-    yarn: 'muicss'
+    yarn: 'muicss',
   },
   description:
     "MUI is a lightweight CSS framework that follows Google's Material Design guidelines",
@@ -17,6 +17,6 @@ export const MUI = {
   js: 'https://www.muicss.com/docs/v1/css-js/reference',
   stats: {
     stars: '3.6K+',
-    forks: '300+'
-  }
+    forks: '300+',
+  },
 };

@@ -17,7 +17,7 @@ class App extends Component {
     this.state = {
       frameworks: data.frameworks,
       visible: new Collection(config.defaultSelected),
-      menuOpened: false
+      menuOpened: false,
     };
   }
 
@@ -26,7 +26,7 @@ class App extends Component {
 
     this.history.listen(({ state }) => {
       this.setState({
-        visible: new Collection(state.frameworks)
+        visible: new Collection(state.frameworks),
       });
     });
   }
@@ -37,7 +37,7 @@ class App extends Component {
       let frameworks = search.replace('?compare=', '').split(',');
       frameworks = !frameworks[0].length ? config.defaultSelected : frameworks;
       this.setState({
-        visible: new Collection(frameworks)
+        visible: new Collection(frameworks),
       });
     }
   };
@@ -59,13 +59,15 @@ class App extends Component {
         visible.add(framework);
       }
 
-      this.history.push(`./?compare=${visible.all().join(',')}`, { frameworks: visible.all() });
+      this.history.push(`./?compare=${visible.all().join(',')}`, {
+        frameworks: visible.all(),
+      });
     }
   };
 
   onNavToggle = e => {
     this.setState(prevState => ({
-      menuOpened: !prevState.menuOpened
+      menuOpened: !prevState.menuOpened,
     }));
     e.preventDefault();
   };

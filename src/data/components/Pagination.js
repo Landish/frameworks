@@ -16,6 +16,6 @@ export default {
     metro: 'https://metroui.org.ua/buttons.html',
     uikit2: 'https://getuikit.com/v2/docs/pagination.html',
     uikit3: 'https://getuikit.com/docs/pagination',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#pagination'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#pagination',
+  },
 };

@@ -8,10 +8,10 @@ import logo from '../../assets/logo.svg';
 
 const Navbar = ({ onNavToggle, isMenuOpened }) => {
   const toggleClass = classNames('nav-toggle', {
-    'is-active': isMenuOpened
+    'is-active': isMenuOpened,
   });
   const navClass = classNames('nav-right', 'nav-menu', {
-    'is-active': isMenuOpened
+    'is-active': isMenuOpened,
   });
   return (
     <nav className="nav">
@@ -36,9 +36,7 @@ const Navbar = ({ onNavToggle, isMenuOpened }) => {
             url="https://github.com/Landish/frameworks.now.sh/blob/master/CHANGELOG.md"
             className="nav-item"
           >
-            <span className="tag is-white is-small">
-              v{config.version}
-            </span>
+            <span className="tag is-white is-small">v{config.version}</span>
           </Link>
         </div>
       </div>
@@ -48,11 +46,11 @@ const Navbar = ({ onNavToggle, isMenuOpened }) => {
 
 Navbar.propTypes = {
   onNavToggle: PropTypes.func.isRequired,
-  isMenuOpened: PropTypes.bool
+  isMenuOpened: PropTypes.bool,
 };
 
 Navbar.defaultProps = {
-  isMenuOpened: false
+  isMenuOpened: false,
 };
 
 export default Navbar;

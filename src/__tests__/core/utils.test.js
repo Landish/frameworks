@@ -3,7 +3,7 @@ import { toInstall } from '../../core/utils';
 describe('utils.js test case', () => {
   it('should return install name if nothing is specified', () => {
     const framework = {
-      install: ''
+      install: '',
     };
     expect(toInstall(framework)).toBe('Not Available');
     expect(toInstall(framework, 'bower')).toBe('Not Available');
@@ -13,7 +13,7 @@ describe('utils.js test case', () => {
 
   it('should return install name if string was provided', () => {
     const framework = {
-      install: 'package_name'
+      install: 'package_name',
     };
 
     expect(toInstall(framework, 'npm')).toBe('npm i package_name -S');
@@ -26,8 +26,8 @@ describe('utils.js test case', () => {
       install: {
         npm: 'npm_package_name',
         yarn: 'yarn_package_name', // yarn and npm use same name
-        bower: 'bower_package_name'
-      }
+        bower: 'bower_package_name',
+      },
     };
 
     expect(toInstall(framework, 'npm')).toBe('npm i npm_package_name -S');

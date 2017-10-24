@@ -8,7 +8,7 @@ export const Materialize = {
   github: 'https://github.com/Dogfalo/materialize',
   icons: {
     name: 'Material Design Icons',
-    url: 'http://materializecss.com/icons.html'
+    url: 'http://materializecss.com/icons.html',
   },
   browsers: {
     chrome: '35+',
@@ -17,13 +17,13 @@ export const Materialize = {
     opera: 'Latest',
     ie: 'IE10+',
     ios: 'Latest',
-    android: 'Latest'
+    android: 'Latest',
   },
   version: '0.100.2',
   css: 'SASS',
   js: 'http://materializecss.com/carousel.html',
   stats: {
     stars: '29K+',
-    forks: '4K+'
-  }
+    forks: '4K+',
+  },
 };

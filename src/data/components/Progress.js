@@ -16,6 +16,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/progress.html',
     uikit3: 'https://getuikit.com/docs/progress',
     semantic: 'http://semantic-ui.com/modules/progress.html',
-    spectre: 'https://picturepan2.github.io/spectre/experimentals.html#progress'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/experimentals.html#progress',
+  },
 };

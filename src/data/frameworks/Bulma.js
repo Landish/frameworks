@@ -8,7 +8,7 @@ export const Bulma = {
   github: 'https://github.com/jgthms/bulma',
   icons: {
     name: 'Font Awesome (Optional)',
-    url: 'http://fontawesome.io/'
+    url: 'http://fontawesome.io/',
   },
   browsers: {
     chrome: 'Latest',
@@ -17,13 +17,13 @@ export const Bulma = {
     opera: 'Latest',
     ie: 'IE10+',
     ios: 'Latest',
-    android: 'Latest'
+    android: 'Latest',
   },
   version: '0.5.3',
   css: 'SASS',
   js: false,
   stats: {
     stars: '19K+',
-    forks: '1.4K+'
-  }
+    forks: '1.4K+',
+  },
 };

@@ -15,11 +15,11 @@ class DemoButton extends PureComponent {
 }
 
 DemoButton.propTypes = {
-  url: PropTypes.string.isRequired
+  url: PropTypes.string.isRequired,
 };
 
 DemoButton.defaultProps = {
-  url: ''
+  url: '',
 };
 
 export default DemoButton;

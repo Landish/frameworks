@@ -14,6 +14,6 @@ export default {
     office: 'http://dev.office.com/fabric#/components/image',
     uikit2: 'https://getuikit.com/v2/docs/thumbnail.html',
     semantic: 'http://semantic-ui.com/elements/image.html',
-    spectre: 'https://picturepan2.github.io/spectre/elements.html#media'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/elements.html#media',
+  },
 };

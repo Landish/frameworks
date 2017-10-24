@@ -74,19 +74,13 @@ const FrameworksList = ({ frameworks, visible }) => {
           return (
             <td className="no-padding" key={framework.slug}>
               <pre>
-                <code>
-                  {toInstall(framework, 'bower')}
-                </code>
+                <code>{toInstall(framework, 'bower')}</code>
               </pre>
               <pre>
-                <code>
-                  {toInstall(framework, 'npm')}
-                </code>
+                <code>{toInstall(framework, 'npm')}</code>
               </pre>
               <pre>
-                <code>
-                  {toInstall(framework, 'yarn')}
-                </code>
+                <code>{toInstall(framework, 'yarn')}</code>
               </pre>
             </td>
           );
@@ -141,9 +135,7 @@ const FrameworksList = ({ frameworks, visible }) => {
                 className="tag is-space is-rounded is-small is-info"
               >
                 <Icon name="history" />
-                <span>
-                  v{framework.version}
-                </span>
+                <span>v{framework.version}</span>
               </Link>
             </td>
           );
@@ -161,13 +153,14 @@ const FrameworksList = ({ frameworks, visible }) => {
         {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
           return (
             <td key={framework.slug}>
-              {framework.icons &&
+              {framework.icons && (
                 <Link
                   url={framework.icons.url}
                   tooltip={framework.icons.name}
                   className="tag is-rounded is-small is-success"
                   text="Yes"
-                />}
+                />
+              )}
               {!framework.icons && <span className="tag is-rounded is-small is-danger">No</span>}
             </td>
           );
@@ -185,13 +178,14 @@ const FrameworksList = ({ frameworks, visible }) => {
         {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
           return (
             <td key={framework.slug}>
-              {framework.css &&
+              {framework.css && (
                 <Link
                   url={framework.css === 'LESS' ? 'http://lesscss.org/' : 'http://sass-lang.com/'}
                   className="tag is-rounded is-small is-info"
                 >
                   {framework.css}
-                </Link>}
+                </Link>
+              )}
               {!framework.css && renderNoBadge()}
             </td>
           );
@@ -209,12 +203,13 @@ const FrameworksList = ({ frameworks, visible }) => {
         {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
           return (
             <td key={framework.slug}>
-              {framework.js &&
+              {framework.js && (
                 <Link
                   url={framework.js}
                   className="tag is-rounded is-small is-success"
                   text="Yes"
-                />}
+                />
+              )}
               {!framework.js && renderNoBadge()}
             </td>
           );
@@ -232,18 +227,20 @@ const FrameworksList = ({ frameworks, visible }) => {
         {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
           return (
             <td key={framework.slug}>
-              {framework.licence &&
+              {framework.licence && (
                 <Link
                   url={framework.licence.url}
                   className="tag is-rounded is-small is-info"
                   text={framework.licence.name}
-                />}
-              {!framework.licence &&
+                />
+              )}
+              {!framework.licence && (
                 <Link
                   url="https://opensource.org/licenses/MIT"
                   className="tag is-rounded is-small is-info"
                   text="MIT"
-                />}
+                />
+              )}
             </td>
           );
         })}
@@ -256,9 +253,7 @@ const FrameworksList = ({ frameworks, visible }) => {
       <div className="container is-fullhd">
         <h2 className="title">List of Frameworks</h2>
         <table className="table has-text-centered is-striped is-bordered">
-          <thead>
-            {renderHeader()}
-          </thead>
+          <thead>{renderHeader()}</thead>
           <tbody>
             {renderLinksRow()}
             {renderInstallRow()}
@@ -277,7 +272,7 @@ const FrameworksList = ({ frameworks, visible }) => {
 
 FrameworksList.propTypes = {
   frameworks: array.isRequired,
-  visible: instanceOf(Collection).isRequired
+  visible: instanceOf(Collection).isRequired,
 };
 
 export default FrameworksList;

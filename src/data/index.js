@@ -75,7 +75,7 @@ export default {
     Primer,
     SemanticUI,
     Skeleton,
-    Spectre
+    Spectre,
   ],
   components: [
     Accordion,
@@ -108,6 +108,6 @@ export default {
     Thumbnail,
     Tooltip,
     Typography,
-    Utilities
-  ]
+    Utilities,
+  ],
 };

@@ -20,6 +20,6 @@ export default {
     uikit3: 'https://getuikit.com/docs/base',
     primer: 'http://primercss.io/type/',
     skeleton: 'http://getskeleton.com/#typography',
-    spectre: 'https://picturepan2.github.io/spectre/elements.html#typography'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/elements.html#typography',
+  },
 };

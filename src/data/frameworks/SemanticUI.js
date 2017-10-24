@@ -9,7 +9,7 @@ export const SemanticUI = {
   github: 'https://github.com/Semantic-Org/Semantic-UI',
   icons: {
     name: 'Font Awesome',
-    url: 'http://fontawesome.io/'
+    url: 'http://fontawesome.io/',
   },
   browsers: {
     chrome: 'Latest',
@@ -20,13 +20,13 @@ export const SemanticUI = {
     ie: 'IE11+',
     ios: 'Latest',
     android: 'Latest',
-    details: 'https://github.com/Semantic-Org/Semantic-UI#browser-support'
+    details: 'https://github.com/Semantic-Org/Semantic-UI#browser-support',
   },
   version: '2.2.13',
   css: 'LESS',
   js: 'http://semantic-ui.com/behaviors/api.html',
   stats: {
     stars: '37K+',
-    forks: '4K+'
-  }
+    forks: '4K+',
+  },
 };

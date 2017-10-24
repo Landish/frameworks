@@ -24,7 +24,7 @@ Link.propTypes = {
   text: PropTypes.string,
   className: PropTypes.string,
   children: PropTypes.node,
-  tooltip: PropTypes.string
+  tooltip: PropTypes.string,
 };
 
 export default Link;

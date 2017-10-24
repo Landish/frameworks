@@ -16,6 +16,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/dropdown.html',
     uikit3: 'https://getuikit.com/docs/dropdown',
     semantic: 'http://semantic-ui.com/modules/dropdown.html',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#dropdowns'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#dropdowns',
+  },
 };

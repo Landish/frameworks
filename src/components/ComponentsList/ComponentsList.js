@@ -15,9 +15,7 @@ const ComponentsList = ({ frameworks, visible, components }) => {
           {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
             return (
               <th key={framework.slug}>
-                <span className="is-dark">
-                  {framework.name}
-                </span>
+                <span className="is-dark">{framework.name}</span>
               </th>
             );
           })}
@@ -36,9 +34,7 @@ const ComponentsList = ({ frameworks, visible, components }) => {
           {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
             return (
               <th key={framework.slug}>
-                <span className="is-dark">
-                  {framework.name}
-                </span>
+                <span className="is-dark">{framework.name}</span>
               </th>
             );
           })}
@@ -58,9 +54,7 @@ const ComponentsList = ({ frameworks, visible, components }) => {
               return (
                 <tr key={component.name.toLowerCase()}>
                   <td>
-                    <span className="tag is-info is-rounded">
-                      {component.name}
-                    </span>
+                    <span className="tag is-info is-rounded">{component.name}</span>
                   </td>
 
                   {frameworks.filter(framework => visible.has(framework.slug)).map(framework => {
@@ -87,7 +81,7 @@ const ComponentsList = ({ frameworks, visible, components }) => {
 ComponentsList.propTypes = {
   frameworks: PropTypes.array.isRequired,
   visible: PropTypes.instanceOf(Collection).isRequired,
-  components: PropTypes.array.isRequired
+  components: PropTypes.array.isRequired,
 };
 
 export default ComponentsList;

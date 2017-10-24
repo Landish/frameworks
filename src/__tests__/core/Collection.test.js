@@ -7,7 +7,10 @@ describe('Collection.js Test', () => {
     collection.add('baz');
     expect(collection.size()).toBe(3);
 
-    collection.removeFirst().removeFirst().removeFirst();
+    collection
+      .removeFirst()
+      .removeFirst()
+      .removeFirst();
 
     // there are only 3 elements in this collection, but calling
     // the .removeFirst() method should mess up the count

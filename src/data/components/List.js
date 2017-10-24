@@ -13,6 +13,6 @@ export default {
     uikit3: 'https://getuikit.com/docs/list',
     primer: 'http://primercss.io/type/#lists',
     semantic: 'http://semantic-ui.com/elements/list.html',
-    skeleton: 'http://getskeleton.com/#lists'
-  }
+    skeleton: 'http://getskeleton.com/#lists',
+  },
 };

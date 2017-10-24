@@ -17,6 +17,6 @@ export default {
     uikit3: 'https://getuikit.com/docs/badge',
     primer: 'http://primercss.io/utilities/#counter',
     semantic: 'http://semantic-ui.com/elements/label.html#circular',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#badges'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#badges',
+  },
 };

@@ -22,6 +22,6 @@ export default {
     pure: 'http://purecss.io/tables/',
     semantic: 'http://semantic-ui.com/collections/table.html',
     skeleton: 'http://getskeleton.com/#tables',
-    spectre: 'https://picturepan2.github.io/spectre/elements.html#tables'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/elements.html#tables',
+  },
 };

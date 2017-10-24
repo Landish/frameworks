@@ -18,6 +18,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/navbar.html',
     uikit3: 'https://getuikit.com/docs/navbar',
     semantic: 'http://semantic-ui.com/collections/menu.html',
-    spectre: 'https://picturepan2.github.io/spectre/layout.html#navbar'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/layout.html#navbar',
+  },
 };

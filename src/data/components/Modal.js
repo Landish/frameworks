@@ -18,6 +18,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/modal.html',
     uikit3: 'https://getuikit.com/docs/modal',
     semantic: 'http://semantic-ui.com/modules/modal.html',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#modals'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#modals',
+  },
 };

@@ -10,13 +10,13 @@ export const OfficeUI = {
   github: 'https://github.com/OfficeDev/office-ui-fabric-core',
   icons: {
     name: 'Office UI Icons',
-    url: 'http://dev.office.com/fabric#/styles/icons'
+    url: 'http://dev.office.com/fabric#/styles/icons',
   },
   version: '8.0.0',
   css: 'SASS',
   js: 'https://dev.office.com/fabric-js/index.html',
   stats: {
     stars: '2.7K+',
-    forks: '370+'
-  }
+    forks: '370+',
+  },
 };

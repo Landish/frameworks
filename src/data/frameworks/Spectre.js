@@ -9,12 +9,12 @@ export const Spectre = {
   github: 'https://github.com/picturepan2/spectre',
   icons: {
     name: 'Spectre.css Icons',
-    url: 'https://picturepan2.github.io/spectre/elements.html#icons'
+    url: 'https://picturepan2.github.io/spectre/elements.html#icons',
   },
   version: '0.4.3',
   css: 'SASS',
   stats: {
     stars: '4.9K+',
-    forks: '300+'
-  }
+    forks: '300+',
+  },
 };

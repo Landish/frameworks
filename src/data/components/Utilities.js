@@ -19,6 +19,6 @@ export default {
     uikit3: 'https://getuikit.com/docs/utility',
     primer: 'http://primercss.io/utilities/',
     skeleton: 'http://getskeleton.com/#utilities',
-    spectre: 'https://picturepan2.github.io/spectre/utilities.html'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/utilities.html',
+  },
 };

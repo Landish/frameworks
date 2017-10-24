@@ -5,7 +5,7 @@ export const Skeleton = {
   install: {
     bower: 'skeleton',
     npm: false,
-    yarn: false
+    yarn: false,
   },
   description: 'A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development',
   url: 'http://getskeleton.com/',
@@ -16,6 +16,6 @@ export const Skeleton = {
   js: false,
   stats: {
     stars: '14K+',
-    forks: '2K+'
-  }
+    forks: '2K+',
+  },
 };

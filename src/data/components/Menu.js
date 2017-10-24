@@ -16,6 +16,6 @@ export default {
     pure: 'https://purecss.io/menus/',
     primer: 'http://primercss.io/nav/',
     semantic: 'https://semantic-ui.com/collections/menu.html',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#menus'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#menus',
+  },
 };

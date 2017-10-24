@@ -4,7 +4,7 @@ export const Ink = {
   install: {
     bower: 'sapo-ink',
     npm: false,
-    yarn: false
+    yarn: false,
   },
   description: 'Ink is a set of tools for quick development of web interfaces',
   url: 'http://ink.sapo.pt/',
@@ -15,6 +15,6 @@ export const Ink = {
   js: 'http://ink.sapo.pt/javascript/',
   stats: {
     stars: '1.9K+',
-    forks: '200+'
-  }
+    forks: '200+',
+  },
 };

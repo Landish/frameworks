@@ -18,6 +18,6 @@ export default {
     uikit3: 'https://getuikit.com/docs/alert',
     primer: 'http://primercss.io/alerts/',
     semantic: 'http://semantic-ui.com/collections/message.html',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#toasts'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#toasts',
+  },
 };

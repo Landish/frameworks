@@ -5,7 +5,7 @@ export const Axiom = {
   install: {
     bower: false,
     npm: 'bw-axiom',
-    yarn: 'bw-axiom'
+    yarn: 'bw-axiom',
   },
   description: 'A consumable library of Brandwatch UI & UX patterns',
   url: 'https://brandwatchltd.github.io/axiom',
@@ -13,13 +13,13 @@ export const Axiom = {
   github: 'https://github.com/BrandwatchLtd/axiom',
   icons: {
     name: 'Axiom SVG Icons',
-    url: 'https://brandwatchltd.github.io/axiom/docs/components/icon'
+    url: 'https://brandwatchltd.github.io/axiom/docs/components/icon',
   },
   version: '27.7.0',
   css: false,
   js: false,
   stats: {
     stars: '25+',
-    forks: '20+'
-  }
+    forks: '20+',
+  },
 };

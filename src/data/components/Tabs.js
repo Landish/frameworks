@@ -21,6 +21,6 @@ export default {
     uikit3: 'https://getuikit.com/docs/tab',
     primer: 'http://primercss.io/nav/#tabnav',
     semantic: 'http://semantic-ui.com/modules/tab.html',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#tabs'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#tabs',
+  },
 };

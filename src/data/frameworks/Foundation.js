@@ -9,7 +9,7 @@ export const Foundation5 = {
   github: 'https://github.com/zurb/foundation-sites',
   icons: {
     name: 'Foundation Icon Fonts 3 (Optional)',
-    url: 'http://zurb.com/playground/foundation-icon-fonts-3'
+    url: 'http://zurb.com/playground/foundation-icon-fonts-3',
   },
   browsers: {
     chrome: 'Latest',
@@ -20,15 +20,15 @@ export const Foundation5 = {
     ie: 'IE9+',
     ios: 'Latest',
     android: 'Latest',
-    details: 'http://foundation.zurb.com/sites/docs/v/5.5.3/compatibility.html'
+    details: 'http://foundation.zurb.com/sites/docs/v/5.5.3/compatibility.html',
   },
   version: '5.5.3',
   css: 'SASS',
   js: 'http://foundation.zurb.com/sites/docs/v/5.5.3/javascript.html',
   stats: {
     stars: '26K+',
-    forks: '5.7K+'
-  }
+    forks: '5.7K+',
+  },
 };
 
 export const Foundation6 = {
@@ -41,7 +41,7 @@ export const Foundation6 = {
   github: 'https://github.com/zurb/foundation-sites',
   icons: {
     name: 'Foundation Icon Fonts 3 (Optional)',
-    url: 'http://zurb.com/playground/foundation-icon-fonts-3'
+    url: 'http://zurb.com/playground/foundation-icon-fonts-3',
   },
   browsers: {
     chrome: 'Latest',
@@ -52,13 +52,13 @@ export const Foundation6 = {
     ie: 'IE9+',
     ios: 'Latest',
     android: 'Latest',
-    details: 'https://foundation.zurb.com/sites/docs/compatibility.html'
+    details: 'https://foundation.zurb.com/sites/docs/compatibility.html',
   },
   version: '6.4.3',
   css: 'SASS',
   js: 'https://foundation.zurb.com/sites/docs/javascript.html',
   stats: {
     stars: '26K+',
-    forks: '5.7K+'
-  }
+    forks: '5.7K+',
+  },
 };

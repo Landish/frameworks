@@ -12,6 +12,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/badge.html',
     uikit3: 'https://getuikit.com/docs/label',
     semantic: 'http://semantic-ui.com/elements/label.html',
-    spectre: 'https://picturepan2.github.io/spectre/elements.html#labels'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/elements.html#labels',
+  },
 };

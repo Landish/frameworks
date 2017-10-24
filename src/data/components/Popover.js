@@ -7,6 +7,6 @@ export default {
     metro: 'https://metroui.org.ua/popovers.html',
     office: 'http://dev.office.com/fabric#/components/callout',
     semantic: 'https://semantic-ui.com/modules/popup.html',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#popovers'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#popovers',
+  },
 };

@@ -6,9 +6,7 @@ class Header extends PureComponent {
   render() {
     return (
       <section className="hero is-info is-medium">
-        <div className="hero-head">
-          {this.props.children}
-        </div>
+        <div className="hero-head">{this.props.children}</div>
         <div className="hero-body has-text-centered">
           <div className="container">
             <h1 className="title">

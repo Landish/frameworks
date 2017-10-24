@@ -9,7 +9,7 @@ export const Bootstrap3 = {
   github: 'https://github.com/twbs/bootstrap',
   icons: {
     name: 'Glyphicons',
-    url: 'http://getbootstrap.com/components/#glyphicons-glyphs'
+    url: 'http://getbootstrap.com/components/#glyphicons-glyphs',
   },
   browsers: {
     chrome: 'Latest',
@@ -20,15 +20,15 @@ export const Bootstrap3 = {
     ie: 'IE9+',
     ios: 'Latest',
     android: 'Latest',
-    details: 'http://getbootstrap.com/getting-started/#support-browsers'
+    details: 'http://getbootstrap.com/getting-started/#support-browsers',
   },
   version: '3.3.7',
   css: 'LESS',
   js: 'http://getbootstrap.com/javascript/',
   stats: {
     stars: '115K+',
-    forks: '54K+'
-  }
+    forks: '54K+',
+  },
 };
 
 export const Bootstrap4 = {
@@ -50,13 +50,13 @@ export const Bootstrap4 = {
     ie: 'IE9+',
     ios: 'Latest',
     android: 'Latest',
-    details: 'http://v4-alpha.getbootstrap.com/getting-started/browsers-devices/'
+    details: 'http://v4-alpha.getbootstrap.com/getting-started/browsers-devices/',
   },
   version: '4.0.0-beta',
   css: 'SASS',
   js: 'https://v4-alpha.getbootstrap.com/getting-started/javascript/',
   stats: {
     stars: '115K+',
-    forks: '54K+'
-  }
+    forks: '54K+',
+  },
 };

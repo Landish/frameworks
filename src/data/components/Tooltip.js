@@ -16,6 +16,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/tooltip.html',
     uikit3: 'https://getuikit.com/docs/tooltip',
     primer: 'http://primercss.io/tooltips/',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#tooltips'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#tooltips',
+  },
 };

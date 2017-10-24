@@ -4,12 +4,12 @@ export const Pure = {
   install: {
     bower: 'pure',
     npm: 'purecss',
-    yarn: 'purecss'
+    yarn: 'purecss',
   },
   description: 'A set of small, responsive CSS modules that you can use in every web project',
   licence: {
     name: 'BSD License',
-    url: 'https://github.com/yahoo/pure/blob/master/LICENSE.md'
+    url: 'https://github.com/yahoo/pure/blob/master/LICENSE.md',
   },
   url: 'http://purecss.io/',
   documentation: 'http://purecss.io/start/',
@@ -23,13 +23,13 @@ export const Pure = {
     ie: 'IE8+',
     ios: '6+',
     android: '4+',
-    details: 'http://primercss.io/about/#browser-support'
+    details: 'http://primercss.io/about/#browser-support',
   },
   version: '1.0.0',
   css: false,
   js: false,
   stats: {
     stars: '17K+',
-    forks: '1.9K+'
-  }
+    forks: '1.9K+',
+  },
 };

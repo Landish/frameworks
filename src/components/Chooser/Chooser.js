@@ -36,12 +36,12 @@ Chooser.propTypes = {
   visible: PropTypes.instanceOf(Collection).isRequired,
   onFrameworkSelect: PropTypes.func.isRequired,
   minimum: PropTypes.number,
-  maximum: PropTypes.number
+  maximum: PropTypes.number,
 };
 
 Chooser.defaultProps = {
   minimum: 2,
-  maximum: 4
+  maximum: 4,
 };
 
 export default Chooser;

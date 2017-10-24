@@ -9,13 +9,13 @@ export const MetroUI = {
   github: 'https://github.com/olton/Metro-UI-CSS',
   icons: {
     name: 'MetroUI Icon Font',
-    url: 'https://metroui.org.ua/font.html'
+    url: 'https://metroui.org.ua/font.html',
   },
   version: '3.0.17',
   css: 'LESS',
   js: 'https://metroui.org.ua/events.html',
   stats: {
     stars: '5.4K+',
-    forks: '1.8K+'
-  }
+    forks: '1.8K+',
+  },
 };

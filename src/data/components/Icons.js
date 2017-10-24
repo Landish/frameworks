@@ -13,6 +13,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/icon.html',
     uikit3: 'https://getuikit.com/docs/icon',
     semantic: 'http://semantic-ui.com/elements/icon.html',
-    spectre: 'https://picturepan2.github.io/spectre/elements.html#icons'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/elements.html#icons',
+  },
 };

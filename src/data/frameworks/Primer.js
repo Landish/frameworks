@@ -8,7 +8,7 @@ export const Primer = {
   github: 'https://github.com/primer/primer-css',
   icons: {
     name: 'Github Octicons (Optional)',
-    url: 'https://octicons.github.com/'
+    url: 'https://octicons.github.com/',
   },
   browsers: {
     chrome: 'Latest',
@@ -18,13 +18,13 @@ export const Primer = {
     ie: 'IE10+',
     ios: 'Latest',
     android: 'Latest',
-    details: 'http://primercss.io/about/#browser-support'
+    details: 'http://primercss.io/about/#browser-support',
   },
   version: '9.4.0',
   css: 'SASS',
   js: false,
   stats: {
     stars: '6.1K+',
-    forks: '400+'
-  }
+    forks: '400+',
+  },
 };

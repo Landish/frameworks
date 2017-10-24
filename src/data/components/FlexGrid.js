@@ -13,6 +13,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/flex.html',
     uikit3: 'https://getuikit.com/docs/flex',
     semantic: 'http://semantic-ui.com/collections/grid.html',
-    spectre: 'https://picturepan2.github.io/spectre/layout.html#grid'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/layout.html#grid',
+  },
 };

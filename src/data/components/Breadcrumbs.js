@@ -17,6 +17,6 @@ export default {
     uikit2: 'https://getuikit.com/v2/docs/breadcrumb.html',
     uikit3: 'https://getuikit.com/docs/breadcrumb',
     semantic: 'http://semantic-ui.com/collections/breadcrumb.html',
-    spectre: 'https://picturepan2.github.io/spectre/components.html#breadcrumbs'
-  }
+    spectre: 'https://picturepan2.github.io/spectre/components.html#breadcrumbs',
+  },
 };

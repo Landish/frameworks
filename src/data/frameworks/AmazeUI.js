@@ -8,13 +8,13 @@ export const AmazeUI = {
   github: 'https://github.com/amazeui/amazeui',
   icons: {
     name: 'Font Awesome',
-    url: 'http://fontawesome.io/'
+    url: 'http://fontawesome.io/',
   },
   version: '2.7.2',
   css: 'LESS',
   js: 'http://amazeui.github.io/docs/en/javascript/',
   stats: {
     stars: '10K+',
-    forks: '2.3K+'
-  }
+    forks: '2.3K+',
+  },
 };

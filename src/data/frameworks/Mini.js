@@ -11,6 +11,6 @@ export const Mini = {
   js: false,
   stats: {
     stars: '1.8K+',
-    forks: '60+'
-  }
+    forks: '60+',
+  },
 };
