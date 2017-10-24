@@ -11,20 +11,28 @@ import data from '../../data/index';
 import config from '../../config';
 
 class App extends Component {
-  state = {
-    frameworks: data.frameworks,
-    visible: new Collection(config.defaultSelected),
-    menuOpened: false
-  };
-
   constructor(props) {
     super(props);
     this.history = createHistory();
+    this.state = {
+      frameworks: data.frameworks,
+      visible: new Collection(config.defaultSelected),
+      menuOpened: false
+    };
   }
 
   componentWillMount() {
-    const { search } = this.history.location;
+    this.setStateFromUrlParams();
 
+    this.history.listen(({ state }) => {
+      this.setState({
+        visible: new Collection(state.frameworks)
+      });
+    });
+  }
+
+  setStateFromUrlParams = () => {
+    const { search } = this.history.location;
     if (search && search.indexOf('?compare=') > -1) {
       let frameworks = search.replace('?compare=', '').split(',');
       frameworks = !frameworks[0].length ? config.defaultSelected : frameworks;
@@ -32,17 +40,7 @@ class App extends Component {
         visible: new Collection(frameworks)
       });
     }
-
-    this.removeHistoryListener = this.history.listen(location => {
-      this.setState({
-        visible: new Collection(location.state.frameworks)
-      });
-    });
-  }
-
-  componentWillUnmount() {
-    this.removeHistoryListener();
-  }
+  };
 
   onFrameworkSelect = framework => {
     const { visible } = this.state;
@@ -66,10 +64,9 @@ class App extends Component {
   };
 
   onNavToggle = e => {
-    this.setState({
-      menuOpened: !this.state.menuOpened
-    });
-
+    this.setState(prevState => ({
+      menuOpened: !prevState.menuOpened
+    }));
     e.preventDefault();
   };
 
