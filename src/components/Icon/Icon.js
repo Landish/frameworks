@@ -1,11 +1,7 @@
 import React, { PureComponent } from 'react';
-import { string } from 'prop-types';
+import PropTypes from 'prop-types';
 
 class Icon extends PureComponent {
-  static propTypes = {
-    name: string.isRequired
-  };
-
   render() {
     return (
       <span className="icon is-small">
@@ -14,5 +10,9 @@ class Icon extends PureComponent {
     );
   }
 }
+
+Icon.propTypes = {
+  name: PropTypes.string.isRequired
+};
 
 export default Icon;

@@ -1,5 +1,5 @@
 import React from 'react';
-import { array, func, number, instanceOf } from 'prop-types';
+import PropTypes from 'prop-types';
 import SelectButton from '../SelectButton';
 import Collection from '../../core/Collection';
 
@@ -32,11 +32,11 @@ const Chooser = ({ frameworks, minimum, maximum, visible, onFrameworkSelect }) =
 };
 
 Chooser.propTypes = {
-  frameworks: array.isRequired,
-  visible: instanceOf(Collection).isRequired,
-  onFrameworkSelect: func.isRequired,
-  minimum: number,
-  maximum: number
+  frameworks: PropTypes.array.isRequired,
+  visible: PropTypes.instanceOf(Collection).isRequired,
+  onFrameworkSelect: PropTypes.func.isRequired,
+  minimum: PropTypes.number,
+  maximum: PropTypes.number
 };
 
 Chooser.defaultProps = {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { func, bool } from 'prop-types';
+import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Icon from '../Icon';
 import Link from '../Link';
@@ -47,8 +47,8 @@ const Navbar = ({ onNavToggle, isMenuOpened }) => {
 };
 
 Navbar.propTypes = {
-  onNavToggle: func.isRequired,
-  isMenuOpened: bool
+  onNavToggle: PropTypes.func.isRequired,
+  isMenuOpened: PropTypes.bool
 };
 
 Navbar.defaultProps = {

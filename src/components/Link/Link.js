@@ -1,16 +1,8 @@
 import React, { PureComponent } from 'react';
-import { string, node } from 'prop-types';
+import PropTypes from 'prop-types';
 import classnames from 'classnames';
 
 class Link extends PureComponent {
-  static propTypes = {
-    url: string.isRequired,
-    text: string,
-    className: string,
-    children: node,
-    tooltip: string
-  };
-
   render() {
     return (
       <a
@@ -26,5 +18,13 @@ class Link extends PureComponent {
     );
   }
 }
+
+Link.propTypes = {
+  url: PropTypes.string.isRequired,
+  text: PropTypes.string,
+  className: PropTypes.string,
+  children: PropTypes.node,
+  tooltip: PropTypes.string
+};
 
 export default Link;

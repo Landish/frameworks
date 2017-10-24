@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import { shape, string, func, bool } from 'prop-types';
+import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Icon from '../Icon';
 
@@ -14,21 +14,6 @@ class SelectButton extends PureComponent {
       'check-square': this.props.isSelected,
       square: !this.props.isSelected
     });
-
-  static propTypes = {
-    framework: shape({
-      slug: string.isRequired,
-      name: string.isRequired
-    }),
-    onClick: func.isRequired,
-    isNew: bool.isRequired,
-    isSelected: bool.isRequired
-  };
-
-  static defaultProps = {
-    isNew: false,
-    isSelected: false
-  };
 
   render() {
     return (
@@ -47,5 +32,20 @@ class SelectButton extends PureComponent {
     );
   }
 }
+
+SelectButton.propTypes = {
+  framework: PropTypes.shape({
+    slug: PropTypes.string.isRequired,
+    name: PropTypes.string.isRequired
+  }),
+  onClick: PropTypes.func.isRequired,
+  isNew: PropTypes.bool.isRequired,
+  isSelected: PropTypes.bool.isRequired
+};
+
+SelectButton.defaultProps = {
+  isNew: false,
+  isSelected: false
+};
 
 export default SelectButton;
